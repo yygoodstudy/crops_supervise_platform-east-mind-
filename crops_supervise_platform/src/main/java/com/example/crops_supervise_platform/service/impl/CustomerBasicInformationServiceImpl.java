@@ -39,8 +39,8 @@ public class CustomerBasicInformationServiceImpl implements CustomerBasicInforma
     }
 
     @Override
-    public List<CustomerBasicInformation> listCustomerBasicInformation(String regulatoryStatus, String deliveryState, String farmerName,String bank,String damageStatus) {
-        return mapper.listCustomerBasicInformation(regulatoryStatus, deliveryState, farmerName,bank,damageStatus);
+    public List<CustomerBasicInformation> listCustomerBasicInformation(String regulatoryStatus, String deliveryState, String farmerName, String bank, String damageStatus) {
+        return mapper.listCustomerBasicInformation(regulatoryStatus, deliveryState, farmerName, bank, damageStatus);
     }
 
     @Override
