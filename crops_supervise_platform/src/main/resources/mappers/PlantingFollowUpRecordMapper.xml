@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.example.crops_supervise_platform.dao.PlantingFollowUpRecordMapper">
+    <!--查询所有种植跟进记录信息-->
+    <select id="listPlantingFollowUpRecord" resultType="plantingFollowUpRecord">
+        select *
+        from t_planting_followup_record
+        where farmer_name = #{farmerName}
+    </select>
+</mapper>

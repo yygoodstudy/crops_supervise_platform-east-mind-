@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.example.crops_supervise_platform.dao.CustomerBasicInformationMapper">
+    <resultMap id="infoResultMap" type="customerBasicInformation">
+        <id column="id" property="id"/>
+        <result column="farmer_name" property="farmerName"/>
+        <result column="phone" property="phone"/>
+        <result column="bank" property="bank"/>
+        <result column="loan_amount" property="loanAmount"/>
+        <result column="per_mu_amount" property="perMuAmount"/>
+        <result column="cultivated_mus" property="cultivatedMus"/>
+        <result column="plant_item_species" property="plantItemSpecies"/>
+        <result column="insured_amount" property="insuredAmount"/>
+        <result column="estimated" property="estimated" jdbcType="DOUBLE" javaType="java.lang.Double"/>
+        <result column="about_income" property="aboutIncome"/>
+        <result column="real_income" property="realIncome"/>
+        <result column="delivery_quantity" property="deliveryQuantity"/>
+        <result column="repaid_amount" property="repaidAmount"/>
+        <result column="regulatory_status" property="regulatoryStatus"/>
+        <result column="delivery_state" property="deliveryState"/>
+    </resultMap>
+
+    <select id="getCountByDeliveryState" resultType="int">
+        select count(*)
+        from t_customer_basic_information
+        where delivery_state = #{deliveryState}
+    </select>
+
+    <select id="getDeliveryQuantity" resultType="double">
+        select sum(delivery_quantity)
+        from t_customer_basic_information
+        where delivery_state = #{deliveryState}
+    </select>
+
+    <!-- 统计已交货的还款金额 -->
+    <select id="getAmountByDeliveryState" resultType="double">
+        select sum(repaid_amount)
+        from t_customer_basic_information
+        where delivery_state = #{deliveryState}
+    </select>
+
+    <select id="getNoRepaidAmount" resultType="double">
+        SELECT SUM(loan_amount)
+        FROM `t_customer_basic_information`
+        WHERE delivery_state = '未交货'
+    </select>
+
+    <!-- 查询所有监管客户的基础信息-->
+    <select id="findCustomerInfoByName" resultMap="infoResultMap">
+        select *
+        from t_customer_basic_information
+        where farmer_name = #{farmerName}
+    </select>
+
+    <!--条件查询监管客户基础信息-->
+    <select id="listCustomerBasicInformation" resultMap="infoResultMap">
+        select *
+        from t_customer_basic_information
+        <where>
+            <if test="regulatoryStatus != null and regulatoryStatus !=''">
+                regulatory_status = #{regulatoryStatus}
+            </if>
+            <if test="deliveryState != null and deliveryState != ''">
+                and delivery_state = #{deliveryState}
+            </if>
+            <if test="farmerName != null and farmerName !=''">
+                and farmer_name like concat('%',#{farmerName},'%')
+            </if>
+            <if test="bank != null and bank !=''">
+                and bank like concat('%',#{bank},'%')
+            </if>
+            <choose>
+                <when test='damageStatus != null and damageStatus != "" and damageStatus == "受灾"'>
+                    and farmer_name in (SELECT farmer_name FROM t_damage_compensate_record GROUP BY farmer_name)
+                </when>
+                <when test='damageStatus != null and damageStatus != "" and damageStatus == "未受灾"'>
+                    and farmer_name not in(SELECT farmer_name FROM t_damage_compensate_record GROUP BY farmer_name)
+                </when>
+            </choose>
+        </where>
+    </select>
+
+    <!--统计累计监管笔数-->
+    <select id="countByRegulatoryStatusInt" resultType="int">
+        SELECT COUNT(*)
+        FROM t_customer_basic_information
+        WHERE regulatory_status = '监管中'
+    </select>
+
+    <!--统计累计监管亩数-->
+    <select id="sumCultivatedMus" resultType="int">
+        select sum(cultivated_mus)
+        from t_customer_basic_information
+        where regulatory_status = '监管中'
+    </select>
+
+    <select id="listByBank" resultType="string">
+        select bank from t_customer_basic_information group by bank;
+    </select>
+</mapper>

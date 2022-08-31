@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.example.crops_supervise_platform.dao.DamageCompensateRecordMapper">
+
+    <!--  统计受灾理赔记录表中受灾监管笔数，相同受灾种植户计算一次-->
+    <select id="getCountDamageRecord" resultType="int">
+        select count(distinct farmer_name)
+        from t_damage_compensate_record
+    </select>
+
+    <!-- 统计受灾理赔记录表中受灾监管养殖户对应受灾亩数总和，重复受灾仅统计一次&#45;&#45;待优化-->
+    <select id="getDamageMu" resultType="int">
+        select sum(damage_mu)
+        from t_damage_compensate_record
+    </select>
+
+    <!-- 累计理赔金额-->
+    <select id="getTotalCompensateAmount" resultType="double">
+        select sum(compensate_amount)
+        from t_damage_compensate_record
+    </select>
+
+    <select id="listDamageCompensateRecord" resultType="damageCompensateRecord">
+        select *
+        from t_damage_compensate_record
+        where farmer_name = #{farmerName}
+    </select>
+</mapper>
