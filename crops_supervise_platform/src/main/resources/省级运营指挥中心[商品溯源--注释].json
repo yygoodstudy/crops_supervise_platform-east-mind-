@@ -1,0 +1,596 @@
+{
+  "userList": {
+    "code": 200,
+    "message": "42361FCADD47C3DB570A7FD2D73B6895E01C549634402A65EE5DE8FE29BA99ECCB106665D223C1E7CFF0B60E07C20899",
+    "data": [{
+      "nick": "Q",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83eoYmFGzarQezciblKDQibFYS750CdCkQtApZn2w3pUO31gD5x0hTrhgHSeRR3GxfkZniaAl7ElWtBmPg/132",
+      "date": "2022-08-11 10:44:18",
+      "address": "",
+      "lng": "",
+      "lat": ""
+    }, {
+      "nick": "傅恒ᕱ",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIhvibxHDOlc5ibZMZJ0oKvAcF7ryvmaNMiap7MDAQB8uOTYwcyMRQ7DSnThCc9uhYWPl3ULIUxMSZ7Q/132",
+      "date": "2022-08-11 09:09:51",
+      "address": "",
+      "lng": "",
+      "lat": ""
+    }, {
+      "nick": null,
+      "head": null,
+      "date": "2022-08-11 09:09:32",
+      "address": "",
+      "lng": "",
+      "lat": ""
+    }, {
+      "nick": "傅恒ᕱ",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIhvibxHDOlc5ibZMZJ0oKvAcF7ryvmaNMiap7MDAQB8uOTYwcyMRQ7DSnThCc9uhYWPl3ULIUxMSZ7Q/132",
+      "date": "2022-08-11 09:08:15",
+      "address": "",
+      "lng": "",
+      "lat": ""
+    }, {
+      "nick": "谢永军",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIYIAkP3iaQzqicIoz6gmYPc9kevTiaJKicqJQP4QS61cia1QrKteZTW9LywvTmibLbz5vxcBW17uuiatIAw/132",
+      "date": "2022-08-01 13:37:01",
+      "address": "",
+      "lng": "",
+      "lat": ""
+    }, {
+      "nick": "Q",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83eoYmFGzarQezciblKDQibFYS750CdCkQtApZn2w3pUO31gD5x0hTrhgHSeRR3GxfkZniaAl7ElWtBmPg/132",
+      "date": "2022-08-01 13:34:03",
+      "address": "",
+      "lng": "",
+      "lat": ""
+    }, {
+      "nick": "Q",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83eoYmFGzarQezciblKDQibFYS750CdCkQtApZn2w3pUO31gD5x0hTrhgHSeRR3GxfkZniaAl7ElWtBmPg/132",
+      "date": "2022-08-01 13:32:55",
+      "address": "",
+      "lng": "",
+      "lat": ""
+    }, {
+      "nick": "Q",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83eoYmFGzarQezciblKDQibFYS750CdCkQtApZn2w3pUO31gD5x0hTrhgHSeRR3GxfkZniaAl7ElWtBmPg/132",
+      "date": "2022-08-01 11:52:43",
+      "address": "北京市通州区西关大街47号",
+      "lng": "116.64813295848",
+      "lat": "39.912129662315"
+    }, {
+      "nick": "傅恒ᕱ",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIhvibxHDOlc5ibZMZJ0oKvAcF7ryvmaNMiap7MDAQB8uOTYwcyMRQ7DSnThCc9uhYWPl3ULIUxMSZ7Q/132",
+      "date": "2022-08-01 11:51:08",
+      "address": "",
+      "lng": "",
+      "lat": ""
+    }, {
+      "nick": "傅恒ᕱ",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIhvibxHDOlc5ibZMZJ0oKvAcF7ryvmaNMiap7MDAQB8uOTYwcyMRQ7DSnThCc9uhYWPl3ULIUxMSZ7Q/132",
+      "date": "2022-08-01 11:50:33",
+      "address": "",
+      "lng": "",
+      "lat": ""
+    }, {
+      "nick": "傅恒ᕱ",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIhvibxHDOlc5ibZMZJ0oKvAcF7ryvmaNMiap7MDAQB8uOTYwcyMRQ7DSnThCc9uhYWPl3ULIUxMSZ7Q/132",
+      "date": "2022-08-01 11:41:31",
+      "address": "",
+      "lng": "",
+      "lat": ""
+    }, {
+      "nick": "傅恒ᕱ",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIhvibxHDOlc5ibZMZJ0oKvAcF7ryvmaNMiap7MDAQB8uOTYwcyMRQ7DSnThCc9uhYWPl3ULIUxMSZ7Q/132",
+      "date": "2022-08-01 11:41:05",
+      "address": "",
+      "lng": "",
+      "lat": ""
+    }, {
+      "nick": "傅恒",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIhvibxHDOlc5ibZMZJ0oKvAcF7ryvmaNMiap7MDAQB8uOTYwcyMRQ7DSnThCc9uhYWPl3ULIUxMSZ7Q/132",
+      "date": "2022-04-08 13:55:31",
+      "address": "北京市通州区西关大街47号",
+      "lng": "116.64813295848",
+      "lat": "39.912129662315"
+    }, {
+      "nick": "傅恒",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIhvibxHDOlc5ibZMZJ0oKvAcF7ryvmaNMiap7MDAQB8uOTYwcyMRQ7DSnThCc9uhYWPl3ULIUxMSZ7Q/132",
+      "date": "2022-04-08 13:54:29",
+      "address": "北京市通州区西关大街47号",
+      "lng": "116.64813295848",
+      "lat": "39.912129662315"
+    }, {
+      "nick": "傅恒",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIhvibxHDOlc5ibZMZJ0oKvAcF7ryvmaNMiap7MDAQB8uOTYwcyMRQ7DSnThCc9uhYWPl3ULIUxMSZ7Q/132",
+      "date": "2022-04-08 13:53:05",
+      "address": "北京市通州区西关大街47号",
+      "lng": "116.64813295848",
+      "lat": "39.912129662315"
+    }, {
+      "nick": "傅恒",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIhvibxHDOlc5ibZMZJ0oKvAcF7ryvmaNMiap7MDAQB8uOTYwcyMRQ7DSnThCc9uhYWPl3ULIUxMSZ7Q/132",
+      "date": "2022-04-08 13:50:58",
+      "address": "北京市通州区西关大街47号",
+      "lng": "116.64818234357",
+      "lat": "39.912144764218"
+    }, {
+      "nick": "傅恒",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIhvibxHDOlc5ibZMZJ0oKvAcF7ryvmaNMiap7MDAQB8uOTYwcyMRQ7DSnThCc9uhYWPl3ULIUxMSZ7Q/132",
+      "date": "2022-04-07 14:01:06",
+      "address": "北京市通州区西关大街47号",
+      "lng": "116.64815793496",
+      "lat": "39.912123925296"
+    }, {
+      "nick": "傅恒",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIhvibxHDOlc5ibZMZJ0oKvAcF7ryvmaNMiap7MDAQB8uOTYwcyMRQ7DSnThCc9uhYWPl3ULIUxMSZ7Q/132",
+      "date": "2022-04-07 12:04:24",
+      "address": "北京市通州区西关大街47号",
+      "lng": "116.64814518183",
+      "lat": "39.91211987926"
+    }, {
+      "nick": "傅恒",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIhvibxHDOlc5ibZMZJ0oKvAcF7ryvmaNMiap7MDAQB8uOTYwcyMRQ7DSnThCc9uhYWPl3ULIUxMSZ7Q/132",
+      "date": "2022-04-07 10:57:15",
+      "address": "北京市通州区西关大街47号",
+      "lng": "116.64813703833",
+      "lat": "39.912120706542"
+    }, {
+      "nick": "傅恒",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIhvibxHDOlc5ibZMZJ0oKvAcF7ryvmaNMiap7MDAQB8uOTYwcyMRQ7DSnThCc9uhYWPl3ULIUxMSZ7Q/132",
+      "date": "2022-04-06 18:15:30",
+      "address": "北京市通州区西关大街47号",
+      "lng": "116.64816440751",
+      "lat": "39.912167845272"
+    }, {
+      "nick": "羞、",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/Jxsl6etQSEp0yQ87DXxPWAvmOGKcdV8DTvX17r8zyrjarugN5FzIY3CVuRe3m2B9Wegl5wqW6Q7icjfBBwLJAiaw/132",
+      "date": "2022-04-06 14:44:49",
+      "address": "内蒙古自治区锡林郭勒盟锡林浩特市多伦路",
+      "lng": "116.05096631253",
+      "lat": "43.931798841434"
+    }, {
+      "nick": "羞、",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/Jxsl6etQSEp0yQ87DXxPWAvmOGKcdV8DTvX17r8zyrjarugN5FzIY3CVuRe3m2B9Wegl5wqW6Q7icjfBBwLJAiaw/132",
+      "date": "2022-04-06 14:44:05",
+      "address": "内蒙古自治区锡林郭勒盟锡林浩特市多伦路",
+      "lng": "116.05096631253",
+      "lat": "43.931798841434"
+    }, {
+      "nick": "傅恒",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIhvibxHDOlc5ibZMZJ0oKvAcF7ryvmaNMiap7MDAQB8uOTYwcyMRQ7DSnThCc9uhYWPl3ULIUxMSZ7Q/132",
+      "date": "2022-04-06 11:53:58",
+      "address": "",
+      "lng": "",
+      "lat": ""
+    }, {
+      "nick": "傅恒",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIhvibxHDOlc5ibZMZJ0oKvAcF7ryvmaNMiap7MDAQB8uOTYwcyMRQ7DSnThCc9uhYWPl3ULIUxMSZ7Q/132",
+      "date": "2022-04-06 11:53:01",
+      "address": "北京市通州区西关大街47号",
+      "lng": "116.64814409897",
+      "lat": "39.912116898121"
+    }, {
+      "nick": "Mr.赵",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/ENdTX5jlkRdxBqicekicVEv9ialPt5No0w3c2rFAxjP49uWm0lPicUyIt170w94pfjwTTf0bMph1HMk13YJe04icZeg/132",
+      "date": "2022-04-06 11:28:16",
+      "address": "北京市东城区正义路2号",
+      "lng": "116.4133837",
+      "lat": "39.91092455"
+    }, {
+      "nick": "木易",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epeiaBa4BwckM84Bbx4xU946cUWloWZHNA4ha660PcBospR33JxHgqFLzt2IqbIZUx4eMH0smOJ8bg/132",
+      "date": "2022-04-06 11:27:55",
+      "address": "",
+      "lng": "",
+      "lat": ""
+    }, {
+      "nick": "木易",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epeiaBa4BwckM84Bbx4xU946cUWloWZHNA4ha660PcBospR33JxHgqFLzt2IqbIZUx4eMH0smOJ8bg/132",
+      "date": "2022-04-06 11:27:45",
+      "address": "北京市通州区西关大街47号",
+      "lng": "116.64820856593",
+      "lat": "39.911970892847"
+    }, {
+      "nick": "木易",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epeiaBa4BwckM84Bbx4xU946cUWloWZHNA4ha660PcBospR33JxHgqFLzt2IqbIZUx4eMH0smOJ8bg/132",
+      "date": "2022-04-06 11:27:42",
+      "address": "",
+      "lng": "",
+      "lat": ""
+    }, {
+      "nick": "Mr.赵",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/ENdTX5jlkRdxBqicekicVEv9ialPt5No0w3c2rFAxjP49uWm0lPicUyIt170w94pfjwTTf0bMph1HMk13YJe04icZeg/132",
+      "date": "2022-04-06 11:27:24",
+      "address": "北京市东城区正义路2号",
+      "lng": "116.4133837",
+      "lat": "39.91092455"
+    }, {
+      "nick": "木易",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epeiaBa4BwckM84Bbx4xU946cUWloWZHNA4ha660PcBospR33JxHgqFLzt2IqbIZUx4eMH0smOJ8bg/132",
+      "date": "2022-04-06 11:27:24",
+      "address": "北京市东城区正义路2号",
+      "lng": "116.4133837",
+      "lat": "39.91092455"
+    }, {
+      "nick": "木易",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epeiaBa4BwckM84Bbx4xU946cUWloWZHNA4ha660PcBospR33JxHgqFLzt2IqbIZUx4eMH0smOJ8bg/132",
+      "date": "2022-04-06 11:27:19",
+      "address": "",
+      "lng": "",
+      "lat": ""
+    }, {
+      "nick": "Mr.赵",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/ENdTX5jlkRdxBqicekicVEv9ialPt5No0w3c2rFAxjP49uWm0lPicUyIt170w94pfjwTTf0bMph1HMk13YJe04icZeg/132",
+      "date": "2022-04-06 11:27:04",
+      "address": "北京市东城区正义路2号",
+      "lng": "116.4133837",
+      "lat": "39.91092455"
+    }, {
+      "nick": "木易",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/DYAIOgq83epeiaBa4BwckM84Bbx4xU946cUWloWZHNA4ha660PcBospR33JxHgqFLzt2IqbIZUx4eMH0smOJ8bg/132",
+      "date": "2022-04-06 11:26:50",
+      "address": "",
+      "lng": "",
+      "lat": ""
+    }, {
+      "nick": "傅恒",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIhvibxHDOlc5ibZMZJ0oKvAcF7ryvmaNMiap7MDAQB8uOTYwcyMRQ7DSnThCc9uhYWPl3ULIUxMSZ7Q/132",
+      "date": "2022-04-06 11:26:35",
+      "address": "",
+      "lng": "",
+      "lat": ""
+    }, {
+      "nick": "傅恒",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIhvibxHDOlc5ibZMZJ0oKvAcF7ryvmaNMiap7MDAQB8uOTYwcyMRQ7DSnThCc9uhYWPl3ULIUxMSZ7Q/132",
+      "date": "2022-04-06 11:26:11",
+      "address": "北京市通州区西关大街47号",
+      "lng": "116.64811208081",
+      "lat": "39.912106646955"
+    }, {
+      "nick": "Mr.赵",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/ENdTX5jlkRdxBqicekicVEv9ialPt5No0w3c2rFAxjP49uWm0lPicUyIt170w94pfjwTTf0bMph1HMk13YJe04icZeg/132",
+      "date": "2022-04-06 11:26:10",
+      "address": "北京市东城区正义路2号",
+      "lng": "116.4133837",
+      "lat": "39.91092455"
+    }, {
+      "nick": "汐怼怼咚怼怼",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wupSBMEBt5zIpP6SDaArXGocod7ribr0FoPrqfggAbYmFxXFXGqiasib9nTsP4ibUG8iazuxpCRusRsECg/132",
+      "date": "2022-04-06 11:26:05",
+      "address": "北京市通州区西关大街47号",
+      "lng": "116.64816215169",
+      "lat": "39.911970973135"
+    }, {
+      "nick": "Mr.赵",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/ENdTX5jlkRdxBqicekicVEv9ialPt5No0w3c2rFAxjP49uWm0lPicUyIt170w94pfjwTTf0bMph1HMk13YJe04icZeg/132",
+      "date": "2022-04-06 11:25:48",
+      "address": "北京市东城区正义路2号",
+      "lng": "116.4133837",
+      "lat": "39.91092455"
+    }, {
+      "nick": "汐怼怼咚怼怼",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wupSBMEBt5zIpP6SDaArXGocod7ribr0FoPrqfggAbYmFxXFXGqiasib9nTsP4ibUG8iazuxpCRusRsECg/132",
+      "date": "2022-04-06 11:25:37",
+      "address": "北京市通州区西关大街47号",
+      "lng": "116.64816215169",
+      "lat": "39.911970973135"
+    }, {
+      "nick": "汐怼怼咚怼怼",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/4cjgCtJ67wupSBMEBt5zIpP6SDaArXGocod7ribr0FoPrqfggAbYmFxXFXGqiasib9nTsP4ibUG8iazuxpCRusRsECg/132",
+      "date": "2022-04-06 11:24:57",
+      "address": "北京市通州区西关大街47号",
+      "lng": "116.64816215169",
+      "lat": "39.911970973135"
+    }, {
+      "nick": "Mr.赵",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/ENdTX5jlkRdxBqicekicVEv9ialPt5No0w3c2rFAxjP49uWm0lPicUyIt170w94pfjwTTf0bMph1HMk13YJe04icZeg/132",
+      "date": "2022-04-06 11:24:56",
+      "address": "北京市东城区正义路2号",
+      "lng": "116.4133837",
+      "lat": "39.91092455"
+    }, {
+      "nick": "傅恒",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIhvibxHDOlc5ibZMZJ0oKvAcF7ryvmaNMiap7MDAQB8uOTYwcyMRQ7DSnThCc9uhYWPl3ULIUxMSZ7Q/132",
+      "date": "2022-04-06 11:24:46",
+      "address": "",
+      "lng": "",
+      "lat": ""
+    }, {
+      "nick": "傅恒",
+      "head": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIhvibxHDOlc5ibZMZJ0oKvAcF7ryvmaNMiap7MDAQB8uOTYwcyMRQ7DSnThCc9uhYWPl3ULIUxMSZ7Q/132",
+      "date": "2022-04-06 11:24:46",
+      "address": "北京市通州区西关大街47号",
+      "lng": "116.64811208081",
+      "lat": "39.912106646955"
+    }]
+  },
+  "dataInfo":{
+    "code": 200,
+    "message": "42361FCADD47C3DB570A7FD2D73B6895E01C549634402A65EE5DE8FE29BA99ECCB106665D223C1E7CFF0B60E07C20899",
+    "data": {
+      "total": 150,
+      "used": 2,
+      "product": 2,
+      "ratio": 1,
+      "lineCooedMap": {"锡林浩特市":[116.095539,43.888379],"北京市":[116.4133836971231,39.910924547299565],"上海市":[121.48053886017651,31.235929042252015]},
+      "lineMapData": [[{"name":"锡林浩特市"},{"name":"锡林浩特市"}],[{"name":"锡林浩特市"},{"name":"北京市"}],[{"name":"锡林浩特市"},{"name":"上海市"}]],
+      "hotMapData": [
+        {"lng": 116.418261, "lat": 39.921984, "count": 1000},
+        {"lng": 116.418261, "lat": 39.921984, "count": 50},
+        {"lng": 116.423332, "lat": 39.916532, "count": 51},
+        {"lng": 117.419787, "lat": 39.930658, "count": 15},
+        {"lng": 116.449787, "lat": 39.930658, "count": 15},
+        {"lng": 116.519787, "lat": 39.930658, "count": 15},
+        {"lng": 116.219787, "lat": 39.930658, "count": 15},
+        {"lng": 116.119787, "lat": 39.930658, "count": 15}
+      ]
+    }
+  },
+  "chartInfo": {
+    "code": 200,
+    "message": "2AD807BCB7909BD8EF621886EC66A69C",
+    "data": [{
+      "name": "出生",
+      "icon": "http://yj.east-mind.com:8097/lib/icon/001.png",
+      "img": "http://yj.east-mind.com:8097/lib/img/20220412141911.jpg",
+      "type": 1,
+      "data": [{
+        "name": "出生日期",
+        "value": "2021-03-09"
+      }, {
+        "name": "耳标",
+        "value": "A10003"
+      }, {
+        "name": "性别",
+        "value": "雌性"
+      }, {
+        "name": "种类",
+        "value": "苏尼特羊"
+      }, {
+        "name": "父亲耳标",
+        "value": "F12033"
+      }, {
+        "name": "父亲品种",
+        "value": "苏尼特羊"
+      }, {
+        "name": "母亲耳标",
+        "value": "1609982"
+      }, {
+        "name": "母亲品种",
+        "value": "苏尼特羊"
+      }]
+    }, {
+      "name": "首次免疫",
+      "icon": "http://yj.east-mind.com:8097/lib/icon/002.png",
+      "type": 1,
+      "data": [{
+        "name": "接种日期",
+        "value": "2021-03-10"
+      }, {
+        "name": "疫苗名称",
+        "value": "口蹄疫疫苗"
+      }, {
+        "name": "剂量",
+        "value": "40ml"
+      }, {
+        "name": "疫苗厂家",
+        "value": "注射"
+      }, {
+        "name": "疫苗批次",
+        "value": "20210218009923"
+      }, {
+        "name": "兽医",
+        "value": "巴特尔"
+      }]
+    }, {
+      "name": "剪毛",
+      "icon": "http://yj.east-mind.com:8097/lib/icon/003.png",
+      "type": 1,
+      "data": [{
+        "name": "剪毛日期",
+        "value": "2021-09-10"
+      }]
+    }, {
+      "name": "首次治病",
+      "icon": "http://yj.east-mind.com:8097/lib/icon/004.png",
+      "type": 1,
+      "data": [{
+        "name": "治病日期",
+        "value": "2021-09-14"
+      }, {
+        "name": "疾病类型",
+        "value": "破伤风"
+      }, {
+        "name": "并发症状",
+        "value": "腿部伤口感染"
+      }, {
+        "name": "发病原因",
+        "value": "腿部受伤久未处理导致感染"
+      }, {
+        "name": "治疗方案",
+        "value": "表皮消毒，注射破伤风针"
+      }, {
+        "name": "治病结果",
+        "value": "三日后，感染部位痊愈合"
+      }, {
+        "name": "兽医",
+        "value": "巴特尔"
+      }]
+    }, {
+      "name": "除跳蚤/细菌",
+      "icon": "http://yj.east-mind.com:8097/lib/icon/005.png",
+      "type": 1,
+      "data": [{
+        "name": "日期",
+        "value": "2021-09-20"
+      }]
+    }, {
+      "name": "入厂",
+      "icon": "http://yj.east-mind.com:8097/lib/icon/006.png",
+      "type": 2,
+      "data": [{
+        "name": "入厂时间",
+        "value": "2021.10.23 10:10:10"
+      }, {
+        "name": "耳标",
+        "value": "A10003"
+      }, {
+        "name": "收购企业",
+        "value": "内蒙古额尔顿牧业有限公司"
+      }, {
+        "name": "收购地址",
+        "value": "内蒙古自治区-锡林郭勒盟-锡林浩特市-伊利勒特街与北环路交叉口西150米"
+      }]
+    }, {
+      "name": "动检报告",
+      "icon": "http://yj.east-mind.com:8097/lib/icon/007.png",
+      "type": 2,
+      "data": [{
+        "name": "检疫日期",
+        "value": "2021-10-20"
+      }]
+    }, {
+      "name": "屠宰",
+      "icon": "http://yj.east-mind.com:8097/lib/icon/008.png",
+      "type": 2,
+      "data": [{
+        "name": "屠宰日期",
+        "value": "2021-12-20"
+      }, {
+        "name": "屠宰人",
+        "value": "哈斯宝力道"
+      }]
+    }, {
+      "name": "宰中检验",
+      "icon": "http://yj.east-mind.com:8097/lib/icon/009.png",
+      "type": 2,
+      "data": [{
+        "name": "检验日期",
+        "value": "2021-12-20 12:50"
+      }, {
+        "name": "操作人",
+        "value": "朝鲁门"
+      }]
+    }, {
+      "name": "检斤称重",
+      "icon": "http://yj.east-mind.com:8097/lib/icon/010.png",
+      "type": 2,
+      "data": [{
+        "name": "检斤时间",
+        "value": "2021-12-20 13:30"
+      }, {
+        "name": "操作人",
+        "value": "雷强"
+      }]
+    }, {
+      "name": "宰后检疫",
+      "icon": "http://yj.east-mind.com:8097/lib/icon/011.png",
+      "type": 2,
+      "data": [{
+        "name": "检疫时间",
+        "value": "2021-12-20 14:00"
+      }, {
+        "name": "操作人",
+        "value": "朝鲁门"
+      }]
+    }, {
+      "name": "排酸",
+      "icon": "http://yj.east-mind.com:8097/lib/icon/012.png",
+      "type": 2,
+      "data": [{
+        "name": "排酸库",
+        "value": "一号排酸库"
+      }, {
+        "name": "开始时间",
+        "value": "2021-12-20 14:00"
+      }, {
+        "name": "结束时间",
+        "value": "2021-12-20 16:00"
+      }, {
+        "name": "排酸温度",
+        "value": "4℃"
+      }, {
+        "name": "操作人",
+        "value": "朝鲁门"
+      }]
+    }, {
+      "name": "分割",
+      "icon": "http://yj.east-mind.com:8097/lib/icon/013.png",
+      "type": 2,
+      "data": [{
+        "name": "分割时间",
+        "value": "2021-12-20 16:00"
+      }, {
+        "name": "操作人",
+        "value": "朝鲁门"
+      }]
+    }, {
+      "name": "急冻",
+      "icon": "http://yj.east-mind.com:8097/lib/icon/014.png",
+      "type": 2,
+      "data": [{
+        "name": "急冻时间",
+        "value": "2021-12-20 17:00"
+      }, {
+        "name": "操作人",
+        "value": "雷强"
+      }]
+    }, {
+      "name": "入库",
+      "icon": "http://yj.east-mind.com:8097/lib/icon/015.png",
+      "type": 2,
+      "data": [{
+        "name": "入库时间",
+        "value": "2021-12-20 19:00"
+      }, {
+        "name": "操作人",
+        "value": "周继峰"
+      }]
+    }, {
+      "name": "分销",
+      "icon": "http://yj.east-mind.com:8097/lib/icon/016.png",
+      "type": 2,
+      "data": [{
+        "name": "下单时间",
+        "value": "2021-12-25 09:00"
+      }, {
+        "name": "业务员",
+        "value": "希吉日"
+      }]
+    }, {
+      "name": "出库",
+      "icon": "http://yj.east-mind.com:8097/lib/icon/017.png",
+      "type": 2,
+      "data": [{
+        "name": "出库时间",
+        "value": "2021-12-25 10:00"
+      }, {
+        "name": "操作人",
+        "value": "周继峰"
+      }]
+    }, {
+      "name": "冷链",
+      "icon": "http://yj.east-mind.com:8097/lib/icon/018.png",
+      "type": 2,
+      "data": [{
+        "name": "装车时间",
+        "value": "2021-12-25 10:30"
+      }, {
+        "name": "司机",
+        "value": "松德尔"
+      }]
+    }, {
+      "name": "门店入库",
+      "icon": "http://yj.east-mind.com:8097/lib/icon/019.png",
+      "type": 0,
+      "data": [{
+        "name": "入库时间",
+        "value": "2021-12-25 17:30"
+      }, {
+        "name": "库管员",
+        "value": "石雪飞"
+      }]
+    }]
+  }
+}

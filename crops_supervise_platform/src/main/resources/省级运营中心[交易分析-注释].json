@@ -1,0 +1,238 @@
+{
+  "tradeArealDistribution": 2568.2, // 交易地域分布
+  "totalAllAmount": [ // 地图数据
+    {
+      "city": "阿拉善盟",
+      "totalAmount": 84,
+      "liveAnimalTrade": 15,
+      "goodsServiceTrade": 20,
+      "slaughter": 24,
+      "position": [
+        119.75,
+        49.21
+      ]
+    },
+    {
+      "city": "乌海市",
+      "totalAmount": 84,
+      "liveAnimalTrade": 15,
+      "goodsServiceTrade": 20,
+      "slaughter": 24,
+      "position": [
+        119.75,
+        49.21
+      ]
+    },
+    {
+      "city": "巴彦淖尔市",
+      "totalAmount": 84,
+      "liveAnimalTrade": 15,
+      "goodsServiceTrade": 20,
+      "slaughter": 24,
+      "position": [
+        119.75,
+        49.21
+      ]
+    },
+    {
+      "city": "鄂尔多斯市",
+      "totalAmount": 84,
+      "liveAnimalTrade": 15,
+      "goodsServiceTrade": 20,
+      "slaughter": 24,
+      "position": [
+        119.75,
+        49.21
+      ]
+    },
+    {
+      "city": "包头市",
+      "totalAmount": 84,
+      "liveAnimalTrade": 15,
+      "goodsServiceTrade": 20,
+      "slaughter": 24,
+      "position": [
+        119.75,
+        49.21
+      ]
+    },
+    {
+      "city": "呼和浩特市",
+      "totalAmount": 84,
+      "liveAnimalTrade": 15,
+      "goodsServiceTrade": 20,
+      "slaughter": 24,
+      "position": [
+        119.75,
+        49.21
+      ]
+    },
+    {
+      "city": "乌兰察布市",
+      "totalAmount": 84,
+      "liveAnimalTrade": 15,
+      "goodsServiceTrade": 20,
+      "slaughter": 24,
+      "position": [
+        119.75,
+        49.21
+      ]
+    },
+    {
+      "city": "锡林郭勒盟",
+      "totalAmount": 84,
+      "liveAnimalTrade": 15,
+      "goodsServiceTrade": 20,
+      "slaughter": 24,
+      "position": [
+        119.75,
+        49.21
+      ]
+    },
+    {
+      "city": "赤峰市",
+      "totalAmount": 84,
+      "liveAnimalTrade": 15,
+      "goodsServiceTrade": 20,
+      "slaughter": 24,
+      "position": [
+        119.75,
+        49.21
+      ]
+    },
+    {
+      "city": "通辽市",
+      "totalAmount": 84,
+      "liveAnimalTrade": 15,
+      "goodsServiceTrade": 20,
+      "slaughter": 24,
+      "position": [
+        119.75,
+        49.21
+      ]
+    },
+    {
+      "city": "兴安盟",
+      "totalAmount": 84,
+      "liveAnimalTrade": 15,
+      "goodsServiceTrade": 20,
+      "slaughter": 24,
+      "position": [
+        119.75,
+        49.21
+      ]
+    },
+    {
+      "city": "呼伦贝尔市",
+      "totalAmount": 84,
+      "liveAnimalTrade": 15,
+      "goodsServiceTrade": 20,
+      "slaughter": 24,
+      "position": [
+        119.75,
+        49.21
+      ]
+    }
+  ],
+  "purchasePriceTrend": [ // 活畜收购价格趋势
+    {
+      "label": "牛只交易均价(元/KG)",
+      "value": 58,
+      "trend": "16.21%",
+      "flag": 1 // 0表示上升
+    },
+    {
+      "label": "养只交易均价(元/KG)",
+      "value": 42,
+      "trend": "16.21",
+      "flag": 1 // 1：表示下降
+    }
+  ],
+ "tradePrice": [ // 交易价格
+  {
+    "title": "牛只交易均价",
+    "label": ["09-06","09-07","09-08","09-09","09-10","09-11","09-12"],
+    "value": [200,300,700,1000,666,888,300,330]
+  },
+  {
+    "title": "羊只交易均价",
+    "label": ["09-06","09-07","09-08","09-09","09-10","09-11","09-12"],
+    "value": [200,300,700,1000,666,888,300,330]
+  }
+],
+  "liveAnimalTrade": { // 活畜交易--中间部分
+    "tradeMoney": 1403.1, // 交易金额
+    "tradeAmount":10248 // 交易数量
+  },
+  "liveAnimalTradeTrend": [
+    {
+      "kind": "牛",
+      "label": ["22-04","22-05","22-06","22-07","22-08","22-09"],
+      "value": [700,480,1709,501,600,630]
+    },
+    {
+      "kind": "羊",
+      "label": ["22-04","22-05","22-06","22-07","22-08","22-09"],
+      "value": [700,480,1709,501,600,630]
+    },
+    {
+      "kind": "猪",
+      "label": ["22-04","22-05","22-06","22-07","22-08","22-09"],
+      "value": [700,480,1709,501,600,630]
+    },
+    {
+      "kind": "鸡",
+      "label": ["22-04","22-05","22-06","22-07","22-08","22-09"],
+      "value": [700,480,1709,501,600,630]
+    }
+  ],
+  "kindDistribution":[ // 活畜交易品类分布
+    {
+      "label": "种公牛",
+      "value": "30%"
+    },
+    {
+      "label": "基础母牛",
+      "value": "30%"
+    },
+    {
+      "label": "母牛犊",
+      "value": "30%"
+    },
+    {
+      "label": "公牛犊",
+      "value": "30%"
+    }
+  ],
+  "slaughterTrade": { // 活畜屠宰交易
+    "tradeMoney": 1403.1, // 活畜交易金额
+    "cowQuantity": 10248, // 入场牛只数量(头)
+    "sheepQuantity": 10248 // 入场养只数量(只)
+  },
+  "entranceQuantity": [ // 入场数量
+    {
+      "title": "牛",
+      "label": ["09-06","09-07","09-08","09-09","09-10","09-11","09-12"],
+      "value": [700,480,1709,501,600,630]
+    },
+    {
+      "title": "羊",
+      "label": ["09-06","09-07","09-08","09-09","09-10","09-11","09-12"],
+      "value": [700,480,1709,501,600,630]
+    }
+  ],
+  "goodsServiceTrade":  // 商品服务交易
+    {
+      "title": "近七日",
+      "tradeMoney": 1403.1, // 交易金额(万)
+      "tradeOrder": 1056 // 交易订单(单)
+    },
+  "goodsServiceTradeTrend":{ // 商品服务交易
+    "label": ["22-04","22-05","22-06","22-07","22-08","22-09"],
+    "value": [700,480,1709,501,600,630]
+  },
+  "goodsTradeKindDistribution": { // 商品交易品类分布
+    "label":["饲料","草料","预混料","兽药","精饲料","农机"],
+    "value": [250,300,1888,769,1200,476]
+  }
+}

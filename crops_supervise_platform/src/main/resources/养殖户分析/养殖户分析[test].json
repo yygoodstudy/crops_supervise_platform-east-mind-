@@ -1,0 +1,1276 @@
+{
+  "farmerGrowTrend": {
+    "dataMap": {
+      "oneMonth": {
+        "newlyIncrease": 124,
+        "linkRelativeRadio": "16.21%",
+        "flag": 0,
+        "label": [
+          "10-01",
+          "10-02",
+          "10-03",
+          "10-04",
+          "10-05",
+          "10-06",
+          "10-07",
+          "10-08",
+          "10-09",
+          "10-10",
+          "10-11",
+          "10-12",
+          "10-13",
+          "10-14",
+          "10-15",
+          "10-16",
+          "10-17",
+          "10-18",
+          "10-19",
+          "10-20",
+          "10-21",
+          "10-22",
+          "10-23",
+          "10-24",
+          "10-25",
+          "10-26",
+          "10-27",
+          "10-28",
+          "10-29",
+          "10-30",
+          "10-31"
+        ],
+        "value": [
+          2,
+          1,
+          1,
+          6,
+          1,
+          0,
+          2,
+          7,
+          16,
+          8,
+          2,
+          1,
+          0,
+          5,
+          5,
+          4,
+          21,
+          6,
+          4,
+          0,
+          7,
+          9,
+          6,
+          11,
+          4,
+          3,
+          12,
+          3,
+          5,
+          2,
+          1
+        ]
+      },
+      "threeMonth": {
+        "newlyIncrease": 966,
+        "linkRelativeRadio": "48.63%",
+        "flag": 0,
+        "label": [
+          "22-08",
+          "22-09",
+          "22-10"
+        ],
+        "value": [
+          272,
+          200,
+          247
+        ]
+      },
+      "sixMonth": {
+        "newlyIncrease": 1518,
+        "linkRelativeRadio": "58.63%",
+        "flag": 0,
+        "label": [
+          "22-05",
+          "22-06",
+          "22-07",
+          "22-08",
+          "22-09",
+          "22-10"
+        ],
+        "value": [
+          99,
+          377,
+          490,
+          432,
+          50,
+          70
+        ]
+      },
+      "thisYear": {
+        "newlyIncrease": 576,
+        "linkRelativeRadio": "70.63%",
+        "label": [
+          "21-11",
+          "21-12",
+          "22-01",
+          "22-02",
+          "22-03",
+          "22-04",
+          "22-05",
+          "22-06",
+          "22-07",
+          "22-08",
+          "22-09",
+          "22-10"
+        ],
+        "value": [
+          777,
+          888,
+          999,
+          555,
+          1300,
+          111,
+          1100,
+          900,
+          800,
+          1600,
+          999,
+          300
+        ]
+      }
+    }
+  },
+  "farmerKindDis": [
+    {
+      "title": "牧户",
+      "proportion": "13766",
+      "af": "99.19%"
+    },
+    {
+      "title": "个人牧场",
+      "proportion": "100",
+      "af": "0.72%"
+    },
+    {
+      "title": "家庭养殖场",
+      "proportion": "3",
+      "af": "0.02%"
+    },
+    {
+      "title": "大型养殖场",
+      "proportion": "9",
+      "af": "0.07%"
+    }
+  ],
+  "breedingScaleProp": {
+    "label": [
+      "0-10头",
+      "10-50头",
+      "50-100头",
+      "100-300头",
+      "300-500头",
+      "500头以上"
+    ],
+    "value": [
+      0,
+      1210,
+      6513,
+      3662,
+      785,
+      17
+    ]
+  },
+  "farmerAreaDis": {
+    "account": 13878,
+    "proportion": "4.61%",
+    "map": [
+      {
+        "city": "阿拉善盟",
+        "account": 0,
+        "proportion": "0.0%",
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "额济纳旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              101.06,
+              41.95
+            ]
+          },
+          {
+            "city": "阿拉善右旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              101.67,
+              39.22
+            ]
+          },
+          {
+            "city": "阿拉善左旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              105.67,
+              38.83
+            ]
+          }
+        ]
+      },
+      {
+        "city": "乌海市",
+        "account": 0,
+        "proportion": "0.0%",
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "达尔罕茂明安联合旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              110.43,
+              41.7
+            ]
+          },
+          {
+            "city": "白云鄂博矿区",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              109.97,
+              41.77
+            ]
+          },
+          {
+            "city": "固阳县",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              110.06,
+              41.03
+            ]
+          },
+          {
+            "city": "昆都仑区",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              109.84,
+              40.66
+            ]
+          },
+          {
+            "city": "九原区",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              109.97,
+              40.61
+            ]
+          },
+          {
+            "city": "青山区",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              114.39,
+              30.64
+            ]
+          },
+          {
+            "city": "东河区",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              110.04,
+              40.58
+            ]
+          },
+          {
+            "city": "石拐区",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              110.06,
+              40.68
+            ]
+          },
+          {
+            "city": "土默特右旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              110.53,
+              40.58
+            ]
+          }
+        ]
+      },
+      {
+        "city": "巴彦淖尔市",
+        "account": 0,
+        "proportion": "0.0%",
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "乌拉特后旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              106.82,
+              39.69
+            ]
+          },
+          {
+            "city": "磴口县",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              106.73,
+              39.51
+            ]
+          },
+          {
+            "city": "杭锦后旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              106.89,
+              39.44
+            ]
+          },
+          {
+            "city": "临河区",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              106.89,
+              39.44
+            ]
+          },
+          {
+            "city": "五原县",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              106.89,
+              39.44
+            ]
+          },
+          {
+            "city": "乌拉特中旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              106.89,
+              39.44
+            ]
+          },
+          {
+            "city": "乌拉特前旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              106.89,
+              39.44
+            ]
+          }
+        ]
+      },
+      {
+        "city": "鄂尔多斯市",
+        "account": 128,
+        "proportion": "3.90%",
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "鄂托克前旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              107.48,
+              38.18
+            ]
+          },
+          {
+            "city": "鄂托克旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              107.98,
+              39.09
+            ]
+          },
+          {
+            "city": "杭锦旗",
+            "account": 36,
+            "proportion": "76.03%",
+            "position": [
+              108.74,
+              39.83
+            ]
+          },
+          {
+            "city": "乌审旗",
+            "account": 49,
+            "proportion": "76.03%",
+            "position": [
+              108.82,
+              38.6
+            ]
+          },
+          {
+            "city": "伊金霍洛旗",
+            "account": 43,
+            "proportion": "95.00%",
+            "position": [
+              109.75,
+              39.57
+            ]
+          },
+          {
+            "city": "康巴什区",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              109.86,
+              39.61
+            ]
+          },
+          {
+            "city": "东胜区",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              109.96,
+              39.82
+            ]
+          },
+          {
+            "city": "达拉特旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              110.03,
+              40.41
+            ]
+          },
+          {
+            "city": "准格尔旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              111.24,
+              39.86
+            ]
+          }
+        ]
+      },
+      {
+        "city": "包头市",
+        "account": 0,
+        "proportion": "0.0%",
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "乌拉特后旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              106.82,
+              39.69
+            ]
+          },
+          {
+            "city": "磴口县",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              106.73,
+              39.51
+            ]
+          },
+          {
+            "city": "杭锦后旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              106.89,
+              39.44
+            ]
+          },
+          {
+            "city": "临河区",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              106.89,
+              39.44
+            ]
+          },
+          {
+            "city": "五原县",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              106.89,
+              39.44
+            ]
+          },
+          {
+            "city": "乌拉特中旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              106.89,
+              39.44
+            ]
+          },
+          {
+            "city": "乌拉特前旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              106.89,
+              39.44
+            ]
+          }
+        ]
+      },
+      {
+        "city": "呼和浩特市",
+        "account": 0,
+        "proportion": "0.0%",
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "武川县",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              111.45,
+              41.1
+            ]
+          },
+          {
+            "city": "土默特左旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              111.16,
+              40.73
+            ]
+          },
+          {
+            "city": "托克托县",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              111.19,
+              40.28
+            ]
+          },
+          {
+            "city": "清水河县",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              111.65,
+              39.92
+            ]
+          },
+          {
+            "city": "和林格尔县",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              111.82,
+              40.38
+            ]
+          },
+          {
+            "city": "玉泉区",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              111.67,
+              40.75
+            ]
+          },
+          {
+            "city": "赛罕区",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              111.7,
+              40.79
+            ]
+          },
+          {
+            "city": "回民区",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              111.62,
+              40.81
+            ]
+          },
+          {
+            "city": "新城区",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              108.96,
+              34.27
+            ]
+          }
+        ]
+      },
+      {
+        "city": "乌兰察布市",
+        "account": 0,
+        "proportion": "0.0%",
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "四子王旗",
+            "account": 0,
+            "position": [
+              111.71,
+              41.53
+            ]
+          },
+          {
+            "city": "察哈尔右翼中旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              112.64,
+              41.28
+            ]
+          },
+          {
+            "city": "察哈尔右翼后旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              113.19,
+              41.44
+            ]
+          },
+          {
+            "city": "商都县",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              113.58,
+              41.56
+            ]
+          },
+          {
+            "city": "化德县",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              114.01,
+              41.9
+            ]
+          },
+          {
+            "city": "卓资县",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              112.58,
+              40.89
+            ]
+          },
+          {
+            "city": "集宁区",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              113.17,
+              41
+            ]
+          },
+          {
+            "city": "察哈尔右翼前旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              113.21,
+              40.78
+            ]
+          },
+          {
+            "city": "兴和县",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              113.83,
+              40.87
+            ]
+          },
+          {
+            "city": "凉城县",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              112.5,
+              40.53
+            ]
+          },
+          {
+            "city": "丰镇市",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              113.11,
+              40.44
+            ]
+          }
+        ]
+      },
+      {
+        "city": "锡林郭勒盟",
+        "account": 12187,
+        "proportion": "4.90%",
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "二连浩特市",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              111.95,
+              43.64
+            ]
+          },
+          {
+            "city": "苏尼特右旗",
+            "account": 1256,
+            "proportion": "97.36%",
+            "position": [
+              112.64,
+              42.74
+            ]
+          },
+          {
+            "city": "镶黄旗",
+            "account": 763,
+            "proportion": "97.36%",
+            "position": [
+              116.29,
+              40.03
+            ]
+          },
+          {
+            "city": "正镶白旗",
+            "account": 965,
+            "proportion": "97.36%",
+            "position": [
+              115.03,
+              42.29
+            ]
+          },
+          {
+            "city": "太仆寺旗",
+            "account": 570,
+            "proportion": "97.36%",
+            "position": [
+              115.28,
+              41.88
+            ]
+          },
+          {
+            "city": "正蓝旗",
+            "account": 1205,
+            "proportion": "98.50%",
+            "position": [
+              115.99,
+              42.24
+            ]
+          },
+          {
+            "city": "多伦县",
+            "account": 329,
+            "proportion": "97.36%",
+            "position": [
+              116.49,
+              42.2
+            ]
+          },
+          {
+            "city": "苏尼特左旗",
+            "account": 1598,
+            "proportion": "97.36%",
+            "position": [
+              113.67,
+              43.86
+            ]
+          },
+          {
+            "city": "阿巴噶旗",
+            "account": 1052,
+            "proportion": "98.50%",
+            "position": [
+              114.95,
+              44.02
+            ]
+          },
+          {
+            "city": "锡林浩特市",
+            "account": 1728,
+            "proportion": "98.50%",
+            "position": [
+              116.09,
+              43.93
+            ]
+          },
+          {
+            "city": "东乌珠穆沁旗",
+            "account": 1425,
+            "proportion": "98.50%",
+            "position": [
+              116.98,
+              45.5
+            ]
+          },
+          {
+            "city": "西乌珠穆沁旗",
+            "account": 1296,
+            "proportion": "98.50%",
+            "position": [
+              117.61,
+              44.59
+            ]
+          }
+        ]
+      },
+      {
+        "city": "赤峰市",
+        "account": 0,
+        "proportion": "0.0%",
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "克什克腾旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              117.55,
+              43.27
+            ]
+          },
+          {
+            "city": "林西县",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              118.06,
+              43.62
+            ]
+          },
+          {
+            "city": "巴林右旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              118.66,
+              43.53
+            ]
+          },
+          {
+            "city": "巴林左旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              119.36,
+              43.96
+            ]
+          },
+          {
+            "city": "阿鲁科尔沁旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              120.07,
+              43.87
+            ]
+          },
+          {
+            "city": "翁牛特旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              119.01,
+              42.94
+            ]
+          },
+          {
+            "city": "松山区",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              118.92,
+              42.3
+            ]
+          },
+          {
+            "city": "红山区",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              118.95,
+              42.3
+            ]
+          },
+          {
+            "city": "元宝山区",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              119.29,
+              42.04
+            ]
+          },
+          {
+            "city": "喀喇沁旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              118.7,
+              41.93
+            ]
+          },
+          {
+            "city": "敖汉旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              119.92,
+              42.29
+            ]
+          },
+          {
+            "city": "宁城县",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              119.32,
+              41.6
+            ]
+          }
+        ]
+      },
+      {
+        "city": "通辽市",
+        "account": 0,
+        "proportion": "0.0%",
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "霍林郭勒市",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              119.68,
+              45.53
+            ]
+          },
+          {
+            "city": "扎鲁特旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              120.92,
+              44.57
+            ]
+          },
+          {
+            "city": "开鲁县",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              121.32,
+              43.6
+            ]
+          },
+          {
+            "city": "科尔沁左翼中旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              123.31,
+              44.13
+            ]
+          },
+          {
+            "city": "科尔沁区",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              122.26,
+              43.62
+            ]
+          },
+          {
+            "city": "科尔沁左翼后旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              122.36,
+              42.94
+            ]
+          },
+          {
+            "city": "库伦旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              121.81,
+              42.74
+            ]
+          },
+          {
+            "city": "奈曼旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              120.66,
+              42.87
+            ]
+          }
+        ]
+      },
+      {
+        "city": "兴安盟",
+        "account": 0,
+        "proportion": "0.0%",
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "阿尔山市",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              119.94,
+              47.18
+            ]
+          },
+          {
+            "city": "科尔沁右翼前旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              121.95,
+              46.08
+            ]
+          },
+          {
+            "city": "扎赉特旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              122.9,
+              46.72
+            ]
+          },
+          {
+            "city": "乌兰浩特市",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              122.09,
+              46.07
+            ]
+          },
+          {
+            "city": "突泉县",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              121.59,
+              45.38
+            ]
+          },
+          {
+            "city": "科尔沁右翼中旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              121.48,
+              45.06
+            ]
+          }
+        ]
+      },
+      {
+        "city": "呼伦贝尔市",
+        "account": 1563,
+        "proportion": "1.90%",
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "新巴尔虎右旗",
+            "account": 653,
+            "proportion": "55.00%",
+            "position": [
+              116.82,
+              48.67
+            ]
+          },
+          {
+            "city": "满洲里市",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              117.38,
+              49.6
+            ]
+          },
+          {
+            "city": "扎赉诺尔区",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              117.67,
+              49.51
+            ]
+          },
+          {
+            "city": "新巴尔虎左旗",
+            "account": 485,
+            "proportion": "50.00%",
+            "position": [
+              118.27,
+              48.22
+            ]
+          },
+          {
+            "city": "陈巴尔虎骑",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              119.42,
+              49.33
+            ]
+          },
+          {
+            "city": "鄂温克族自治旗",
+            "account": 425,
+            "proportion": "50.60%",
+            "position": [
+              119.76,
+              49.15
+            ]
+          },
+          {
+            "city": "根河市",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              121.52,
+              50.78
+            ]
+          },
+          {
+            "city": "鄂伦春自治旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              123.73,
+              50.59
+            ]
+          },
+          {
+            "city": "阿荣旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              123.46,
+              48.13
+            ]
+          },
+          {
+            "city": "莫力达瓦达斡尔族自治旗",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              124.52,
+              48.48
+            ]
+          },
+          {
+            "city": "额尔古纳市",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              120.18,
+              50.24
+            ]
+          },
+          {
+            "city": "牙克石市",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              120.71,
+              49.29
+            ]
+          },
+          {
+            "city": "扎兰屯市",
+            "account": 0,
+            "proportion": "0.0%",
+            "position": [
+              122.71,
+              48.03
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

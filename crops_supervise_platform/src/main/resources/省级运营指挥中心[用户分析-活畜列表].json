@@ -1,0 +1,65 @@
+{
+  "animalList": { // 活畜列表
+    "label": ["耳际编号","活畜品种","月龄(月)","出生日期","活跃度","今日运动量(步)","当前心率","当前体温"],
+    "value": [
+      {
+        "serialNum": "x01010", // 耳际编号
+        "animalKind": "西门塔尔-基础母牛", // 活畜品种
+        "monthAge": 28, // 月龄
+        "birthday": "2022-08-08", // 出生日期
+        "liveNess": "懒惰", // 活跃度
+        "todayNumber": 8065, // 今日运动量
+        "heartRate": 72, // 当前心率
+        "animalHeat": "39℃", // 当前体温
+        "animalRecord": {} // 活畜档案
+      },
+      {
+        "serialNum": "x01010",
+        "animalKind": "西门塔尔-基础母牛",
+        "monthAge": 28,
+        "birthday": "2022-08-08",
+        "liveNess": "懒惰",
+        "todayNumber": 8065,
+        "heartRate": 72,
+        "animalHeat": "39℃",
+        "animalRecord": {}
+      }, {
+        "serialNum": "x01010",
+        "animalKind": "西门塔尔-基础母牛",
+        "monthAge": 28,
+        "birthday": "2022-08-08",
+        "liveNess": "懒惰",
+        "todayNumber": 8065,
+        "heartRate": 72,
+        "animalHeat": "39℃",
+        "animalRecord": {}
+      }, {
+        "serialNum": "x01010",
+        "animalKind": "西门塔尔-基础母牛",
+        "monthAge": 28,
+        "birthday": "2022-08-08",
+        "liveNess": "懒惰",
+        "todayNumber": 8065,
+        "heartRate": 72,
+        "animalHeat": "39℃",
+        "animalRecord": {}
+      }, {
+        "serialNum": "x01010",
+        "animalKind": "西门塔尔-基础母牛",
+        "monthAge": 28,
+        "birthday": "2022-08-08",
+        "liveNess": "懒惰",
+        "todayNumber": 8065,
+        "heartRate": 72,
+        "animalHeat": "39℃",
+        "animalRecord": {}
+      }
+    ]
+  },
+  "animalTradeDetail": { // 活畜交易明细
+
+  },
+  "goodsTradeDetail": { // 商品交易明细
+
+  }
+}

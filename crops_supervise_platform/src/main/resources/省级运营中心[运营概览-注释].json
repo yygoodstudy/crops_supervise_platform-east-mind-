@@ -1,0 +1,135 @@
+{
+  "tradeOverview": {  //交易概览
+    "totalTradeAmount": 60.24, //累计综合交易金额(亿)
+    "monthTradeMoney": 255.39 // 本月累计交易金额(万)
+  },
+  "tradeAmountProportion": { //交易额占比分布
+    "month":  [  // 本月
+      { "label": "商品服务交易", "value": 48.6 },
+      { "label": "屠宰交易", "value": 48.6 },
+      { "label": "活畜交易", "value": 48.6 },
+      { "label": "其它交易", "value": 48.6 }
+    ],
+    "year":  [ // 本年度
+      { "label": "商品服务交易", "value": 48.6 },
+      { "label": "屠宰交易", "value": 48.6 },
+      { "label": "活畜交易", "value": 48.6 },
+      { "label": "其它交易", "value": 48.6 }
+    ],
+    "all":[ // 全部
+      { "label": "商品服务交易", "value": 48.6 },
+      { "label": "屠宰交易", "value": 48.6 },
+      { "label": "活畜交易", "value": 48.6 },
+      { "label": "其它交易", "value": 48.6 }
+    ]
+  },
+  "tradeTrend":[   // 交易趋势
+      {
+        "title": "商品服务交易",
+        "label": ["2022-04","2022-05","2022-06","2022-07","2022-08","2022-09"],
+        "value": [500, 200,4000,1500,900,2300]
+      },
+      {
+        "title": "活畜交易",
+        "label": ["2022-04","2022-05","2022-06","2022-07","2022-08","2022-09"],
+        "value": [500, 200,4000,1500,900,2300]
+      },
+      {
+        "title ": "屠宰交易",
+        "label": ["2022-04","2022-05","2022-06","2022-07","2022-08","2022-09"],
+        "value": [500, 200,4000,1500,900,2300]
+      }
+    ]
+  ,
+  "illnessOverview": { // 活畜概览
+    "illAnimalQuantity": 1024, // 出栏
+    "notIllAnimalQuantity": 14502 // 入栏
+  },
+  "yearLiveAnimalDistribution": { // 本年度活畜发病数分布
+    "label": ["2022-04","2022-05","2022-06","2022-07","2022-08","2022-09"],
+    "value": [500, 200,4000,1500,900,2300]
+  },
+  // 第二列第一部分数据
+  "quantityDistribution": {
+    "cowSupermarket": 2, // 牛超市
+    "cooperativeBank": 60, // 合作银行
+    "slaughterProcessEnterprise": 5, // 屠宰加工企业
+    "insuranceCompany": 5, // 保险公司
+    "areaPartner": 5, // 区域合伙人
+    "serviceFarmer": 25580, // 服务养殖户
+    "productionDataProvider": 5, // 生产资料供养商
+    "farmTechnologyCrew": 530 // 畜牧科技师
+  },
+  "liveAnimalDistribution": [ // 地图数据
+    {
+      "farmerDis": [ // 养殖户分布
+        { "name": "乌海市", "value": 90, "position": [106.82,39.67]  },
+        { "name": "鄂尔多斯市", "value": 90, "position": [109.77,39.25]  },
+        { "name": "呼和浩特市", "value": 100, "position": [111.65,40.82]  },
+        { "name": "乌兰察布市", "value": 100, "position": [113.00,41.09]  },
+        { "name": "锡林郭勒盟", "value": 100, "position": [116.07,43.93]  },
+        { "name": "赤峰", "value": 100, "position": [118.87,42.28]  },
+        { "name": "通辽市", "value": 100, "position": [122.28,43.63]  },
+        { "name": "呼伦贝尔市", "value": 100, "position": [119.75,49.21]  }
+      ]
+    },{
+      "liveAnimalDis": [ // 活畜分布
+        { "name": "乌海市", "value": 90, "position": [106.82,39.67]  },
+        { "name": "鄂尔多斯市", "value": 90, "position": [109.77,39.25]  },
+        { "name": "呼和浩特市", "value": 100, "position": [111.65,40.82]  },
+        { "name": "乌兰察布市", "value": 100, "position": [113.00,41.09]  },
+        { "name": "锡林郭勒盟", "value": 100, "position": [116.07,43.93]  },
+        { "name": "赤峰", "value": 100, "position": [118.87,42.28]  },
+        { "name": "通辽市", "value": 100, "position": [122.28,43.63]  },
+        { "name": "呼伦贝尔市", "value": 100, "position": [119.75,49.21]  }
+      ]
+    },{
+      "raiseLivestockDis": [ // 畜牧科技师分布
+        { "name": "乌海市", "value": 90, "position": [106.82,39.67]  },
+        { "name": "鄂尔多斯市", "value": 90, "position": [109.77,39.25]  },
+        { "name": "呼和浩特市", "value": 100, "position": [111.65,40.82]  },
+        { "name": "乌兰察布市", "value": 100, "position": [113.00,41.09]  },
+        { "name": "锡林郭勒盟", "value": 100, "position": [116.07,43.93]  },
+        { "name": "赤峰", "value": 100, "position": [118.87,42.28]  },
+        { "name": "通辽市", "value": 100, "position": [122.28,43.63]  },
+        { "name": "呼伦贝尔市", "value": 100, "position": [119.75,49.21]  }
+      ]
+    }
+  ],
+  "financialServiceOverview": { // 金融服务概览
+    "进行中": {
+      "state": "进行中",
+      "superviseCount": 145,  // 累计监管笔数
+      "superviseAmount": 5.24 // 累计监管金额
+    },
+    "全部":{
+      "state": "全部",
+      "superviseCount": 145,
+      "superviseAmount": 5.24
+    }
+  },
+  "superviseAmountDistribution": [  // 监管金额分布
+      { "label": "活体监管", "value": 48.6 },
+      { "label": "仓单监管", "value": 48.6 },
+      { "label": "资金流向监管", "value": 48.6 },
+      { "label": "无货仓单监管", "value": 48.6 }
+    ],
+  "regulationGrowthTrend": { // 监管增长趋势
+    "label": ["2022-04","2022-05","2022-06","2022-07","2022-08","2022-09"],
+    "value": [500, 200,4000,1500,900,2300]
+  },
+  "breakOverview": { // 繁育概览
+    "type": "1",
+    "currentLiveAnimal": 14502, // 当前存栏活畜(头)
+    "currentBreedingStockCow": 1450 // 当前存栏母牛(头)
+  },
+  "yearLiveAnimalBreedNorm": { // 本年度活畜繁育指标
+    "type": "1",
+    "joinBreedProp": "80.23%", // 参配率
+    "pregnancyProp": "80.23%", // 受胎率
+    "abortionProp": "80.23%", // 流产率
+    "breedProp": "80.23%", // 繁殖率
+    "survivingRate": "80.23%", // 成活率
+    "avgChildSpace": "80.23%" // 平均胎间距
+  }
+}

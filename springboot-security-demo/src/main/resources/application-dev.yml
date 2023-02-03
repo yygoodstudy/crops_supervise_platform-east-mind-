@@ -1,0 +1,31 @@
+server:
+  port: 1111
+com:
+  eastmind:
+    blog:
+      name: java编程思想
+      price: 99.00
+      desc: ${com.eastmind.blog.name}这本书的价格是${com.eastmind.blog.price}
+#html存放的具体路径，可进行自定义，示例：resources/templates
+spring:
+  thymeleaf:
+    prefix: classpath:/templates/
+    encoding: utf-8
+    cache: false
+    suffix: .html
+    servlet:
+      content-type: text/html
+  security:
+    user:
+      name: yaoyuan
+      password: 123456
+      roles: USERS
+  datasource:
+    url: jdbc:mysql://localhost:3306/db_spring_security?useSSL=false&serverTimeZone=GMT%2B8
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+mybatis-plus:
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+    map-underscore-to-camel-case: true

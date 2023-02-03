@@ -1,0 +1,607 @@
+{
+ "totalTradeAmount": 10.36, // 累计交易金额(亿)
+  "mallTotalTradeAmount": 8987.21, // 商城累计交易金额(万)
+  "liveTotalTradeAmount": 426.32, // 活畜累计交易金额(万)
+  "slaughterTradeAmount": 1654.03, // 活畜屠宰收购交易金额(万)
+  "tradeGrowTrend": { // 交易增长趋势
+    "all": {
+      "todayTradeAmount": 10.36,// 今日交易金额
+      "yesterdayTradeAmount": 10.36, // 昨日交易金额
+      "tradeAmount": 236.31, // 交易总额
+      "everydayTradeAmount": 15.76, // 日均交易
+      "tradeAmountData": { // 交易金额
+        "label": ["10-12","10-13","10-14","10-15","10-16","10-17","10-18"],
+        "value": [1300,1200,1500,1900,1600,1780,1100]
+      },
+      "orderSize": { // 订单量
+        "label": ["10-12","10-13","10-14","10-15","10-16","10-17","10-18"],
+        "value": [1300,1200,1500,1900,1600,1780,1100]
+      }
+    },
+    "mall": { // 商城
+      "todayTradeAmount": 10.36,
+      "yesterdayTradeAmount": 10.36,
+      "tradeAmount": 236.31,
+      "everydayTradeAmount": 15.76,
+      "tradeAmountData": {
+        "label": ["10-12","10-13","10-14","10-15","10-16","10-17","10-18"],
+        "value": [1300,1200,1500,1900,1600,1780,1100]
+      },
+      "orderSize": {
+        "label": ["10-12","10-13","10-14","10-15","10-16","10-17","10-18"],
+        "value": [1300,1200,1500,1900,1600,1780,1100]
+      }
+    },
+    "live": { // 活畜
+      "todayTradeAmount": 10.36,
+      "yesterdayTradeAmount": 10.36,
+      "tradeAmount": 236.31,
+      "everydayTradeAmount": 15.76,
+      "tradeAmountData": {
+        "label": ["10-12","10-13","10-14","10-15","10-16","10-17","10-18"],
+        "value": [1300,1200,1500,1900,1600,1780,1100]
+      },
+      "orderSize": {
+        "label": ["10-12","10-13","10-14","10-15","10-16","10-17","10-18"],
+        "value": [1300,1200,1500,1900,1600,1780,1100]
+      }
+    },
+    "slaughterAcquisition": { // 屠宰收购
+      "todayTradeAmount": 10.36,
+      "yesterdayTradeAmount": 10.36,
+      "tradeAmount": 236.31,
+      "everydayTradeAmount": 15.76,
+      "tradeAmountData": {
+        "label": ["10-12","10-13","10-14","10-15","10-16","10-17","10-18"],
+        "value": [1300,1200,1500,1900,1600,1780,1100]
+      },
+      "orderSize": {
+        "label": ["10-12","10-13","10-14","10-15","10-16","10-17","10-18"],
+        "value": [1300,1200,1500,1900,1600,1780,1100]
+      }
+    }
+  },
+  "tradeDisProp": {
+    "totalAmount": 563.97, // 共计
+    "mallTrade": 56.36, // 商城交易
+    "liveTrade": 23.76, // 活畜交易
+    "slaughterTrade": 15.11 // 屠宰交易
+  },
+  "terrainAnalysis": { // 地域分析
+    "all": { // 全部
+      "mapData": [
+        {
+          "name":"新疆运营中心",
+          "totalAmount": 5693.27, // 总交易额(万)
+          "mallTradeAmount": 874.62, // 商城交易额
+          "liveTradeAmount": 603.71, // 活畜交易
+          "slaughterTradeAmount": 163.78, // 屠宰收购交易
+          "position": [
+            87.617733,43.792818
+          ]
+        },
+        {
+          "name":"内蒙古运营中心",
+          "totalAmount": 5693.27,
+          "mallTradeAmount": 874.62,
+          "liveTradeAmount": 603.71,
+          "slaughterTradeAmount": 163.78,
+          "position": [
+            111.66554,40.85828
+          ]
+        },
+        {
+          "name":"陕西运营中心",
+          "totalAmount": 5693.27,
+          "mallTradeAmount": 874.62,
+          "liveTradeAmount": 603.71,
+          "slaughterTradeAmount": 163.78,
+          "position": [
+            108.9608,34.26641
+          ]
+        },
+        {
+          "name":"黑龙江运营中心",
+          "totalAmount": 5693.27,
+          "mallTradeAmount": 874.62,
+          "liveTradeAmount": 603.71,
+          "slaughterTradeAmount": 163.78,
+          "position": [
+            126.61705,45.75586
+          ]
+        },
+        {
+          "name":"吉林运营中心",
+          "totalAmount": 5693.27,
+          "mallTradeAmount": 874.62,
+          "liveTradeAmount": 603.71,
+          "slaughterTradeAmount": 163.78,
+          "position": [
+            125.35035,43.86401
+          ]
+        }
+      ], // 地图需要的数据
+      "total": 561, // 右上角总量
+      "operatingCenter": [
+        {
+          "serialNum": "NO.1",
+          "operatingCenterName": "内蒙古运营中心",
+          "tradeAmount": 559.13,
+          "prop": 49.36
+        },
+        {
+          "serialNum": "NO.2",
+          "operatingCenterName": "新疆运营中心",
+          "tradeAmount": 503.03,
+          "prop": 31.25
+        },
+        {
+          "serialNum": "NO.3",
+          "operatingCenterName": "陕西运营中心",
+          "tradeAmount": 467.00,
+          "prop": 29.66
+        },
+        {
+          "serialNum": "NO.4",
+          "operatingCenterName": "黑龙江运营中心",
+          "tradeAmount": 300.12,
+          "prop": 20.12
+        },
+        {
+          "serialNum": "NO.5",
+          "operatingCenterName": "吉林运营中心",
+          "tradeAmount": 229.72,
+          "prop": 18.09
+        }
+      ], // 运营中心
+      "areaPartner": [
+        {
+          "serialNum": "NO.1",
+          "partnerName": "巴根那",
+          "tradeAmount": 559.13,
+          "prop": 49.36
+        },
+        {
+          "serialNum": "NO.2",
+          "partnerName": "斯琴高娃",
+          "tradeAmount": 503.03,
+          "prop": 31.25
+        },
+        {
+          "serialNum": "NO.3",
+          "partnerName": "王啸",
+          "tradeAmount": 467.00,
+          "prop": 29.66
+        },
+        {
+          "serialNum": "NO.4",
+          "partnerName": "秦大军",
+          "tradeAmount": 339.59,
+          "prop": 26.10
+        },
+        {
+          "serialNum": "NO.5",
+          "partnerName": "马尔扎哈",
+          "tradeAmount": 300.12,
+          "prop": 20.12
+        },
+        {
+          "serialNum": "NO.6",
+          "partnerName": "古力娜扎",
+          "tradeAmount": 229.72,
+          "prop": 18.09
+        },
+        {
+          "serialNum": "NO.7",
+          "partnerName": "迪丽热巴",
+          "tradeAmount": 229.72,
+          "prop": 18.09
+        }
+      ], // 区域合伙人
+      "livestock": [
+        {
+          "serialNum": "NO.1",
+          "livestockPerson": "巴根那",
+          "tradeAmount": 559.13,
+          "prop": 49.36
+        },
+        {
+          "serialNum": "NO.2",
+          "livestockPerson": "斯琴高娃",
+          "tradeAmount": 503.03,
+          "prop": 31.25
+        },
+        {
+          "serialNum": "NO.3",
+          "livestockPerson": "王啸",
+          "tradeAmount": 467.00,
+          "prop": 29.66
+        },
+        {
+          "serialNum": "NO.4",
+          "livestockPerson": "张大军",
+          "tradeAmount": 339.59,
+          "prop": 26.10
+        },
+        {
+          "serialNum": "NO.5",
+          "livestockPerson": "张三丰",
+          "tradeAmount": 300.12,
+          "prop": 20.12
+        },
+        {
+          "serialNum": "NO.6",
+          "livestockPerson": "娃哈哈",
+          "tradeAmount": 229.72,
+          "prop": 18.09
+        }
+      ] // 畜牧科技师
+    },
+    "mall": { // 商城
+      "mapData": [
+        {
+          "name":"新疆运营中心",
+          "mallTradeAmount": 555,
+          "position": [
+            87.617733,43.792818
+          ]
+        },
+        {
+          "name":"内蒙古运营中心",
+          "mallTradeAmount": 498,
+          "position": [
+            111.66554,40.85828
+          ]
+        },
+        {
+          "name":"陕西运营中心",
+          "mallTradeAmount": 330,
+          "position": [
+            108.9608,34.26641
+          ]
+        },
+        {
+          "name":"黑龙江运营中心",
+          "mallTradeAmount": 290,
+          "position": [
+            126.61705,45.75586
+          ]
+        },
+        {
+          "name":"吉林运营中心",
+          "mallTradeAmount": 220,
+          "position": [
+            125.35035,43.86401
+          ]
+        }
+      ],
+      "total": 561,
+      "areaPartner": [
+        {
+          "serialNum": "NO.1",
+          "partnerName": "巴根那",
+          "tradeAmount": 559.13,
+          "prop": 49.36
+        },
+        {
+          "serialNum": "NO.2",
+          "partnerName": "斯琴高娃",
+          "tradeAmount": 503.03,
+          "prop": 31.25
+        },
+        {
+          "serialNum": "NO.3",
+          "partnerName": "王啸",
+          "tradeAmount": 467.00,
+          "prop": 29.66
+        },
+        {
+          "serialNum": "NO.4",
+          "partnerName": "秦大军",
+          "tradeAmount": 339.59,
+          "prop": 26.10
+        },
+        {
+          "serialNum": "NO.5",
+          "partnerName": "马尔扎哈",
+          "tradeAmount": 300.12,
+          "prop": 20.12
+        },
+        {
+          "serialNum": "NO.6",
+          "partnerName": "古力娜扎",
+          "tradeAmount": 229.72,
+          "prop": 18.09
+        },
+        {
+          "serialNum": "NO.7",
+          "partnerName": "迪丽热巴",
+          "tradeAmount": 229.72,
+          "prop": 18.09
+        }
+      ],
+      "livestock": [
+        {
+          "serialNum": "NO.1",
+          "livestockPerson": "巴根那",
+          "tradeAmount": 559.13,
+          "prop": 49.36
+        },
+        {
+          "serialNum": "NO.2",
+          "livestockPerson": "斯琴高娃",
+          "tradeAmount": 503.03,
+          "prop": 31.25
+        },
+        {
+          "serialNum": "NO.3",
+          "livestockPerson": "王啸",
+          "tradeAmount": 467.00,
+          "prop": 29.66
+        },
+        {
+          "serialNum": "NO.4",
+          "livestockPerson": "张大军",
+          "tradeAmount": 339.59,
+          "prop": 26.10
+        },
+        {
+          "serialNum": "NO.5",
+          "livestockPerson": "张三丰",
+          "tradeAmount": 300.12,
+          "prop": 20.12
+        },
+        {
+          "serialNum": "NO.6",
+          "livestockPerson": "娃哈哈",
+          "tradeAmount": 229.72,
+          "prop": 18.09
+        }
+      ]
+    },
+    "live": { // 活畜
+      "mapData": [
+        {
+          "name":"新疆运营中心",
+          "liveTradeAmount": 501,
+          "position": [
+            87.617733,43.792818
+          ]
+        },
+        {
+          "name":"内蒙古运营中心",
+          "liveTradeAmount": 470,
+          "position": [
+            111.66554,40.85828
+          ]
+        },
+        {
+          "name":"陕西运营中心",
+          "liveTradeAmount": 390,
+          "position": [
+            108.9608,34.26641
+          ]
+        },
+        {
+          "name":"黑龙江运营中心",
+          "liveTradeAmount": 310,
+          "position": [
+            126.61705,45.75586
+          ]
+        },
+        {
+          "name":"吉林运营中心",
+          "liveTradeAmount": 200,
+          "position": [
+            125.35035,43.86401
+          ]
+        }
+      ],
+      "total": 561,
+      "areaPartner": [
+        {
+          "serialNum": "NO.1",
+          "partnerName": "巴根那",
+          "tradeAmount": 559.13,
+          "prop": 49.36
+        },
+        {
+          "serialNum": "NO.2",
+          "partnerName": "斯琴高娃",
+          "tradeAmount": 503.03,
+          "prop": 31.25
+        },
+        {
+          "serialNum": "NO.3",
+          "partnerName": "王啸",
+          "tradeAmount": 467.00,
+          "prop": 29.66
+        },
+        {
+          "serialNum": "NO.4",
+          "partnerName": "秦大军",
+          "tradeAmount": 339.59,
+          "prop": 26.10
+        },
+        {
+          "serialNum": "NO.5",
+          "partnerName": "马尔扎哈",
+          "tradeAmount": 300.12,
+          "prop": 20.12
+        },
+        {
+          "serialNum": "NO.6",
+          "partnerName": "古力娜扎",
+          "tradeAmount": 229.72,
+          "prop": 18.09
+        },
+        {
+          "serialNum": "NO.7",
+          "partnerName": "迪丽热巴",
+          "tradeAmount": 229.72,
+          "prop": 18.09
+        }
+      ],
+      "livestock": [
+        {
+          "serialNum": "NO.1",
+          "livestockPerson": "巴根那",
+          "tradeAmount": 559.13,
+          "prop": 49.36
+        },
+        {
+          "serialNum": "NO.2",
+          "livestockPerson": "斯琴高娃",
+          "tradeAmount": 503.03,
+          "prop": 31.25
+        },
+        {
+          "serialNum": "NO.3",
+          "livestockPerson": "王啸",
+          "tradeAmount": 467.00,
+          "prop": 29.66
+        },
+        {
+          "serialNum": "NO.4",
+          "livestockPerson": "张大军",
+          "tradeAmount": 339.59,
+          "prop": 26.10
+        },
+        {
+          "serialNum": "NO.5",
+          "livestockPerson": "张三丰",
+          "tradeAmount": 300.12,
+          "prop": 20.12
+        },
+        {
+          "serialNum": "NO.6",
+          "livestockPerson": "娃哈哈",
+          "tradeAmount": 229.72,
+          "prop": 18.09
+        }
+      ]
+    },
+    "slaughterAcquisition": { // 屠宰收购
+      "mapData": [
+        {
+          "name":"新疆运营中心",
+          "slaughterTradeAmount": 560,
+          "position": [
+            87.617733,43.792818
+          ]
+        },
+        {
+          "name":"内蒙古运营中心",
+          "slaughterTradeAmount": 509,
+          "position": [
+            111.66554,40.85828
+          ]
+        },
+        {
+          "name":"陕西运营中心",
+          "slaughterTradeAmount": 400,
+          "position": [
+            108.9608,34.26641
+          ]
+        },
+        {
+          "name":"黑龙江运营中心",
+          "slaughterTradeAmount": 390,
+          "position": [
+            126.61705,45.75586
+          ]
+        },
+        {
+          "name":"吉林运营中心",
+          "slaughterTradeAmount": 220
+          "position": [
+            125.35035,43.86401
+          ]
+        }
+      ],
+      "total": 561,
+      "areaPartner": [
+        {
+          "serialNum": "NO.1",
+          "partnerName": "巴根那",
+          "tradeAmount": 559.13,
+          "prop": 49.36
+        },
+        {
+          "serialNum": "NO.2",
+          "partnerName": "斯琴高娃",
+          "tradeAmount": 503.03,
+          "prop": 31.25
+        },
+        {
+          "serialNum": "NO.3",
+          "partnerName": "王啸",
+          "tradeAmount": 467.00,
+          "prop": 29.66
+        },
+        {
+          "serialNum": "NO.4",
+          "partnerName": "秦大军",
+          "tradeAmount": 339.59,
+          "prop": 26.10
+        },
+        {
+          "serialNum": "NO.5",
+          "partnerName": "马尔扎哈",
+          "tradeAmount": 300.12,
+          "prop": 20.12
+        },
+        {
+          "serialNum": "NO.6",
+          "partnerName": "古力娜扎",
+          "tradeAmount": 229.72,
+          "prop": 18.09
+        },
+        {
+          "serialNum": "NO.7",
+          "partnerName": "迪丽热巴",
+          "tradeAmount": 229.72,
+          "prop": 18.09
+        }
+      ],
+      "livestock": [
+        {
+          "serialNum": "NO.1",
+          "livestockPerson": "巴根那",
+          "tradeAmount": 559.13,
+          "prop": 49.36
+        },
+        {
+          "serialNum": "NO.2",
+          "livestockPerson": "斯琴高娃",
+          "tradeAmount": 503.03,
+          "prop": 31.25
+        },
+        {
+          "serialNum": "NO.3",
+          "livestockPerson": "王啸",
+          "tradeAmount": 467.00,
+          "prop": 29.66
+        },
+        {
+          "serialNum": "NO.4",
+          "livestockPerson": "张大军",
+          "tradeAmount": 339.59,
+          "prop": 26.10
+        },
+        {
+          "serialNum": "NO.5",
+          "livestockPerson": "张三丰",
+          "tradeAmount": 300.12,
+          "prop": 20.12
+        },
+        {
+          "serialNum": "NO.6",
+          "livestockPerson": "娃哈哈",
+          "tradeAmount": 229.72,
+          "prop": 18.09
+        }
+      ]
+    }
+  }
+}

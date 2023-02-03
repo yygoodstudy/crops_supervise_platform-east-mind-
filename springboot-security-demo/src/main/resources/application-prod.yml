@@ -1,0 +1,8 @@
+server:
+  port: 3333
+com:
+  eastmind:
+    blog:
+      name: java编程思想
+      price: 99.00
+      desc: ${com.eastmind.blog.name}这本书的价格是${com.eastmind.blog.price}

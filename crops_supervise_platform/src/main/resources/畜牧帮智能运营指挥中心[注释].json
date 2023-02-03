@@ -1,0 +1,56 @@
+{
+  "platformRegisteredUser": { // 平台注册用户(个)
+    "value": 569710,
+    "todayNew": 0
+  },
+  "totalTradeAmount": { // GMV累计交易金额(亿)
+    "value": 2659.01,
+    "todayNew": 0
+  },
+  "totalSuperviseAmount": { // 累计监管金额(亿)
+    "value": 103.54,
+    "todayNew": 0
+  },
+  "provincialCommandCenter": { // 省级运营中心
+    "value": 238,
+    "yearNew": 0
+  },
+  "areaPartner": { // 区域合伙人
+    "value": 697,
+    "monthNew": 6
+  },
+  "liveStockTeacher": { // 畜牧科技师
+    "value": 5803,
+    "todayNew": 37
+  },
+  "cowSuperMarket": { // 牛超市
+    "value": 83,
+    "monthNew": 37
+  },
+  "cooperativeBank": { // 合作银行
+    "value": 4,
+    "monthNew": 0
+  },
+  "serviceFarmer": { // 服务养殖户
+    "value": 10026,
+    "todayNew": 0
+  },
+  "serviceFarm": { // 服务养殖场
+    "value": 7798,
+    "todayNew": 0
+  },
+  "informationSupplier": { // 生产资料服务商
+    "value": 67,
+    "monthNew": 8
+  },
+  "slaughterEnterprise": { // 屠宰加工企业
+    "value": 33,
+    "monthNew": 0
+  },
+  "insuranceCompany": { // 合作保险银行
+    "value": 9,
+    "monthNew": 3
+  },
+  "cowQuantity": 5735659, // 牛只当前存栏量
+  "sheepQuantity": 73559 // 养只当前存栏量
+}

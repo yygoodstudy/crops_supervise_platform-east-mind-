@@ -1,0 +1,53 @@
+{
+  // 交易概览
+  "trading_overview": {
+    "total_amount": 60.24,
+    "month_amount": 255.2
+  },
+  // 交易占比分布
+  "trade_proportion": {
+    // 手动配置数据
+    "manual_config_data": {
+      "live_animal": "50.21%",
+      "goods_service": "50.23%",
+      "slaughter": "53.01%"
+    },
+    // 手动配置时间数据
+    "manualConfig_time_data": {
+      "live_animal": {
+        // 活畜交易
+        "current_month": "50.21%",
+        "this_year": "50.21%",
+        "all": "52.33%"
+      },
+      "goods_service": {
+        // 商品服务交易
+        "current_month": "50.21%",
+        "this_year": "50.21%",
+        "all": "52.33%"
+      },
+      "slaughter": {
+        // 屠宰交易
+        "current_month": "50.21%",
+        "this_year": "50.21%",
+        "all": "52.33%"
+      }
+    }
+  },
+  "trade_trend": {
+    // 交易趋势
+    "systems_simulation_data": { // 系统模拟数据
+      "live_animal_radix": 1000,
+      "active_portion1": 0.03,
+      "goods_service_radix": 1100,
+      "active_portion2": 0.04,
+      "slaughter_portion_radix": 1200,
+      "active_portion3": 0.05,
+      "month_data": "3个月",
+      "data_trend": "上涨"
+    },
+    "manual_config_data": [ // 手动配置数据
+
+    ]
+  }
+}

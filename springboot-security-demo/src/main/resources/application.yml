@@ -1,0 +1,6 @@
+  # 激活application-dev.yml开发环境
+  # 同样可以使用【java -jar .\springboot-test01-0.0.1-SNAPSHOT.jar --spring.profiles.active=test】
+  # 命令来切换激活不同的环境
+spring:
+  profiles:
+    active: dev

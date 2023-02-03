@@ -1,0 +1,56 @@
+{
+  "platformRegisteredUser": {
+    "value": 569710,
+    "todayNew": 0
+  },
+  "totalTradeAmount": {
+    "value": 2659.01,
+    "todayNew": 0
+  },
+  "totalSuperviseAmount": {
+    "value": 103.54,
+    "todayNew": 0
+  },
+  "provincialCommandCenter": {
+    "value": 238,
+    "yearNew": 0
+  },
+  "areaPartner": {
+    "value": 697,
+    "monthNew": 6
+  },
+  "liveStockTeacher": {
+    "value": 5803,
+    "todayNew": 37
+  },
+  "cowSuperMarket": {
+    "value": 83,
+    "monthNew": 37
+  },
+  "cooperativeBank": {
+    "value": 4,
+    "monthNew": 0
+  },
+  "serviceFarmer": {
+    "value": 10026,
+    "todayNew": 0
+  },
+  "serviceFarm": {
+    "value": 7798,
+    "todayNew": 0
+  },
+  "informationSupplier": {
+    "value": 67,
+    "monthNew": 8
+  },
+  "slaughterEnterprise": {
+    "value": 33,
+    "monthNew": 0
+  },
+  "insuranceCompany": {
+    "value": 9,
+    "monthNew": 3
+  },
+  "cowQuantity": 5735659,
+  "sheepQuantity": 73559
+}

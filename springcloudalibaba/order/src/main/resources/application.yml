@@ -1,0 +1,16 @@
+
+spring:
+  application:
+    name: order-service # 服务名称
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848 # nacos-server的服务地址
+        namespace: d08ed195-991e-4a85-aa5d-296929b34cfb # 命名空间id，还可以是dev,test,prod..的命名空间id等等，主要用于对服务进行一个分组
+        username: nacos # nacos客户端的登录账号
+        password: nacos # nacos客户端登录密码
+        ephemeral: false # 永久实例，即使该服务已经挂掉了，也不会从nacos注册中心的服务列表中删掉实例
+        #group: DEFAULT_GROUP # 分组，默认取DEFAULT_GROUP,比namespace更细小的划分
+        #weight: 1 #权重：通常按照权重的负载均衡策略，权重越高分配的流量越大
+server:
+  port: 8080

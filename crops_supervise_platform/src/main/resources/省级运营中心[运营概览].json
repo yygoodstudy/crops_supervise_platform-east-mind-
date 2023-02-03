@@ -1,0 +1,529 @@
+{
+  "tradeOverview": {
+    "type": "1",
+    "totalTradeAmount": 9250,
+    "monthTradeMoney": 540
+  },
+  "tradeAmountProportion": {
+    "type": "1",
+    "month": [
+      {
+        "label": "屠宰收购",
+        "value": 54.67
+      }
+    ],
+    "year": [
+      {
+        "label": "屠宰收购",
+        "value": 84.27
+      },
+      {
+        "label": "活畜交易",
+        "value": 15.73
+      }
+    ],
+    "all": [
+      {
+        "label": "屠宰收购",
+        "value": 84.27
+      },
+      {
+        "label": "活畜交易",
+        "value": 15.73
+      }
+    ]
+  },
+  "tradeTrend": {
+    "type": "1",
+    "template": {
+      "animalCardinal": 12,
+      "animalFloatRange": 0.66,
+      "goodsServiceCardinal": 16,
+      "goodsFloatRange": 0.12,
+      "slaughterCardinal": 500,
+      "slaughterFloatRange": 0.78,
+      "latestMonth": 0,
+      "trend": 0
+    },
+    "data": [
+      {
+        "title": "商城交易",
+        "months": [
+          "2022-05",
+          "2022-06",
+          "2022-07",
+          "2022-08",
+          "2022-09",
+          "2022-10"
+        ],
+        "value": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "title": "活畜交易",
+        "months": [
+          "2022-05",
+          "2022-06",
+          "2022-07",
+          "2022-08",
+          "2022-09",
+          "2022-10"
+        ],
+        "value": [
+          0,
+          0,
+          430,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "title": "屠宰收购",
+        "months": [
+          "2022-05",
+          "2022-06",
+          "2022-07",
+          "2022-08",
+          "2022-09",
+          "2022-10"
+        ],
+        "value": [
+          310,
+          510,
+          920,
+          960,
+          1200,
+          540
+        ]
+      }
+    ]
+  },
+  "illnessOverview": {
+    "type": "1",
+    "cowQuantity": 13820,
+    "bossyQuantity": 9620
+  },
+  "yearLiveAnimalDistribution": {
+    "type": "1",
+    "template": {
+      "amountCardinal": "1000",
+      "floatRange": "0.33",
+      "trend": "0"
+    },
+    "label": [
+      "种公牛",
+      "基础母牛",
+      "淘汰母牛",
+      "淘汰种牛",
+      "公牛犊",
+      "母牛犊",
+      "其它"
+    ],
+    "value": [
+      100,
+      5500,
+      1200,
+      50,
+      3000,
+      1800,
+      2170
+    ]
+  },
+  "quantityDistribution": {
+    "type": "1",
+    "cowSupermarket": 3,
+    "cooperativeBank": 21,
+    "slaughterProcessEnterprise": 15,
+    "insuranceCompany": 5,
+    "areaPartner": 36,
+    "serviceFarmer": 13820,
+    "productionDataProvider": 36,
+    "farmTechnologyCrew": 53,
+    "currentLiveAnimal": 1100
+  },
+  "liveAnimalDistribution": [
+    {
+      "养殖户分布": [
+        {
+          "name": "阿拉善盟",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "乌海市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "巴彦淖尔市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "鄂尔多斯市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "包头市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "呼和浩特市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "乌兰察布市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "锡林郭勒盟",
+          "value": 11503,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "赤峰市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "通辽市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "兴安盟",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "呼伦贝尔市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        }
+      ]
+    },
+    {
+      "活畜分布": [
+        {
+          "name": "阿拉善盟",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "乌海市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "巴彦淖尔市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "鄂尔多斯市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "包头市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "呼和浩特市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "乌兰察布市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "锡林郭勒盟",
+          "value": 13820,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "赤峰市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "通辽市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "兴安盟",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "呼伦贝尔市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        }
+      ]
+    },
+    {
+      "畜牧科技师分布": [
+        {
+          "name": "阿拉善盟",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "乌海市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "巴彦淖尔市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "鄂尔多斯市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "包头市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "呼和浩特市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "乌兰察布市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "锡林郭勒盟",
+          "value": 53,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "赤峰市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "通辽市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "兴安盟",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "name": "呼伦贝尔市",
+          "value": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        }
+      ]
+    }
+  ],
+  "financialServiceOverview": {
+    "type": "1",
+    "进行中": {
+      "state": "进行中",
+      "superviseCount": 68,
+      "superviseAmount": 4.36
+    },
+    "全部": {
+      "state": "全部",
+      "superviseCount": 125,
+      "superviseAmount": 6.35
+    }
+  },
+  "superviseAmountDistribution": {
+    "type": "1",
+    "data": [
+      {
+        "label": "活体监管",
+        "value": 2470
+      },
+      {
+        "label": "仓单监管",
+        "value": 1060
+      },
+      {
+        "label": "无货仓单监管",
+        "value": 1765
+      }
+    ]
+  },
+  "regulationGrowthTrend": {
+    "type": "1",
+    "template": {
+      "amountCardinal": "",
+      "floatRange": "0.33",
+      "latestMonth": "0",
+      "trend": "0"
+    },
+    "label": [
+      "2022-05",
+      "2022-06",
+      "2022-07",
+      "2022-08",
+      "2022-09",
+      "2022-10"
+    ],
+    "value": [
+      5233,
+      4495,
+      8086,
+      1930,
+      6911,
+      1091
+    ]
+  },
+  "breakOverview": {
+    "sheepQuantity": 236800
+  },
+  "yearLiveAnimalBreedNorm": {
+    "基础母羊": {
+      "quantity": 135000,
+      "prop": 57.01
+    },
+    "芥子": {
+      "quantity": 1800,
+      "prop": 0.76
+    },
+    "种羊": {
+      "quantity": 1300,
+      "prop": 0.55
+    },
+    "羊羔": {
+      "quantity": 98700,
+      "prop": 41.68
+    }
+  }
+}

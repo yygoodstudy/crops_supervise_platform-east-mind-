@@ -1,0 +1,62 @@
+{
+  "farmer04": {
+    // 养殖户查询
+    "label": [
+      "序号",
+      "名称",
+      "养殖户类型",
+      "地址",
+      "所属畜牧科技师",
+      "养殖数量"
+    ],
+    "value": {
+      "serialNum": "05",
+      "name": "邱永刚",
+      "farmerType": "个体养殖户",
+      "address": "宁夏-固原市-西吉县",
+      "rearLivestock": "张浩",
+      "breedingNum": "50"
+    },
+    "farmerDetail": { // 养殖户详情
+      "basicInfo": { // 基础信息
+        "name": "邱永刚",
+        "phone": "17800009889",
+        "farmerType": "专业养殖户",
+        "specialist": "张浩",
+        "area": "宁夏-固原市-西吉县"
+      },
+      "breedInfo": { // 养殖信息
+        "animalQuantity": 58,
+        "supervise": 30
+      },
+      "animalKindDis": [// 存栏活畜品种分布
+        {
+          "kind": "利木赞牛",
+          "quantity": 10
+        },{
+          "kind": "西门塔尔牛",
+          "quantity": 36
+        },{
+          "kind": "鲁西黄牛",
+          "quantity": 12
+        }
+      ],
+      "kindTypeDis":[
+        {
+          "type": "种公牛",
+          "quantity": 10
+        },
+        {
+          "type": "基础母牛",
+          "quantity": 36
+        },{
+          "type": "育肥牛",
+          "quantity": 12
+        },{
+          "type": "架子牛",
+          "quantity": 12
+        }
+      ]
+    }
+  }
+}

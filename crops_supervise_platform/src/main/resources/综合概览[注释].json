@@ -1,0 +1,254 @@
+{
+  "liveAnimalDis": {
+    "GMVTotalAmount": 191.04, // GMV累计交易金额(亿)
+    "mallProvider": 41, // 商城供应商(家)
+    "enterCattleSupermarket":97, // 已入驻牛超市(家)
+    "slaughterTradeAmount": 9.93, // 屠宰累计交易金额(亿)
+    "slaughterProcessors": 6, // 屠宰加工企业(家)
+
+    "serviceFarmer": { // 服务养殖户(家)
+      "quantity": 56970, // 数量
+      "addedToday": 13, // 今日新增
+      "flag": 0 // 0:表示上升，1：表示下降
+    },
+    "raiseMaster": { // 畜牧科技师
+      "quantity": 891,
+      "addedToday": 13,
+      "flag": 0
+    },
+    "areaPartner":{ // 区域合伙人
+      "quantity": 891,
+      "addedToday": 13,
+      "flag": 0
+    },
+    "mapData": [
+      {
+        "name": "阿拉善盟",
+        "value": 0,
+        "position": [
+          39.961166,
+          103.660587
+        ]
+      },
+      {
+        "name": "乌海市",
+        "value": 0,
+        "position": [
+          39.637643,
+          106.815344
+        ]
+      },
+      {
+        "name": "巴彦淖尔市",
+        "value": 0,
+        "position": [
+          40.725965,
+          107.406485
+        ]
+      },
+      {
+        "name": "鄂尔多斯市",
+        "value": 0,
+        "position": [
+          39.600319,
+          109.780743
+        ]
+      },
+      {
+        "name": "包头市",
+        "value": 0,
+        "position": [
+          40.623068,
+          109.926106
+        ]
+      },
+      {
+        "name": "呼和浩特市",
+        "value": 0,
+        "position": [
+          40.843366,
+          111.757676
+        ]
+      },
+      {
+        "name": "乌兰察布市",
+        "value": 0,
+        "position": [
+          40.997141,
+          113.143467
+        ]
+      },
+      {
+        "name": "锡林郭勒盟",
+        "value": 11503,
+        "position": [
+          43.086024,
+          115.821345
+        ]
+      },
+      {
+        "name": "赤峰市",
+        "value": 0,
+        "position": [
+          42.229582,
+          118.859687
+        ]
+      },
+      {
+        "name": "通辽市",
+        "value": 0,
+        "position": [
+          43.645089,
+          122.236092
+        ]
+      },
+      {
+        "name": "兴安盟",
+        "value": 0,
+        "position": [
+          46.069232,
+          122.059924
+        ]
+      },
+      {
+        "name": "呼伦贝尔市",
+        "value": 0,
+        "position": [
+          49.183281,
+          119.762768
+        ]
+      }
+    ],
+
+    "superviseAmount": 17.72, // 累计监管金额(亿)
+    "cooperativeBank": 8, // 合作银行(家),
+    "cooperativeInsuranceCompany": 3, // 合作保险公司
+    "cowLivestockQuantity": 57049, // 牛只存栏量(头),
+    "sheepLivestockQuantity": 9724 // 养只存栏量(只)
+  },
+  "farmerDis": { // 养殖户分布
+    "GMVTotalAmount": 191.04,
+    "mallProvider": 41,
+    "enterCattleSupermarket": 97,
+    "slaughterTradeAmount": 9.93,
+    "slaughterProcessors": 6,
+    "serviceFarmer": {
+      "quantity": 56970,
+      "addedToday": 13,
+      "flag": 0
+    },
+    "raiseMaster": {
+      "quantity": 891,
+      "addedToday": 13,
+      "flag": 0
+    },
+    "areaPartner": {
+      "quantity": 891,
+      "addedToday": 13,
+      "flag": 0
+    },
+    "mapData": [
+      {
+        "name": "阿拉善盟",
+        "value": 0,
+        "position": [
+          39.961166,
+          103.660587
+        ]
+      },
+      {
+        "name": "乌海市",
+        "value": 0,
+        "position": [
+          39.637643,
+          106.815344
+        ]
+      },
+      {
+        "name": "巴彦淖尔市",
+        "value": 0,
+        "position": [
+          40.725965,
+          107.406485
+        ]
+      },
+      {
+        "name": "鄂尔多斯市",
+        "value": 0,
+        "position": [
+          39.600319,
+          109.780743
+        ]
+      },
+      {
+        "name": "包头市",
+        "value": 0,
+        "position": [
+          40.623068,
+          109.926106
+        ]
+      },
+      {
+        "name": "呼和浩特市",
+        "value": 0,
+        "position": [
+          40.843366,
+          111.757676
+        ]
+      },
+      {
+        "name": "乌兰察布市",
+        "value": 0,
+        "position": [
+          40.997141,
+          113.143467
+        ]
+      },
+      {
+        "name": "锡林郭勒盟",
+        "value": 11503,
+        "position": [
+          43.086024,
+          115.821345
+        ]
+      },
+      {
+        "name": "赤峰市",
+        "value": 0,
+        "position": [
+          42.229582,
+          118.859687
+        ]
+      },
+      {
+        "name": "通辽市",
+        "value": 0,
+        "position": [
+          43.645089,
+          122.236092
+        ]
+      },
+      {
+        "name": "兴安盟",
+        "value": 0,
+        "position": [
+          46.069232,
+          122.059924
+        ]
+      },
+      {
+        "name": "呼伦贝尔市",
+        "value": 0,
+        "position": [
+          49.183281,
+          119.762768
+        ]
+      }
+    ],
+    "superviseAmount": 17.72,
+    "cooperativeBank": 8,
+    "cooperativeInsuranceCompany": 3,
+    "cowLivestockQuantity": 57049,
+    "sheepLivestockQuantity": 9724
+  }
+}

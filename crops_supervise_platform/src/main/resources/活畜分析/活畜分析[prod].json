@@ -1,0 +1,5028 @@
+{
+  "head": {
+    "cowLivestockCount": 13820,
+    "sheepLivestockCount": 225230,
+    "bossyLivestockCount": 9620,
+    "breedingOxenCount": 100,
+    "areaCowImmuneDensity": "85.20%",
+    "areaCowSheepDensity": "80.25%",
+    "fourthQuarterCases": 257
+  },
+  "livestockKindDis": {
+    "cow": {
+      "label": [
+        "种公牛",
+        "基础母牛",
+        "犊牛",
+        "育肥公牛",
+        "育成牛"
+      ],
+      "value": [
+        100,
+        5500,
+        4800,
+        2800,
+        620
+      ]
+    },
+    "sheep": {
+      "label": [
+        "基础母羊",
+        "羊羔",
+        "种公羊"
+      ],
+      "value": [
+        119200,
+        115850,
+        1750
+      ]
+    }
+  },
+  "marketDynamicState": {
+    "cow": {
+      "nearThreeMonth": {
+        "cropAmount": 1756,
+        "rate": "10.58%",
+        "flag": 0,
+        "label": [],
+        "value": [738,519,499]
+      },
+      "nearSixMonth": {
+        "cropAmount": 2877,
+        "rate": "15.18%",
+        "flag": 0,
+        "label": [],
+        "value": [324,395,402,738,519,499]
+      },
+      "thisYear": {
+        "cropAmount": 4749,
+        "rate": "18.16%",
+        "flag": 0,
+        "label": [],
+        "value": [460,290,355,210,259,298,324,395,402,738,519,499]
+      }
+    },
+    "sheep": {
+      "nearThreeMonth": {
+        "cropAmount": 3074,
+        "rate": "20.83%",
+        "flag": 0,
+        "label": [],
+        "value": [937,1071,1066]
+      },
+      "nearSixMonth": {
+        "cropAmount": 6023,
+        "rate": "10.49%",
+        "flag": 0,
+        "label": [],
+        "value": [951,970,1028,937,1071,1066]
+      },
+      "thisYear": {
+        "cropAmount": 10551,
+        "rate": "17.15%",
+        "flag": 0,
+        "label": [],
+        "value": [962,826,695,658,665,722,951,970,1028,937,1071,1066]
+      }
+    }
+  },
+  "bossyBreedOverview": {
+    "breedingRate": "93.20%",
+    "joinBreedingRate": "82%",
+    "abortionRate": "32.85%",
+    "pregnancyRate": "93.41%",
+    "survivalRate": "93.65%"
+  },
+  "map": {
+    "livestockDis": [
+      {
+        "city": "阿拉善盟",
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "额济纳旗",
+            "account": 0,
+            "position": [
+              101.06,
+              41.95
+            ]
+          },
+          {
+            "city": "阿拉善右旗",
+            "account": 0,
+            "position": [
+              101.67,
+              39.22
+            ]
+          },
+          {
+            "city": "阿拉善左旗",
+            "account": 0,
+            "position": [
+              105.67,
+              38.83
+            ]
+          }
+        ]
+      },
+      {
+        "city": "乌海市",
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "达尔罕茂明安联合旗",
+            "account": 0,
+            "position": [
+              110.43,
+              41.70
+            ]
+          },
+          {
+            "city": "白云鄂博矿区",
+            "account": 0,
+            "position": [
+              109.97,
+              41.77
+            ]
+          },
+          {
+            "city": "固阳县",
+            "account": 0,
+            "position": [
+              110.06,
+              41.03
+            ]
+          },
+          {
+            "city": "昆都仑区",
+            "account": 0,
+            "position": [
+              109.84,
+              40.66
+            ]
+          },
+          {
+            "city": "九原区",
+            "account": 0,
+            "position": [
+              109.97,
+              40.61
+            ]
+          },
+          {
+            "city": "青山区",
+            "account": 0,
+            "position": [
+              114.39,
+              30.64
+            ]
+          },
+          {
+            "city": "东河区",
+            "account": 0,
+            "position": [
+              110.04,
+              40.58
+            ]
+          },
+          {
+            "city": "石拐区",
+            "account": 0,
+            "position": [
+              110.06,
+              40.68
+            ]
+          },
+          {
+            "city": "土默特右旗",
+            "account": 0,
+            "position": [
+              110.53,
+              40.58
+            ]
+          }
+        ]
+      },
+      {
+        "city": "巴彦淖尔市",
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "乌拉特后旗",
+            "account": 0,
+            "position": [
+              106.82,
+              39.69
+            ]
+          },
+          {
+            "city": "磴口县",
+            "account": 0,
+            "position": [
+              106.73,
+              39.51
+            ]
+          },
+          {
+            "city": "杭锦后旗",
+            "account": 0,
+            "position": [
+              106.89,
+              39.44
+            ]
+          },
+          {
+            "city": "临河区",
+            "account": 0,
+            "position": [
+              106.89,
+              39.44
+            ]
+          },
+          {
+            "city": "五原县",
+            "account": 0,
+            "position": [
+              106.89,
+              39.44
+            ]
+          },
+          {
+            "city": "乌拉特中旗",
+            "account": 0,
+            "position": [
+              106.89,
+              39.44
+            ]
+          },
+          {
+            "city": "乌拉特前旗",
+            "account": 0,
+            "position": [
+              106.89,
+              39.44
+            ]
+          }
+        ]
+      },
+      {
+        "city": "鄂尔多斯市",
+        "account": 4510,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "鄂托克前旗",
+            "account": 0,
+            "position": [
+              107.48,
+              38.18
+            ]
+          },
+          {
+            "city": "鄂托克旗",
+            "account": 0,
+            "position": [
+              107.98,
+              39.09
+            ]
+          },
+          {
+            "city": "杭锦旗",
+            "account": 975,
+            "position": [
+              108.74,
+              39.83
+            ]
+          },
+          {
+            "city": "乌审旗",
+            "account": 1200,
+            "position": [
+              108.82,
+              38.60
+            ]
+          },
+          {
+            "city": "伊金霍洛旗",
+            "account": 2335,
+            "position": [
+              109.75,
+              39.57
+            ]
+          },
+          {
+            "city": "康巴什区",
+            "account": 0,
+            "position": [
+              109.86,
+              39.61
+            ]
+          },
+          {
+            "city": "东胜区",
+            "account": 0,
+            "position": [
+              109.96,
+              39.82
+            ]
+          },
+          {
+            "city": "达拉特旗",
+            "account": 0,
+            "position": [
+              110.03,
+              40.41
+            ]
+          },
+          {
+            "city": "准格尔旗",
+            "account": 0,
+            "position": [
+              111.24,
+              39.86
+            ]
+          }
+        ]
+      },
+      {
+        "city": "包头市",
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "乌拉特后旗",
+            "account": 0,
+            "position": [
+              106.82,
+              39.69
+            ]
+          },
+          {
+            "city": "磴口县",
+            "account": 0,
+            "position": [
+              106.73,
+              39.51
+            ]
+          },
+          {
+            "city": "杭锦后旗",
+            "account": 0,
+            "position": [
+              106.89,
+              39.44
+            ]
+          },
+          {
+            "city": "临河区",
+            "account": 0,
+            "position": [
+              106.89,
+              39.44
+            ]
+          },
+          {
+            "city": "五原县",
+            "account": 0,
+            "position": [
+              106.89,
+              39.44
+            ]
+          },
+          {
+            "city": "乌拉特中旗",
+            "account": 0,
+            "position": [
+              106.89,
+              39.44
+            ]
+          },
+          {
+            "city": "乌拉特前旗",
+            "account": 0,
+            "position": [
+              106.89,
+              39.44
+            ]
+          }
+        ]
+      },
+      {
+        "city": "呼和浩特市",
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "武川县",
+            "account": 0,
+            "position": [
+              111.45,
+              41.10
+            ]
+          },
+          {
+            "city": "土默特左旗",
+            "account": 0,
+            "position": [
+              111.16,
+              40.73
+            ]
+          },
+          {
+            "city": "托克托县",
+            "account": 0,
+            "position": [
+              111.19,
+              40.28
+            ]
+          },
+          {
+            "city": "清水河县",
+            "account": 0,
+            "position": [
+              111.65,
+              39.92
+            ]
+          },
+          {
+            "city": "和林格尔县",
+            "account": 0,
+            "position": [
+              111.82,
+              40.38
+            ]
+          },
+          {
+            "city": "玉泉区",
+            "account": 0,
+            "position": [
+              111.67,
+              40.75
+            ]
+          },
+          {
+            "city": "赛罕区",
+            "account": 0,
+            "position": [
+              111.70,
+              40.79
+            ]
+          },
+          {
+            "city": "回民区",
+            "account": 0,
+            "position": [
+              111.62,
+              40.81
+            ]
+          },
+          {
+            "city": "新城区",
+            "account": 0,
+            "position": [
+              108.96,
+              34.27
+            ]
+          }
+        ]
+      },
+      {
+        "city": "乌兰察布市",
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "四子王旗",
+            "account": 0,
+            "position": [
+              111.71,
+              41.53
+            ]
+          },
+          {
+            "city": "察哈尔右翼中旗",
+            "account": 0,
+            "position": [
+              112.64,
+              41.28
+            ]
+          },
+          {
+            "city": "察哈尔右翼后旗",
+            "account": 0,
+            "position": [
+              113.19,
+              41.44
+            ]
+          },
+          {
+            "city": "商都县",
+            "account": 0,
+            "position": [
+              113.58,
+              41.56
+            ]
+          },
+          {
+            "city": "化德县",
+            "account": 0,
+            "position": [
+              114.01,
+              41.90
+            ]
+          },
+          {
+            "city": "卓资县",
+            "account": 0,
+            "position": [
+              112.58,
+              40.89
+            ]
+          },
+          {
+            "city": "集宁区",
+            "account": 0,
+            "position": [
+              113.17,
+              41.00
+            ]
+          },
+          {
+            "city": "察哈尔右翼前旗",
+            "account": 0,
+            "position": [
+              113.21,
+              40.78
+            ]
+          },
+          {
+            "city": "兴和县",
+            "account": 0,
+            "position": [
+              113.83,
+              40.87
+            ]
+          },
+          {
+            "city": "凉城县",
+            "account": 0,
+            "position": [
+              112.50,
+              40.53
+            ]
+          },
+          {
+            "city": "丰镇市",
+            "account": 0,
+            "position": [
+              113.11,
+              40.44
+            ]
+          }
+        ]
+      },
+      {
+        "city": "锡林郭勒盟",
+        "account": 194620,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "二连浩特市",
+            "account": 0,
+            "position": [
+              111.95,
+              43.64
+            ]
+          },
+          {
+            "city": "苏尼特右旗",
+            "account": 26935,
+            "position": [
+              112.64,
+              42.74
+            ]
+          },
+          {
+            "city": "镶黄旗",
+            "account": 4285,
+            "position": [
+              116.29,
+              40.03
+            ]
+          },
+          {
+            "city": "正镶白旗",
+            "account": 6985,
+            "position": [
+              115.03,
+              42.29
+            ]
+          },
+          {
+            "city": "太仆寺旗",
+            "account": 9100,
+            "position": [
+              115.28,
+              41.88
+            ]
+          },
+          {
+            "city": "正蓝旗",
+            "account": 21230,
+            "position": [
+              115.99,
+              42.24
+            ]
+          },
+          {
+            "city": "多伦县",
+            "account": 3060,
+            "position": [
+              116.49,
+              42.20
+            ]
+          },
+          {
+            "city": "苏尼特左旗",
+            "account": 19230,
+            "position": [
+              113.67,
+              43.86
+            ]
+          },
+          {
+            "city": "阿巴噶旗",
+            "account": 10295,
+            "position": [
+              114.95,
+              44.02
+            ]
+          },
+          {
+            "city": "锡林浩特市",
+            "account": 43790,
+            "position": [
+              116.09,
+              43.93
+            ]
+          },
+          {
+            "city": "东乌珠穆沁旗",
+            "account": 23585,
+            "position": [
+              116.98,
+              45.50
+            ]
+          },
+          {
+            "city": "西乌珠穆沁旗",
+            "account": 35325,
+            "position": [
+              117.61,
+              44.59
+            ]
+          }
+        ]
+      },
+      {
+        "city": "赤峰市",
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "克什克腾旗",
+            "account": 0,
+            "position": [
+              117.55,
+              43.27
+            ]
+          },
+          {
+            "city": "林西县",
+            "account": 0,
+            "position": [
+              118.06,
+              43.62
+            ]
+          },
+          {
+            "city": "巴林右旗",
+            "account": 0,
+            "position": [
+              118.66,
+              43.53
+            ]
+          },
+          {
+            "city": "巴林左旗",
+            "account": 0,
+            "position": [
+              119.36,
+              43.96
+            ]
+          },
+          {
+            "city": "阿鲁科尔沁旗",
+            "account": 0,
+            "position": [
+              120.07,
+              43.87
+            ]
+          },
+          {
+            "city": "翁牛特旗",
+            "account": 0,
+            "position": [
+              119.01,
+              42.94
+            ]
+          },
+          {
+            "city": "松山区",
+            "account": 0,
+            "position": [
+              118.92,
+              42.30
+            ]
+          },
+          {
+            "city": "红山区",
+            "account": 0,
+            "position": [
+              118.95,
+              42.30
+            ]
+          },
+          {
+            "city": "元宝山区",
+            "account": 0,
+            "position": [
+              119.29,
+              42.04
+            ]
+          },
+          {
+            "city": "喀喇沁旗",
+            "account": 0,
+            "position": [
+              118.70,
+              41.93
+            ]
+          },
+          {
+            "city": "敖汉旗",
+            "account": 0,
+            "position": [
+              119.92,
+              42.29
+            ]
+          },
+          {
+            "city": "宁城县",
+            "account": 0,
+            "position": [
+              119.32,
+              41.60
+            ]
+          }
+        ]
+      },
+      {
+        "city": "通辽市",
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "霍林郭勒市",
+            "account": 0,
+            "position": [
+              119.68,
+              45.53
+            ]
+          },
+          {
+            "city": "扎鲁特旗",
+            "account": 0,
+            "position": [
+              120.92,
+              44.57
+            ]
+          },
+          {
+            "city": "开鲁县",
+            "account": 0,
+            "position": [
+              121.32,
+              43.60
+            ]
+          },
+          {
+            "city": "科尔沁左翼中旗",
+            "account": 0,
+            "position": [
+              123.31,
+              44.13
+            ]
+          },
+          {
+            "city": "科尔沁区",
+            "account": 0,
+            "position": [
+              122.26,
+              43.62
+            ]
+          },
+          {
+            "city": "科尔沁左翼后旗",
+            "account": 0,
+            "position": [
+              122.36,
+              42.94
+            ]
+          },
+          {
+            "city": "库伦旗",
+            "account": 0,
+            "position": [
+              121.81,
+              42.74
+            ]
+          },
+          {
+            "city": "奈曼旗",
+            "account": 0,
+            "position": [
+              120.66,
+              42.87
+            ]
+          }
+        ]
+      },
+      {
+        "city": "兴安盟",
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "阿尔山市",
+            "account": 0,
+            "position": [
+              119.94,
+              47.18
+            ]
+          },
+          {
+            "city": "科尔沁右翼前旗",
+            "account": 0,
+            "position": [
+              121.95,
+              46.08
+            ]
+          },
+          {
+            "city": "扎赉特旗",
+            "account": 0,
+            "position": [
+              122.90,
+              46.72
+            ]
+          },
+          {
+            "city": "乌兰浩特市",
+            "account": 0,
+            "position": [
+              122.09,
+              46.07
+            ]
+          },
+          {
+            "city": "突泉县",
+            "account": 0,
+            "position": [
+              121.59,
+              45.38
+            ]
+          },
+          {
+            "city": "科尔沁右翼中旗",
+            "account": 0,
+            "position": [
+              121.48,
+              45.06
+            ]
+          }
+        ]
+      },
+      {
+        "city": "呼伦贝尔市",
+        "account": 39920,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "新巴尔虎右旗",
+            "account": 13510,
+            "position": [
+              116.82,
+              48.67
+            ]
+          },
+          {
+            "city": "满洲里市",
+            "account": 0,
+            "position": [
+              117.38,
+              49.60
+            ]
+          },
+          {
+            "city": "扎赉诺尔区",
+            "account": 0,
+            "position": [
+              117.67,
+              49.51
+            ]
+          },
+          {
+            "city": "新巴尔虎左旗",
+            "account": 15485,
+            "position": [
+              118.27,
+              48.22
+            ]
+          },
+          {
+            "city": "陈巴尔虎骑",
+            "account": 0,
+            "position": [
+              119.42,
+              49.33
+            ]
+          },
+          {
+            "city": "鄂温克族自治旗",
+            "account": 10925,
+            "position": [
+              119.76,
+              49.15
+            ]
+          },
+          {
+            "city": "根河市",
+            "account": 0,
+            "position": [
+              121.52,
+              50.78
+            ]
+          },
+          {
+            "city": "鄂伦春自治旗",
+            "account": 0,
+            "position": [
+              123.73,
+              50.59
+            ]
+          },
+          {
+            "city": "阿荣旗",
+            "account": 0,
+            "position": [
+              123.46,
+              48.13
+            ]
+          },
+          {
+            "city": "莫力达瓦达斡尔族自治旗",
+            "account": 0,
+            "position": [
+              124.52,
+              48.48
+            ]
+          },
+          {
+            "city": "额尔古纳市",
+            "account": 0,
+            "position": [
+              120.18,
+              50.24
+            ]
+          },
+          {
+            "city": "牙克石市",
+            "account": 0,
+            "position": [
+              120.71,
+              49.29
+            ]
+          },
+          {
+            "city": "扎兰屯市",
+            "account": 0,
+            "position": [
+              122.71,
+              48.03
+            ]
+          }
+        ]
+      }
+    ],
+    "diseaseDis": {
+      "three": [
+        {
+          "city": "阿拉善盟",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "额济纳旗",
+              "account": 0,
+              "position": [
+                101.06,
+                41.95
+              ]
+            },
+            {
+              "city": "阿拉善右旗",
+              "account": 0,
+              "position": [
+                101.67,
+                39.22
+              ]
+            },
+            {
+              "city": "阿拉善左旗",
+              "account": 0,
+              "position": [
+                105.67,
+                38.83
+              ]
+            }
+          ]
+        },
+        {
+          "city": "乌海市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "达尔罕茂明安联合旗",
+              "account": 0,
+              "position": [
+                110.43,
+                41.70
+              ]
+            },
+            {
+              "city": "白云鄂博矿区",
+              "account": 0,
+              "position": [
+                109.97,
+                41.77
+              ]
+            },
+            {
+              "city": "固阳县",
+              "account": 0,
+              "position": [
+                110.06,
+                41.03
+              ]
+            },
+            {
+              "city": "昆都仑区",
+              "account": 0,
+              "position": [
+                109.84,
+                40.66
+              ]
+            },
+            {
+              "city": "九原区",
+              "account": 0,
+              "position": [
+                109.97,
+                40.61
+              ]
+            },
+            {
+              "city": "青山区",
+              "account": 0,
+              "position": [
+                114.39,
+                30.64
+              ]
+            },
+            {
+              "city": "东河区",
+              "account": 0,
+              "position": [
+                110.04,
+                40.58
+              ]
+            },
+            {
+              "city": "石拐区",
+              "account": 0,
+              "position": [
+                110.06,
+                40.68
+              ]
+            },
+            {
+              "city": "土默特右旗",
+              "account": 0,
+              "position": [
+                110.53,
+                40.58
+              ]
+            }
+          ]
+        },
+        {
+          "city": "巴彦淖尔市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "乌拉特后旗",
+              "account": 0,
+              "position": [
+                106.82,
+                39.69
+              ]
+            },
+            {
+              "city": "磴口县",
+              "account": 0,
+              "position": [
+                106.73,
+                39.51
+              ]
+            },
+            {
+              "city": "杭锦后旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "临河区",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "五原县",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "乌拉特中旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "乌拉特前旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            }
+          ]
+        },
+        {
+          "city": "鄂尔多斯市",
+          "account": 205,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "鄂托克前旗",
+              "account": 0,
+              "position": [
+                107.48,
+                38.18
+              ]
+            },
+            {
+              "city": "鄂托克旗",
+              "account": 0,
+              "position": [
+                107.98,
+                39.09
+              ]
+            },
+            {
+              "city": "杭锦旗",
+              "account": 3,
+              "position": [
+                108.74,
+                39.83
+              ]
+            },
+            {
+              "city": "乌审旗",
+              "account": 10,
+              "position": [
+                108.82,
+                38.60
+              ]
+            },
+            {
+              "city": "伊金霍洛旗",
+              "account": 13,
+              "position": [
+                109.75,
+                39.57
+              ]
+            },
+            {
+              "city": "康巴什区",
+              "account": 0,
+              "position": [
+                109.86,
+                39.61
+              ]
+            },
+            {
+              "city": "东胜区",
+              "account": 0,
+              "position": [
+                109.96,
+                39.82
+              ]
+            },
+            {
+              "city": "达拉特旗",
+              "account": 0,
+              "position": [
+                110.03,
+                40.41
+              ]
+            },
+            {
+              "city": "准格尔旗",
+              "account": 0,
+              "position": [
+                111.24,
+                39.86
+              ]
+            }
+          ]
+        },
+        {
+          "city": "包头市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "乌拉特后旗",
+              "account": 0,
+              "position": [
+                106.82,
+                39.69
+              ]
+            },
+            {
+              "city": "磴口县",
+              "account": 0,
+              "position": [
+                106.73,
+                39.51
+              ]
+            },
+            {
+              "city": "杭锦后旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "临河区",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "五原县",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "乌拉特中旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "乌拉特前旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            }
+          ]
+        },
+        {
+          "city": "呼和浩特市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "武川县",
+              "account": 0,
+              "position": [
+                111.45,
+                41.10
+              ]
+            },
+            {
+              "city": "土默特左旗",
+              "account": 0,
+              "position": [
+                111.16,
+                40.73
+              ]
+            },
+            {
+              "city": "托克托县",
+              "account": 0,
+              "position": [
+                111.19,
+                40.28
+              ]
+            },
+            {
+              "city": "清水河县",
+              "account": 0,
+              "position": [
+                111.65,
+                39.92
+              ]
+            },
+            {
+              "city": "和林格尔县",
+              "account": 0,
+              "position": [
+                111.82,
+                40.38
+              ]
+            },
+            {
+              "city": "玉泉区",
+              "account": 0,
+              "position": [
+                111.67,
+                40.75
+              ]
+            },
+            {
+              "city": "赛罕区",
+              "account": 0,
+              "position": [
+                111.70,
+                40.79
+              ]
+            },
+            {
+              "city": "回民区",
+              "account": 0,
+              "position": [
+                111.62,
+                40.81
+              ]
+            },
+            {
+              "city": "新城区",
+              "account": 0,
+              "position": [
+                108.96,
+                34.27
+              ]
+            }
+          ]
+        },
+        {
+          "city": "乌兰察布市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "四子王旗",
+              "account": 0,
+              "position": [
+                111.71,
+                41.53
+              ]
+            },
+            {
+              "city": "察哈尔右翼中旗",
+              "account": 0,
+              "position": [
+                112.64,
+                41.28
+              ]
+            },
+            {
+              "city": "察哈尔右翼后旗",
+              "account": 0,
+              "position": [
+                113.19,
+                41.44
+              ]
+            },
+            {
+              "city": "商都县",
+              "account": 0,
+              "position": [
+                113.58,
+                41.56
+              ]
+            },
+            {
+              "city": "化德县",
+              "account": 0,
+              "position": [
+                114.01,
+                41.90
+              ]
+            },
+            {
+              "city": "卓资县",
+              "account": 0,
+              "position": [
+                112.58,
+                40.89
+              ]
+            },
+            {
+              "city": "集宁区",
+              "account": 0,
+              "position": [
+                113.17,
+                41.00
+              ]
+            },
+            {
+              "city": "察哈尔右翼前旗",
+              "account": 0,
+              "position": [
+                113.21,
+                40.78
+              ]
+            },
+            {
+              "city": "兴和县",
+              "account": 0,
+              "position": [
+                113.83,
+                40.87
+              ]
+            },
+            {
+              "city": "凉城县",
+              "account": 0,
+              "position": [
+                112.50,
+                40.53
+              ]
+            },
+            {
+              "city": "丰镇市",
+              "account": 0,
+              "position": [
+                113.11,
+                40.44
+              ]
+            }
+          ]
+        },
+        {
+          "city": "锡林郭勒盟",
+          "account": 312,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "二连浩特市",
+              "account": 0,
+              "position": [
+                111.95,
+                43.64
+              ]
+            },
+            {
+              "city": "苏尼特右旗",
+              "account": 26,
+              "position": [
+                112.64,
+                42.74
+              ]
+            },
+            {
+              "city": "镶黄旗",
+              "account": 9,
+              "position": [
+                116.29,
+                40.03
+              ]
+            },
+            {
+              "city": "正镶白旗",
+              "account": 17,
+              "position": [
+                115.03,
+                42.29
+              ]
+            },
+            {
+              "city": "太仆寺旗",
+              "account": 26,
+              "position": [
+                115.28,
+                41.88
+              ]
+            },
+            {
+              "city": "正蓝旗",
+              "account": 30,
+              "position": [
+                115.99,
+                42.24
+              ]
+            },
+            {
+              "city": "多伦县",
+              "account": 13,
+              "position": [
+                116.49,
+                42.20
+              ]
+            },
+            {
+              "city": "苏尼特左旗",
+              "account": 28,
+              "position": [
+                113.67,
+                43.86
+              ]
+            },
+            {
+              "city": "阿巴噶旗",
+              "account": 27,
+              "position": [
+                114.95,
+                44.02
+              ]
+            },
+            {
+              "city": "锡林浩特市",
+              "account": 58,
+              "position": [
+                116.09,
+                43.93
+              ]
+            },
+            {
+              "city": "东乌珠穆沁旗",
+              "account": 27,
+              "position": [
+                116.98,
+                45.50
+              ]
+            },
+            {
+              "city": "西乌珠穆沁旗",
+              "account": 51,
+              "position": [
+                117.61,
+                44.59
+              ]
+            }
+          ]
+        },
+        {
+          "city": "赤峰市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "克什克腾旗",
+              "account": 0,
+              "position": [
+                117.55,
+                43.27
+              ]
+            },
+            {
+              "city": "林西县",
+              "account": 0,
+              "position": [
+                118.06,
+                43.62
+              ]
+            },
+            {
+              "city": "巴林右旗",
+              "account": 0,
+              "position": [
+                118.66,
+                43.53
+              ]
+            },
+            {
+              "city": "巴林左旗",
+              "account": 0,
+              "position": [
+                119.36,
+                43.96
+              ]
+            },
+            {
+              "city": "阿鲁科尔沁旗",
+              "account": 0,
+              "position": [
+                120.07,
+                43.87
+              ]
+            },
+            {
+              "city": "翁牛特旗",
+              "account": 0,
+              "position": [
+                119.01,
+                42.94
+              ]
+            },
+            {
+              "city": "松山区",
+              "account": 0,
+              "position": [
+                118.92,
+                42.30
+              ]
+            },
+            {
+              "city": "红山区",
+              "account": 0,
+              "position": [
+                118.95,
+                42.30
+              ]
+            },
+            {
+              "city": "元宝山区",
+              "account": 0,
+              "position": [
+                119.29,
+                42.04
+              ]
+            },
+            {
+              "city": "喀喇沁旗",
+              "account": 0,
+              "position": [
+                118.70,
+                41.93
+              ]
+            },
+            {
+              "city": "敖汉旗",
+              "account": 0,
+              "position": [
+                119.92,
+                42.29
+              ]
+            },
+            {
+              "city": "宁城县",
+              "account": 0,
+              "position": [
+                119.32,
+                41.60
+              ]
+            }
+          ]
+        },
+        {
+          "city": "通辽市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "霍林郭勒市",
+              "account": 0,
+              "position": [
+                119.68,
+                45.53
+              ]
+            },
+            {
+              "city": "扎鲁特旗",
+              "account": 0,
+              "position": [
+                120.92,
+                44.57
+              ]
+            },
+            {
+              "city": "开鲁县",
+              "account": 0,
+              "position": [
+                121.32,
+                43.60
+              ]
+            },
+            {
+              "city": "科尔沁左翼中旗",
+              "account": 0,
+              "position": [
+                123.31,
+                44.13
+              ]
+            },
+            {
+              "city": "科尔沁区",
+              "account": 0,
+              "position": [
+                122.26,
+                43.62
+              ]
+            },
+            {
+              "city": "科尔沁左翼后旗",
+              "account": 0,
+              "position": [
+                122.36,
+                42.94
+              ]
+            },
+            {
+              "city": "库伦旗",
+              "account": 0,
+              "position": [
+                121.81,
+                42.74
+              ]
+            },
+            {
+              "city": "奈曼旗",
+              "account": 0,
+              "position": [
+                120.66,
+                42.87
+              ]
+            }
+          ]
+        },
+        {
+          "city": "兴安盟",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "阿尔山市",
+              "account": 0,
+              "position": [
+                119.94,
+                47.18
+              ]
+            },
+            {
+              "city": "科尔沁右翼前旗",
+              "account": 0,
+              "position": [
+                121.95,
+                46.08
+              ]
+            },
+            {
+              "city": "扎赉特旗",
+              "account": 0,
+              "position": [
+                122.90,
+                46.72
+              ]
+            },
+            {
+              "city": "乌兰浩特市",
+              "account": 0,
+              "position": [
+                122.09,
+                46.07
+              ]
+            },
+            {
+              "city": "突泉县",
+              "account": 0,
+              "position": [
+                121.59,
+                45.38
+              ]
+            },
+            {
+              "city": "科尔沁右翼中旗",
+              "account": 0,
+              "position": [
+                121.48,
+                45.06
+              ]
+            }
+          ]
+        },
+        {
+          "city": "呼伦贝尔市",
+          "account": 58,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "新巴尔虎右旗",
+              "account": 25,
+              "position": [
+                116.82,
+                48.67
+              ]
+            },
+            {
+              "city": "满洲里市",
+              "account": 0,
+              "position": [
+                117.38,
+                49.60
+              ]
+            },
+            {
+              "city": "扎赉诺尔区",
+              "account": 0,
+              "position": [
+                117.67,
+                49.51
+              ]
+            },
+            {
+              "city": "新巴尔虎左旗",
+              "account": 26,
+              "position": [
+                118.27,
+                48.22
+              ]
+            },
+            {
+              "city": "陈巴尔虎骑",
+              "account": 0,
+              "position": [
+                119.42,
+                49.33
+              ]
+            },
+            {
+              "city": "鄂温克族自治旗",
+              "account": 7,
+              "position": [
+                119.76,
+                49.15
+              ]
+            },
+            {
+              "city": "根河市",
+              "account": 0,
+              "position": [
+                121.52,
+                50.78
+              ]
+            },
+            {
+              "city": "鄂伦春自治旗",
+              "account": 0,
+              "position": [
+                123.73,
+                50.59
+              ]
+            },
+            {
+              "city": "阿荣旗",
+              "account": 0,
+              "position": [
+                123.46,
+                48.13
+              ]
+            },
+            {
+              "city": "莫力达瓦达斡尔族自治旗",
+              "account": 0,
+              "position": [
+                124.52,
+                48.48
+              ]
+            },
+            {
+              "city": "额尔古纳市",
+              "account": 0,
+              "position": [
+                120.18,
+                50.24
+              ]
+            },
+            {
+              "city": "牙克石市",
+              "account": 0,
+              "position": [
+                120.71,
+                49.29
+              ]
+            },
+            {
+              "city": "扎兰屯市",
+              "account": 0,
+              "position": [
+                122.71,
+                48.03
+              ]
+            }
+          ]
+        }
+      ],
+      "six": [
+        {
+          "city": "阿拉善盟",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "额济纳旗",
+              "account": 0,
+              "position": [
+                101.06,
+                41.95
+              ]
+            },
+            {
+              "city": "阿拉善右旗",
+              "account": 0,
+              "position": [
+                101.67,
+                39.22
+              ]
+            },
+            {
+              "city": "阿拉善左旗",
+              "account": 0,
+              "position": [
+                105.67,
+                38.83
+              ]
+            }
+          ]
+        },
+        {
+          "city": "乌海市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "达尔罕茂明安联合旗",
+              "account": 0,
+              "position": [
+                110.43,
+                41.70
+              ]
+            },
+            {
+              "city": "白云鄂博矿区",
+              "account": 0,
+              "position": [
+                109.97,
+                41.77
+              ]
+            },
+            {
+              "city": "固阳县",
+              "account": 0,
+              "position": [
+                110.06,
+                41.03
+              ]
+            },
+            {
+              "city": "昆都仑区",
+              "account": 0,
+              "position": [
+                109.84,
+                40.66
+              ]
+            },
+            {
+              "city": "九原区",
+              "account": 0,
+              "position": [
+                109.97,
+                40.61
+              ]
+            },
+            {
+              "city": "青山区",
+              "account": 0,
+              "position": [
+                114.39,
+                30.64
+              ]
+            },
+            {
+              "city": "东河区",
+              "account": 0,
+              "position": [
+                110.04,
+                40.58
+              ]
+            },
+            {
+              "city": "石拐区",
+              "account": 0,
+              "position": [
+                110.06,
+                40.68
+              ]
+            },
+            {
+              "city": "土默特右旗",
+              "account": 0,
+              "position": [
+                110.53,
+                40.58
+              ]
+            }
+          ]
+        },
+        {
+          "city": "巴彦淖尔市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "乌拉特后旗",
+              "account": 0,
+              "position": [
+                106.82,
+                39.69
+              ]
+            },
+            {
+              "city": "磴口县",
+              "account": 0,
+              "position": [
+                106.73,
+                39.51
+              ]
+            },
+            {
+              "city": "杭锦后旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "临河区",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "五原县",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "乌拉特中旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "乌拉特前旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            }
+          ]
+        },
+        {
+          "city": "鄂尔多斯市",
+          "account": 52,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "鄂托克前旗",
+              "account": 0,
+              "position": [
+                107.48,
+                38.18
+              ]
+            },
+            {
+              "city": "鄂托克旗",
+              "account": 0,
+              "position": [
+                107.98,
+                39.09
+              ]
+            },
+            {
+              "city": "杭锦旗",
+              "account": 7,
+              "position": [
+                108.74,
+                39.83
+              ]
+            },
+            {
+              "city": "乌审旗",
+              "account": 20,
+              "position": [
+                108.82,
+                38.60
+              ]
+            },
+            {
+              "city": "伊金霍洛旗",
+              "account": 25,
+              "position": [
+                109.75,
+                39.57
+              ]
+            },
+            {
+              "city": "康巴什区",
+              "account": 0,
+              "position": [
+                109.86,
+                39.61
+              ]
+            },
+            {
+              "city": "东胜区",
+              "account": 0,
+              "position": [
+                109.96,
+                39.82
+              ]
+            },
+            {
+              "city": "达拉特旗",
+              "account": 0,
+              "position": [
+                110.03,
+                40.41
+              ]
+            },
+            {
+              "city": "准格尔旗",
+              "account": 0,
+              "position": [
+                111.24,
+                39.86
+              ]
+            }
+          ]
+        },
+        {
+          "city": "包头市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "乌拉特后旗",
+              "account": 0,
+              "position": [
+                106.82,
+                39.69
+              ]
+            },
+            {
+              "city": "磴口县",
+              "account": 0,
+              "position": [
+                106.73,
+                39.51
+              ]
+            },
+            {
+              "city": "杭锦后旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "临河区",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "五原县",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "乌拉特中旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "乌拉特前旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            }
+          ]
+        },
+        {
+          "city": "呼和浩特市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "武川县",
+              "account": 0,
+              "position": [
+                111.45,
+                41.10
+              ]
+            },
+            {
+              "city": "土默特左旗",
+              "account": 0,
+              "position": [
+                111.16,
+                40.73
+              ]
+            },
+            {
+              "city": "托克托县",
+              "account": 0,
+              "position": [
+                111.19,
+                40.28
+              ]
+            },
+            {
+              "city": "清水河县",
+              "account": 0,
+              "position": [
+                111.65,
+                39.92
+              ]
+            },
+            {
+              "city": "和林格尔县",
+              "account": 0,
+              "position": [
+                111.82,
+                40.38
+              ]
+            },
+            {
+              "city": "玉泉区",
+              "account": 0,
+              "position": [
+                111.67,
+                40.75
+              ]
+            },
+            {
+              "city": "赛罕区",
+              "account": 0,
+              "position": [
+                111.70,
+                40.79
+              ]
+            },
+            {
+              "city": "回民区",
+              "account": 0,
+              "position": [
+                111.62,
+                40.81
+              ]
+            },
+            {
+              "city": "新城区",
+              "account": 0,
+              "position": [
+                108.96,
+                34.27
+              ]
+            }
+          ]
+        },
+        {
+          "city": "乌兰察布市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "四子王旗",
+              "account": 0,
+              "position": [
+                111.71,
+                41.53
+              ]
+            },
+            {
+              "city": "察哈尔右翼中旗",
+              "account": 0,
+              "position": [
+                112.64,
+                41.28
+              ]
+            },
+            {
+              "city": "察哈尔右翼后旗",
+              "account": 0,
+              "position": [
+                113.19,
+                41.44
+              ]
+            },
+            {
+              "city": "商都县",
+              "account": 0,
+              "position": [
+                113.58,
+                41.56
+              ]
+            },
+            {
+              "city": "化德县",
+              "account": 0,
+              "position": [
+                114.01,
+                41.90
+              ]
+            },
+            {
+              "city": "卓资县",
+              "account": 0,
+              "position": [
+                112.58,
+                40.89
+              ]
+            },
+            {
+              "city": "集宁区",
+              "account": 0,
+              "position": [
+                113.17,
+                41.00
+              ]
+            },
+            {
+              "city": "察哈尔右翼前旗",
+              "account": 0,
+              "position": [
+                113.21,
+                40.78
+              ]
+            },
+            {
+              "city": "兴和县",
+              "account": 0,
+              "position": [
+                113.83,
+                40.87
+              ]
+            },
+            {
+              "city": "凉城县",
+              "account": 0,
+              "position": [
+                112.50,
+                40.53
+              ]
+            },
+            {
+              "city": "丰镇市",
+              "account": 0,
+              "position": [
+                113.11,
+                40.44
+              ]
+            }
+          ]
+        },
+        {
+          "city": "锡林郭勒盟",
+          "account": 624,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "二连浩特市",
+              "account": 0,
+              "position": [
+                111.95,
+                43.64
+              ]
+            },
+            {
+              "city": "苏尼特右旗",
+              "account": 53,
+              "position": [
+                112.64,
+                42.74
+              ]
+            },
+            {
+              "city": "镶黄旗",
+              "account": 18,
+              "position": [
+                116.29,
+                40.03
+              ]
+            },
+            {
+              "city": "正镶白旗",
+              "account": 34,
+              "position": [
+                115.03,
+                42.29
+              ]
+            },
+            {
+              "city": "太仆寺旗",
+              "account": 52,
+              "position": [
+                115.28,
+                41.88
+              ]
+            },
+            {
+              "city": "正蓝旗",
+              "account": 60,
+              "position": [
+                115.99,
+                42.24
+              ]
+            },
+            {
+              "city": "多伦县",
+              "account": 27,
+              "position": [
+                116.49,
+                42.20
+              ]
+            },
+            {
+              "city": "苏尼特左旗",
+              "account": 57,
+              "position": [
+                113.67,
+                43.86
+              ]
+            },
+            {
+              "city": "阿巴噶旗",
+              "account": 54,
+              "position": [
+                114.95,
+                44.02
+              ]
+            },
+            {
+              "city": "锡林浩特市",
+              "account": 115,
+              "position": [
+                116.09,
+                43.93
+              ]
+            },
+            {
+              "city": "东乌珠穆沁旗",
+              "account": 54,
+              "position": [
+                116.98,
+                45.50
+              ]
+            },
+            {
+              "city": "西乌珠穆沁旗",
+              "account": 103,
+              "position": [
+                117.61,
+                44.59
+              ]
+            }
+          ]
+        },
+        {
+          "city": "赤峰市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "克什克腾旗",
+              "account": 0,
+              "position": [
+                117.55,
+                43.27
+              ]
+            },
+            {
+              "city": "林西县",
+              "account": 0,
+              "position": [
+                118.06,
+                43.62
+              ]
+            },
+            {
+              "city": "巴林右旗",
+              "account": 0,
+              "position": [
+                118.66,
+                43.53
+              ]
+            },
+            {
+              "city": "巴林左旗",
+              "account": 0,
+              "position": [
+                119.36,
+                43.96
+              ]
+            },
+            {
+              "city": "阿鲁科尔沁旗",
+              "account": 0,
+              "position": [
+                120.07,
+                43.87
+              ]
+            },
+            {
+              "city": "翁牛特旗",
+              "account": 0,
+              "position": [
+                119.01,
+                42.94
+              ]
+            },
+            {
+              "city": "松山区",
+              "account": 0,
+              "position": [
+                118.92,
+                42.30
+              ]
+            },
+            {
+              "city": "红山区",
+              "account": 0,
+              "position": [
+                118.95,
+                42.30
+              ]
+            },
+            {
+              "city": "元宝山区",
+              "account": 0,
+              "position": [
+                119.29,
+                42.04
+              ]
+            },
+            {
+              "city": "喀喇沁旗",
+              "account": 0,
+              "position": [
+                118.70,
+                41.93
+              ]
+            },
+            {
+              "city": "敖汉旗",
+              "account": 0,
+              "position": [
+                119.92,
+                42.29
+              ]
+            },
+            {
+              "city": "宁城县",
+              "account": 0,
+              "position": [
+                119.32,
+                41.60
+              ]
+            }
+          ]
+        },
+        {
+          "city": "通辽市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "霍林郭勒市",
+              "account": 0,
+              "position": [
+                119.68,
+                45.53
+              ]
+            },
+            {
+              "city": "扎鲁特旗",
+              "account": 0,
+              "position": [
+                120.92,
+                44.57
+              ]
+            },
+            {
+              "city": "开鲁县",
+              "account": 0,
+              "position": [
+                121.32,
+                43.60
+              ]
+            },
+            {
+              "city": "科尔沁左翼中旗",
+              "account": 0,
+              "position": [
+                123.31,
+                44.13
+              ]
+            },
+            {
+              "city": "科尔沁区",
+              "account": 0,
+              "position": [
+                122.26,
+                43.62
+              ]
+            },
+            {
+              "city": "科尔沁左翼后旗",
+              "account": 0,
+              "position": [
+                122.36,
+                42.94
+              ]
+            },
+            {
+              "city": "库伦旗",
+              "account": 0,
+              "position": [
+                121.81,
+                42.74
+              ]
+            },
+            {
+              "city": "奈曼旗",
+              "account": 0,
+              "position": [
+                120.66,
+                42.87
+              ]
+            }
+          ]
+        },
+        {
+          "city": "兴安盟",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "阿尔山市",
+              "account": 0,
+              "position": [
+                119.94,
+                47.18
+              ]
+            },
+            {
+              "city": "科尔沁右翼前旗",
+              "account": 0,
+              "position": [
+                121.95,
+                46.08
+              ]
+            },
+            {
+              "city": "扎赉特旗",
+              "account": 0,
+              "position": [
+                122.90,
+                46.72
+              ]
+            },
+            {
+              "city": "乌兰浩特市",
+              "account": 0,
+              "position": [
+                122.09,
+                46.07
+              ]
+            },
+            {
+              "city": "突泉县",
+              "account": 0,
+              "position": [
+                121.59,
+                45.38
+              ]
+            },
+            {
+              "city": "科尔沁右翼中旗",
+              "account": 0,
+              "position": [
+                121.48,
+                45.06
+              ]
+            }
+          ]
+        },
+        {
+          "city": "呼伦贝尔市",
+          "account": 115,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "新巴尔虎右旗",
+              "account": 49,
+              "position": [
+                116.82,
+                48.67
+              ]
+            },
+            {
+              "city": "满洲里市",
+              "account": 0,
+              "position": [
+                117.38,
+                49.60
+              ]
+            },
+            {
+              "city": "扎赉诺尔区",
+              "account": 0,
+              "position": [
+                117.67,
+                49.51
+              ]
+            },
+            {
+              "city": "新巴尔虎左旗",
+              "account": 53,
+              "position": [
+                118.27,
+                48.22
+              ]
+            },
+            {
+              "city": "陈巴尔虎骑",
+              "account": 0,
+              "position": [
+                119.42,
+                49.33
+              ]
+            },
+            {
+              "city": "鄂温克族自治旗",
+              "account": 13,
+              "position": [
+                119.76,
+                49.15
+              ]
+            },
+            {
+              "city": "根河市",
+              "account": 0,
+              "position": [
+                121.52,
+                50.78
+              ]
+            },
+            {
+              "city": "鄂伦春自治旗",
+              "account": 0,
+              "position": [
+                123.73,
+                50.59
+              ]
+            },
+            {
+              "city": "阿荣旗",
+              "account": 0,
+              "position": [
+                123.46,
+                48.13
+              ]
+            },
+            {
+              "city": "莫力达瓦达斡尔族自治旗",
+              "account": 0,
+              "position": [
+                124.52,
+                48.48
+              ]
+            },
+            {
+              "city": "额尔古纳市",
+              "account": 0,
+              "position": [
+                120.18,
+                50.24
+              ]
+            },
+            {
+              "city": "牙克石市",
+              "account": 0,
+              "position": [
+                120.71,
+                49.29
+              ]
+            },
+            {
+              "city": "扎兰屯市",
+              "account": 0,
+              "position": [
+                122.71,
+                48.03
+              ]
+            }
+          ]
+        }
+      ],
+      "year": [
+        {
+          "city": "阿拉善盟",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "额济纳旗",
+              "account": 0,
+              "position": [
+                101.06,
+                41.95
+              ]
+            },
+            {
+              "city": "阿拉善右旗",
+              "account": 0,
+              "position": [
+                101.67,
+                39.22
+              ]
+            },
+            {
+              "city": "阿拉善左旗",
+              "account": 0,
+              "position": [
+                105.67,
+                38.83
+              ]
+            }
+          ]
+        },
+        {
+          "city": "乌海市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "达尔罕茂明安联合旗",
+              "account": 0,
+              "position": [
+                110.43,
+                41.70
+              ]
+            },
+            {
+              "city": "白云鄂博矿区",
+              "account": 0,
+              "position": [
+                109.97,
+                41.77
+              ]
+            },
+            {
+              "city": "固阳县",
+              "account": 0,
+              "position": [
+                110.06,
+                41.03
+              ]
+            },
+            {
+              "city": "昆都仑区",
+              "account": 0,
+              "position": [
+                109.84,
+                40.66
+              ]
+            },
+            {
+              "city": "九原区",
+              "account": 0,
+              "position": [
+                109.97,
+                40.61
+              ]
+            },
+            {
+              "city": "青山区",
+              "account": 0,
+              "position": [
+                114.39,
+                30.64
+              ]
+            },
+            {
+              "city": "东河区",
+              "account": 0,
+              "position": [
+                110.04,
+                40.58
+              ]
+            },
+            {
+              "city": "石拐区",
+              "account": 0,
+              "position": [
+                110.06,
+                40.68
+              ]
+            },
+            {
+              "city": "土默特右旗",
+              "account": 0,
+              "position": [
+                110.53,
+                40.58
+              ]
+            }
+          ]
+        },
+        {
+          "city": "巴彦淖尔市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "乌拉特后旗",
+              "account": 0,
+              "position": [
+                106.82,
+                39.69
+              ]
+            },
+            {
+              "city": "磴口县",
+              "account": 0,
+              "position": [
+                106.73,
+                39.51
+              ]
+            },
+            {
+              "city": "杭锦后旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "临河区",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "五原县",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "乌拉特中旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "乌拉特前旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            }
+          ]
+        },
+        {
+          "city": "鄂尔多斯市",
+          "account": 105,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "鄂托克前旗",
+              "account": 0,
+              "position": [
+                107.48,
+                38.18
+              ]
+            },
+            {
+              "city": "鄂托克旗",
+              "account": 0,
+              "position": [
+                107.98,
+                39.09
+              ]
+            },
+            {
+              "city": "杭锦旗",
+              "account": 14,
+              "position": [
+                108.74,
+                39.83
+              ]
+            },
+            {
+              "city": "乌审旗",
+              "account": 39,
+              "position": [
+                108.82,
+                38.60
+              ]
+            },
+            {
+              "city": "伊金霍洛旗",
+              "account": 71,
+              "position": [
+                109.75,
+                39.57
+              ]
+            },
+            {
+              "city": "康巴什区",
+              "account": 0,
+              "position": [
+                109.86,
+                39.61
+              ]
+            },
+            {
+              "city": "东胜区",
+              "account": 0,
+              "position": [
+                109.96,
+                39.82
+              ]
+            },
+            {
+              "city": "达拉特旗",
+              "account": 0,
+              "position": [
+                110.03,
+                40.41
+              ]
+            },
+            {
+              "city": "准格尔旗",
+              "account": 0,
+              "position": [
+                111.24,
+                39.86
+              ]
+            }
+          ]
+        },
+        {
+          "city": "包头市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "乌拉特后旗",
+              "account": 0,
+              "position": [
+                106.82,
+                39.69
+              ]
+            },
+            {
+              "city": "磴口县",
+              "account": 0,
+              "position": [
+                106.73,
+                39.51
+              ]
+            },
+            {
+              "city": "杭锦后旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "临河区",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "五原县",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "乌拉特中旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "乌拉特前旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            }
+          ]
+        },
+        {
+          "city": "呼和浩特市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "武川县",
+              "account": 0,
+              "position": [
+                111.45,
+                41.10
+              ]
+            },
+            {
+              "city": "土默特左旗",
+              "account": 0,
+              "position": [
+                111.16,
+                40.73
+              ]
+            },
+            {
+              "city": "托克托县",
+              "account": 0,
+              "position": [
+                111.19,
+                40.28
+              ]
+            },
+            {
+              "city": "清水河县",
+              "account": 0,
+              "position": [
+                111.65,
+                39.92
+              ]
+            },
+            {
+              "city": "和林格尔县",
+              "account": 0,
+              "position": [
+                111.82,
+                40.38
+              ]
+            },
+            {
+              "city": "玉泉区",
+              "account": 0,
+              "position": [
+                111.67,
+                40.75
+              ]
+            },
+            {
+              "city": "赛罕区",
+              "account": 0,
+              "position": [
+                111.70,
+                40.79
+              ]
+            },
+            {
+              "city": "回民区",
+              "account": 0,
+              "position": [
+                111.62,
+                40.81
+              ]
+            },
+            {
+              "city": "新城区",
+              "account": 0,
+              "position": [
+                108.96,
+                34.27
+              ]
+            }
+          ]
+        },
+        {
+          "city": "乌兰察布市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "四子王旗",
+              "account": 0,
+              "position": [
+                111.71,
+                41.53
+              ]
+            },
+            {
+              "city": "察哈尔右翼中旗",
+              "account": 0,
+              "position": [
+                112.64,
+                41.28
+              ]
+            },
+            {
+              "city": "察哈尔右翼后旗",
+              "account": 0,
+              "position": [
+                113.19,
+                41.44
+              ]
+            },
+            {
+              "city": "商都县",
+              "account": 0,
+              "position": [
+                113.58,
+                41.56
+              ]
+            },
+            {
+              "city": "化德县",
+              "account": 0,
+              "position": [
+                114.01,
+                41.90
+              ]
+            },
+            {
+              "city": "卓资县",
+              "account": 0,
+              "position": [
+                112.58,
+                40.89
+              ]
+            },
+            {
+              "city": "集宁区",
+              "account": 0,
+              "position": [
+                113.17,
+                41.00
+              ]
+            },
+            {
+              "city": "察哈尔右翼前旗",
+              "account": 0,
+              "position": [
+                113.21,
+                40.78
+              ]
+            },
+            {
+              "city": "兴和县",
+              "account": 0,
+              "position": [
+                113.83,
+                40.87
+              ]
+            },
+            {
+              "city": "凉城县",
+              "account": 0,
+              "position": [
+                112.50,
+                40.53
+              ]
+            },
+            {
+              "city": "丰镇市",
+              "account": 0,
+              "position": [
+                113.11,
+                40.44
+              ]
+            }
+          ]
+        },
+        {
+          "city": "锡林郭勒盟",
+          "account": 1247,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "二连浩特市",
+              "account": 0,
+              "position": [
+                111.95,
+                43.64
+              ]
+            },
+            {
+              "city": "苏尼特右旗",
+              "account": 105,
+              "position": [
+                112.64,
+                42.74
+              ]
+            },
+            {
+              "city": "镶黄旗",
+              "account": 35,
+              "position": [
+                116.29,
+                40.03
+              ]
+            },
+            {
+              "city": "正镶白旗",
+              "account": 68,
+              "position": [
+                115.03,
+                42.29
+              ]
+            },
+            {
+              "city": "太仆寺旗",
+              "account": 103,
+              "position": [
+                115.28,
+                41.88
+              ]
+            },
+            {
+              "city": "正蓝旗",
+              "account": 120,
+              "position": [
+                115.99,
+                42.24
+              ]
+            },
+            {
+              "city": "多伦县",
+              "account": 53,
+              "position": [
+                116.49,
+                42.20
+              ]
+            },
+            {
+              "city": "苏尼特左旗",
+              "account": 113,
+              "position": [
+                113.67,
+                43.86
+              ]
+            },
+            {
+              "city": "阿巴噶旗",
+              "account": 108,
+              "position": [
+                114.95,
+                44.02
+              ]
+            },
+            {
+              "city": "锡林浩特市",
+              "account": 230,
+              "position": [
+                116.09,
+                43.93
+              ]
+            },
+            {
+              "city": "东乌珠穆沁旗",
+              "account": 107,
+              "position": [
+                116.98,
+                45.50
+              ]
+            },
+            {
+              "city": "西乌珠穆沁旗",
+              "account": 205,
+              "position": [
+                117.61,
+                44.59
+              ]
+            }
+          ]
+        },
+        {
+          "city": "赤峰市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "克什克腾旗",
+              "account": 0,
+              "position": [
+                117.55,
+                43.27
+              ]
+            },
+            {
+              "city": "林西县",
+              "account": 0,
+              "position": [
+                118.06,
+                43.62
+              ]
+            },
+            {
+              "city": "巴林右旗",
+              "account": 0,
+              "position": [
+                118.66,
+                43.53
+              ]
+            },
+            {
+              "city": "巴林左旗",
+              "account": 0,
+              "position": [
+                119.36,
+                43.96
+              ]
+            },
+            {
+              "city": "阿鲁科尔沁旗",
+              "account": 0,
+              "position": [
+                120.07,
+                43.87
+              ]
+            },
+            {
+              "city": "翁牛特旗",
+              "account": 0,
+              "position": [
+                119.01,
+                42.94
+              ]
+            },
+            {
+              "city": "松山区",
+              "account": 0,
+              "position": [
+                118.92,
+                42.30
+              ]
+            },
+            {
+              "city": "红山区",
+              "account": 0,
+              "position": [
+                118.95,
+                42.30
+              ]
+            },
+            {
+              "city": "元宝山区",
+              "account": 0,
+              "position": [
+                119.29,
+                42.04
+              ]
+            },
+            {
+              "city": "喀喇沁旗",
+              "account": 0,
+              "position": [
+                118.70,
+                41.93
+              ]
+            },
+            {
+              "city": "敖汉旗",
+              "account": 0,
+              "position": [
+                119.92,
+                42.29
+              ]
+            },
+            {
+              "city": "宁城县",
+              "account": 0,
+              "position": [
+                119.32,
+                41.60
+              ]
+            }
+          ]
+        },
+        {
+          "city": "通辽市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "霍林郭勒市",
+              "account": 0,
+              "position": [
+                119.68,
+                45.53
+              ]
+            },
+            {
+              "city": "扎鲁特旗",
+              "account": 0,
+              "position": [
+                120.92,
+                44.57
+              ]
+            },
+            {
+              "city": "开鲁县",
+              "account": 0,
+              "position": [
+                121.32,
+                43.60
+              ]
+            },
+            {
+              "city": "科尔沁左翼中旗",
+              "account": 0,
+              "position": [
+                123.31,
+                44.13
+              ]
+            },
+            {
+              "city": "科尔沁区",
+              "account": 0,
+              "position": [
+                122.26,
+                43.62
+              ]
+            },
+            {
+              "city": "科尔沁左翼后旗",
+              "account": 0,
+              "position": [
+                122.36,
+                42.94
+              ]
+            },
+            {
+              "city": "库伦旗",
+              "account": 0,
+              "position": [
+                121.81,
+                42.74
+              ]
+            },
+            {
+              "city": "奈曼旗",
+              "account": 0,
+              "position": [
+                120.66,
+                42.87
+              ]
+            }
+          ]
+        },
+        {
+          "city": "兴安盟",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "阿尔山市",
+              "account": 0,
+              "position": [
+                119.94,
+                47.18
+              ]
+            },
+            {
+              "city": "科尔沁右翼前旗",
+              "account": 0,
+              "position": [
+                121.95,
+                46.08
+              ]
+            },
+            {
+              "city": "扎赉特旗",
+              "account": 0,
+              "position": [
+                122.90,
+                46.72
+              ]
+            },
+            {
+              "city": "乌兰浩特市",
+              "account": 0,
+              "position": [
+                122.09,
+                46.07
+              ]
+            },
+            {
+              "city": "突泉县",
+              "account": 0,
+              "position": [
+                121.59,
+                45.38
+              ]
+            },
+            {
+              "city": "科尔沁右翼中旗",
+              "account": 0,
+              "position": [
+                121.48,
+                45.06
+              ]
+            }
+          ]
+        },
+        {
+          "city": "呼伦贝尔市",
+          "account": 920,
+          "position": [
+            119.75,
+            49.21
+          ],
+          "childMap": [
+            {
+              "city": "新巴尔虎右旗",
+              "account": 98,
+              "position": [
+                116.82,
+                48.67
+              ]
+            },
+            {
+              "city": "满洲里市",
+              "account": 0,
+              "position": [
+                117.38,
+                49.60
+              ]
+            },
+            {
+              "city": "扎赉诺尔区",
+              "account": 0,
+              "position": [
+                117.67,
+                49.51
+              ]
+            },
+            {
+              "city": "新巴尔虎左旗",
+              "account": 105,
+              "position": [
+                118.27,
+                48.22
+              ]
+            },
+            {
+              "city": "陈巴尔虎骑",
+              "account": 0,
+              "position": [
+                119.42,
+                49.33
+              ]
+            },
+            {
+              "city": "鄂温克族自治旗",
+              "account": 27,
+              "position": [
+                119.76,
+                49.15
+              ]
+            },
+            {
+              "city": "根河市",
+              "account": 0,
+              "position": [
+                121.52,
+                50.78
+              ]
+            },
+            {
+              "city": "鄂伦春自治旗",
+              "account": 0,
+              "position": [
+                123.73,
+                50.59
+              ]
+            },
+            {
+              "city": "阿荣旗",
+              "account": 0,
+              "position": [
+                123.46,
+                48.13
+              ]
+            },
+            {
+              "city": "莫力达瓦达斡尔族自治旗",
+              "account": 0,
+              "position": [
+                124.52,
+                48.48
+              ]
+            },
+            {
+              "city": "额尔古纳市",
+              "account": 0,
+              "position": [
+                120.18,
+                50.24
+              ]
+            },
+            {
+              "city": "牙克石市",
+              "account": 0,
+              "position": [
+                120.71,
+                49.29
+              ]
+            },
+            {
+              "city": "扎兰屯市",
+              "account": 0,
+              "position": [
+                122.71,
+                48.03
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "breedingDis": [
+      {
+        "city": "阿拉善盟",
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "额济纳旗",
+            "account": 0,
+            "position": [
+              101.06,
+              41.95
+            ]
+          },
+          {
+            "city": "阿拉善右旗",
+            "account": 0,
+            "position": [
+              101.67,
+              39.22
+            ]
+          },
+          {
+            "city": "阿拉善左旗",
+            "account": 0,
+            "position": [
+              105.67,
+              38.83
+            ]
+          }
+        ]
+      },
+      {
+        "city": "乌海市",
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "达尔罕茂明安联合旗",
+            "account": 0,
+            "position": [
+              110.43,
+              41.70
+            ]
+          },
+          {
+            "city": "白云鄂博矿区",
+            "account": 0,
+            "position": [
+              109.97,
+              41.77
+            ]
+          },
+          {
+            "city": "固阳县",
+            "account": 0,
+            "position": [
+              110.06,
+              41.03
+            ]
+          },
+          {
+            "city": "昆都仑区",
+            "account": 0,
+            "position": [
+              109.84,
+              40.66
+            ]
+          },
+          {
+            "city": "九原区",
+            "account": 0,
+            "position": [
+              109.97,
+              40.61
+            ]
+          },
+          {
+            "city": "青山区",
+            "account": 0,
+            "position": [
+              114.39,
+              30.64
+            ]
+          },
+          {
+            "city": "东河区",
+            "account": 0,
+            "position": [
+              110.04,
+              40.58
+            ]
+          },
+          {
+            "city": "石拐区",
+            "account": 0,
+            "position": [
+              110.06,
+              40.68
+            ]
+          },
+          {
+            "city": "土默特右旗",
+            "account": 0,
+            "position": [
+              110.53,
+              40.58
+            ]
+          }
+        ]
+      },
+      {
+        "city": "巴彦淖尔市",
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "乌拉特后旗",
+            "account": 0,
+            "position": [
+              106.82,
+              39.69
+            ]
+          },
+          {
+            "city": "磴口县",
+            "account": 0,
+            "position": [
+              106.73,
+              39.51
+            ]
+          },
+          {
+            "city": "杭锦后旗",
+            "account": 0,
+            "position": [
+              106.89,
+              39.44
+            ]
+          },
+          {
+            "city": "临河区",
+            "account": 0,
+            "position": [
+              106.89,
+              39.44
+            ]
+          },
+          {
+            "city": "五原县",
+            "account": 0,
+            "position": [
+              106.89,
+              39.44
+            ]
+          },
+          {
+            "city": "乌拉特中旗",
+            "account": 0,
+            "position": [
+              106.89,
+              39.44
+            ]
+          },
+          {
+            "city": "乌拉特前旗",
+            "account": 0,
+            "position": [
+              106.89,
+              39.44
+            ]
+          }
+        ]
+      },
+      {
+        "city": "鄂尔多斯市",
+        "account": 3.36,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "鄂托克前旗",
+            "account": 0,
+            "position": [
+              107.48,
+              38.18
+            ]
+          },
+          {
+            "city": "鄂托克旗",
+            "account": 0,
+            "position": [
+              107.98,
+              39.09
+            ]
+          },
+          {
+            "city": "杭锦旗",
+            "account": 27.32,
+            "position": [
+              108.74,
+              39.83
+            ]
+          },
+          {
+            "city": "乌审旗",
+            "account": 38.05,
+            "position": [
+              108.82,
+              38.60
+            ]
+          },
+          {
+            "city": "伊金霍洛旗",
+            "account": 34.63,
+            "position": [
+              109.75,
+              39.57
+            ]
+          },
+          {
+            "city": "康巴什区",
+            "account": 0,
+            "position": [
+              109.86,
+              39.61
+            ]
+          },
+          {
+            "city": "东胜区",
+            "account": 0,
+            "position": [
+              109.96,
+              39.82
+            ]
+          },
+          {
+            "city": "达拉特旗",
+            "account": 0,
+            "position": [
+              110.03,
+              40.41
+            ]
+          },
+          {
+            "city": "准格尔旗",
+            "account": 0,
+            "position": [
+              111.24,
+              39.86
+            ]
+          }
+        ]
+      },
+      {
+        "city": "包头市",
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "乌拉特后旗",
+            "account": 0,
+            "position": [
+              106.82,
+              39.69
+            ]
+          },
+          {
+            "city": "磴口县",
+            "account": 0,
+            "position": [
+              106.73,
+              39.51
+            ]
+          },
+          {
+            "city": "杭锦后旗",
+            "account": 0,
+            "position": [
+              106.89,
+              39.44
+            ]
+          },
+          {
+            "city": "临河区",
+            "account": 0,
+            "position": [
+              106.89,
+              39.44
+            ]
+          },
+          {
+            "city": "五原县",
+            "account": 0,
+            "position": [
+              106.89,
+              39.44
+            ]
+          },
+          {
+            "city": "乌拉特中旗",
+            "account": 0,
+            "position": [
+              106.89,
+              39.44
+            ]
+          },
+          {
+            "city": "乌拉特前旗",
+            "account": 0,
+            "position": [
+              106.89,
+              39.44
+            ]
+          }
+        ]
+      },
+      {
+        "city": "呼和浩特市",
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "武川县",
+            "account": 0,
+            "position": [
+              111.45,
+              41.10
+            ]
+          },
+          {
+            "city": "土默特左旗",
+            "account": 0,
+            "position": [
+              111.16,
+              40.73
+            ]
+          },
+          {
+            "city": "托克托县",
+            "account": 0,
+            "position": [
+              111.19,
+              40.28
+            ]
+          },
+          {
+            "city": "清水河县",
+            "account": 0,
+            "position": [
+              111.65,
+              39.92
+            ]
+          },
+          {
+            "city": "和林格尔县",
+            "account": 0,
+            "position": [
+              111.82,
+              40.38
+            ]
+          },
+          {
+            "city": "玉泉区",
+            "account": 0,
+            "position": [
+              111.67,
+              40.75
+            ]
+          },
+          {
+            "city": "赛罕区",
+            "account": 0,
+            "position": [
+              111.70,
+              40.79
+            ]
+          },
+          {
+            "city": "回民区",
+            "account": 0,
+            "position": [
+              111.62,
+              40.81
+            ]
+          },
+          {
+            "city": "新城区",
+            "account": 0,
+            "position": [
+              108.96,
+              34.27
+            ]
+          }
+        ]
+      },
+      {
+        "city": "乌兰察布市",
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "四子王旗",
+            "account": 0,
+            "position": [
+              111.71,
+              41.53
+            ]
+          },
+          {
+            "city": "察哈尔右翼中旗",
+            "account": 0,
+            "position": [
+              112.64,
+              41.28
+            ]
+          },
+          {
+            "city": "察哈尔右翼后旗",
+            "account": 0,
+            "position": [
+              113.19,
+              41.44
+            ]
+          },
+          {
+            "city": "商都县",
+            "account": 0,
+            "position": [
+              113.58,
+              41.56
+            ]
+          },
+          {
+            "city": "化德县",
+            "account": 0,
+            "position": [
+              114.01,
+              41.90
+            ]
+          },
+          {
+            "city": "卓资县",
+            "account": 0,
+            "position": [
+              112.58,
+              40.89
+            ]
+          },
+          {
+            "city": "集宁区",
+            "account": 0,
+            "position": [
+              113.17,
+              41.00
+            ]
+          },
+          {
+            "city": "察哈尔右翼前旗",
+            "account": 0,
+            "position": [
+              113.21,
+              40.78
+            ]
+          },
+          {
+            "city": "兴和县",
+            "account": 0,
+            "position": [
+              113.83,
+              40.87
+            ]
+          },
+          {
+            "city": "凉城县",
+            "account": 0,
+            "position": [
+              112.50,
+              40.53
+            ]
+          },
+          {
+            "city": "丰镇市",
+            "account": 0,
+            "position": [
+              113.11,
+              40.44
+            ]
+          }
+        ]
+      },
+      {
+        "city": "锡林郭勒盟",
+        "account": 81.57,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "二连浩特市",
+            "account": 0,
+            "position": [
+              111.95,
+              43.64
+            ]
+          },
+          {
+            "city": "苏尼特右旗",
+            "account": 10.68,
+            "position": [
+              112.64,
+              42.74
+            ]
+          },
+          {
+            "city": "镶黄旗",
+            "account": 5.94,
+            "position": [
+              116.29,
+              40.03
+            ]
+          },
+          {
+            "city": "正镶白旗",
+            "account": 5.28,
+            "position": [
+              115.03,
+              42.29
+            ]
+          },
+          {
+            "city": "太仆寺旗",
+            "account": 10.94,
+            "position": [
+              115.28,
+              41.88
+            ]
+          },
+          {
+            "city": "正蓝旗",
+            "account": 6.48,
+            "position": [
+              115.99,
+              42.24
+            ]
+          },
+          {
+            "city": "多伦县",
+            "account": 5.88,
+            "position": [
+              116.49,
+              42.20
+            ]
+          },
+          {
+            "city": "苏尼特左旗",
+            "account": 11.57,
+            "position": [
+              113.67,
+              43.86
+            ]
+          },
+          {
+            "city": "阿巴噶旗",
+            "account": 7.61,
+            "position": [
+              114.95,
+              44.02
+            ]
+          },
+          {
+            "city": "锡林浩特市",
+            "account": 18.53,
+            "position": [
+              116.09,
+              43.93
+            ]
+          },
+          {
+            "city": "东乌珠穆沁旗",
+            "account": 7.63,
+            "position": [
+              116.98,
+              45.50
+            ]
+          },
+          {
+            "city": "西乌珠穆沁旗",
+            "account": 9.44,
+            "position": [
+              117.61,
+              44.59
+            ]
+          }
+        ]
+      },
+      {
+        "city": "赤峰市",
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "克什克腾旗",
+            "account": 0,
+            "position": [
+              117.55,
+              43.27
+            ]
+          },
+          {
+            "city": "林西县",
+            "account": 0,
+            "position": [
+              118.06,
+              43.62
+            ]
+          },
+          {
+            "city": "巴林右旗",
+            "account": 0,
+            "position": [
+              118.66,
+              43.53
+            ]
+          },
+          {
+            "city": "巴林左旗",
+            "account": 0,
+            "position": [
+              119.36,
+              43.96
+            ]
+          },
+          {
+            "city": "阿鲁科尔沁旗",
+            "account": 0,
+            "position": [
+              120.07,
+              43.87
+            ]
+          },
+          {
+            "city": "翁牛特旗",
+            "account": 0,
+            "position": [
+              119.01,
+              42.94
+            ]
+          },
+          {
+            "city": "松山区",
+            "account": 0,
+            "position": [
+              118.92,
+              42.30
+            ]
+          },
+          {
+            "city": "红山区",
+            "account": 0,
+            "position": [
+              118.95,
+              42.30
+            ]
+          },
+          {
+            "city": "元宝山区",
+            "account": 0,
+            "position": [
+              119.29,
+              42.04
+            ]
+          },
+          {
+            "city": "喀喇沁旗",
+            "account": 0,
+            "position": [
+              118.70,
+              41.93
+            ]
+          },
+          {
+            "city": "敖汉旗",
+            "account": 0,
+            "position": [
+              119.92,
+              42.29
+            ]
+          },
+          {
+            "city": "宁城县",
+            "account": 0,
+            "position": [
+              119.32,
+              41.60
+            ]
+          }
+        ]
+      },
+      {
+        "city": "通辽市",
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "霍林郭勒市",
+            "account": 0,
+            "position": [
+              119.68,
+              45.53
+            ]
+          },
+          {
+            "city": "扎鲁特旗",
+            "account": 0,
+            "position": [
+              120.92,
+              44.57
+            ]
+          },
+          {
+            "city": "开鲁县",
+            "account": 0,
+            "position": [
+              121.32,
+              43.60
+            ]
+          },
+          {
+            "city": "科尔沁左翼中旗",
+            "account": 0,
+            "position": [
+              123.31,
+              44.13
+            ]
+          },
+          {
+            "city": "科尔沁区",
+            "account": 0,
+            "position": [
+              122.26,
+              43.62
+            ]
+          },
+          {
+            "city": "科尔沁左翼后旗",
+            "account": 0,
+            "position": [
+              122.36,
+              42.94
+            ]
+          },
+          {
+            "city": "库伦旗",
+            "account": 0,
+            "position": [
+              121.81,
+              42.74
+            ]
+          },
+          {
+            "city": "奈曼旗",
+            "account": 0,
+            "position": [
+              120.66,
+              42.87
+            ]
+          }
+        ]
+      },
+      {
+        "city": "兴安盟",
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "阿尔山市",
+            "account": 0,
+            "position": [
+              119.94,
+              47.18
+            ]
+          },
+          {
+            "city": "科尔沁右翼前旗",
+            "account": 0,
+            "position": [
+              121.95,
+              46.08
+            ]
+          },
+          {
+            "city": "扎赉特旗",
+            "account": 0,
+            "position": [
+              122.90,
+              46.72
+            ]
+          },
+          {
+            "city": "乌兰浩特市",
+            "account": 0,
+            "position": [
+              122.09,
+              46.07
+            ]
+          },
+          {
+            "city": "突泉县",
+            "account": 0,
+            "position": [
+              121.59,
+              45.38
+            ]
+          },
+          {
+            "city": "科尔沁右翼中旗",
+            "account": 0,
+            "position": [
+              121.48,
+              45.06
+            ]
+          }
+        ]
+      },
+      {
+        "city": "呼伦贝尔市",
+        "account": 15.07,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "childMap": [
+          {
+            "city": "新巴尔虎右旗",
+            "account": 58.37,
+            "position": [
+              116.82,
+              48.67
+            ]
+          },
+          {
+            "city": "满洲里市",
+            "account": 0,
+            "position": [
+              117.38,
+              49.60
+            ]
+          },
+          {
+            "city": "扎赉诺尔区",
+            "account": 0,
+            "position": [
+              117.67,
+              49.51
+            ]
+          },
+          {
+            "city": "新巴尔虎左旗",
+            "account": 27.83,
+            "position": [
+              118.27,
+              48.22
+            ]
+          },
+          {
+            "city": "陈巴尔虎骑",
+            "account": 0,
+            "position": [
+              119.42,
+              49.33
+            ]
+          },
+          {
+            "city": "鄂温克族自治旗",
+            "account": 13.80,
+            "position": [
+              119.76,
+              49.15
+            ]
+          },
+          {
+            "city": "根河市",
+            "account": 0,
+            "position": [
+              121.52,
+              50.78
+            ]
+          },
+          {
+            "city": "鄂伦春自治旗",
+            "account": 0,
+            "position": [
+              123.73,
+              50.59
+            ]
+          },
+          {
+            "city": "阿荣旗",
+            "account": 0,
+            "position": [
+              123.46,
+              48.13
+            ]
+          },
+          {
+            "city": "莫力达瓦达斡尔族自治旗",
+            "account": 0,
+            "position": [
+              124.52,
+              48.48
+            ]
+          },
+          {
+            "city": "额尔古纳市",
+            "account": 0,
+            "position": [
+              120.18,
+              50.24
+            ]
+          },
+          {
+            "city": "牙克石市",
+            "account": 0,
+            "position": [
+              120.71,
+              49.29
+            ]
+          },
+          {
+            "city": "扎兰屯市",
+            "account": 0,
+            "position": [
+              122.71,
+              48.03
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "animalAntiOverview": {
+    "three": {
+      "cowAttackCount": 409,
+      "sheepAttackCount": 580,
+      "cow": {
+        "label": [],
+        "value": [152,136,121]
+      },
+      "sheep": {
+        "label": [],
+        "value": [185,203,192]
+      }
+    },
+    "six": {
+      "cowAttackCount": 793,
+      "sheepAttackCount": 1013,
+      "cow": {
+        "label": [],
+        "value": [126,139,119,152,136,121]
+      },
+      "sheep": {
+        "label": [],
+        "value": [149,154,130,185,203,192]
+      }
+    },
+    "year": {
+      "cowAttackCount": 1680,
+      "sheepAttackCount": 2582,
+      "cow": {
+        "label": [],
+        "value": [169,145,115,182,136,140,126,139,119,152,136,121]
+      },
+      "sheep": {
+        "label": [],
+        "value": [289,294,289,195,290,212,149,154,130,185,203,192]
+      }
+    }
+  },
+  "entityDis": {
+    "cow": {
+      "label": [
+        "感冒",
+        "腹泻",
+        "腹胀",
+        "异食癖",
+        "肺炎",
+        "牛口炎",
+        "胸膜炎"
+      ],
+      "value": [
+        820,
+        573,
+        120,
+        85,
+        52,
+        18,
+        12
+      ]
+    },
+    "sheep": {
+      "label": [
+        "腹泻",
+        "感冒",
+        "羊肺炎",
+        "羊口疮",
+        "羊肺炎",
+        "咳嗽"
+      ],
+      "value": [
+        823,
+        736,
+        435,
+        258,
+        234,
+        96
+      ]
+    }
+  }
+}

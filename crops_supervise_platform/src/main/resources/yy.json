@@ -1,0 +1,2792 @@
+{
+  "commerceTrans": {
+    "GMVTotalAmount": 0.33,
+    "mallSupplier": 26,
+    "enterCowSupermarket": 2
+  },
+  "packinghouse": {
+    "slaughterAcqAmount": 0.83,
+    "slaughterProcessors": 18
+  },
+  "serviceFarmer": {
+    "farmerCount": 13878,
+    "todayIncrease": 8
+  },
+  "rearLivestockMaster": {
+    "masterCount": 39,
+    "monthIncrease": 6
+  },
+  "areaPartner": {
+    "areaPartnerCount": 5,
+    "monthIncrease": 2
+  },
+  "financialService": {
+    "superviseAmount": 5.6,
+    "cooperativeBank": 32,
+    "cooperativeInsuranceCompany": 5
+  },
+  "qualityTraceability": {
+    "traceSourceGiveOut": 500,
+    "customerSumCheck": 370
+  },
+  "cowBreedingStockQuantity": 13820,
+  "sheepBreedingStockQuantity": 234430,
+  "mapData": {
+    "farmerDis": [
+      {
+        "city": "阿拉善盟",
+        "account": 0,
+        "commerceTrans": {
+          "GMVTotalAmount": 0,
+          "mallSupplier": 0,
+          "enterCowSupermarket": 0
+        },
+        "packinghouse": {
+          "slaughterAcqAmount": 0,
+          "slaughterProcessors": 0
+        },
+        "serviceFarmer": {
+          "farmerCount": 0,
+          "todayIncrease": 0
+        },
+        "rearLivestockMaster": {
+          "masterCount": 0,
+          "monthIncrease": 0
+        },
+        "areaPartner": {
+          "areaPartnerCount": 0,
+          "monthIncrease": 0
+        },
+        "financialService": {
+          "superviseAmount": 0,
+          "cooperativeBank": 0,
+          "cooperativeInsuranceCompany": 0
+        },
+        "qualityTraceability": {
+          "traceSourceGiveOut": 0,
+          "customerSumCheck": 0
+        },
+        "cowBreedingStockQuantity": 0,
+        "sheepBreedingStockQuantity": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "mapData": {
+          "farmerDis": [
+            {
+              "city": "额济纳旗",
+              "account": 0,
+              "position": [
+                101.06,
+                41.95
+              ]
+            },
+            {
+              "city": "阿拉善右旗",
+              "account": 0,
+              "position": [
+                101.67,
+                39.22
+              ]
+            },
+            {
+              "city": "阿拉善左旗",
+              "account": 0,
+              "position": [
+                105.67,
+                38.83
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "city": "乌海市",
+        "account": 0,
+        "commerceTrans": {
+          "GMVTotalAmount": 0,
+          "mallSupplier": 0,
+          "enterCowSupermarket": 0
+        },
+        "packinghouse": {
+          "slaughterAcqAmount": 0,
+          "slaughterProcessors": 0
+        },
+        "serviceFarmer": {
+          "farmerCount": 0,
+          "todayIncrease": 0
+        },
+        "rearLivestockMaster": {
+          "masterCount": 0,
+          "monthIncrease": 0
+        },
+        "areaPartner": {
+          "areaPartnerCount": 0,
+          "monthIncrease": 0
+        },
+        "financialService": {
+          "superviseAmount": 0,
+          "cooperativeBank": 0,
+          "cooperativeInsuranceCompany": 0
+        },
+        "qualityTraceability": {
+          "traceSourceGiveOut": 0,
+          "customerSumCheck": 0
+        },
+        "cowBreedingStockQuantity": 0,
+        "sheepBreedingStockQuantity": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "mapData": {
+          "farmerDis": [
+            {
+              "city": "达尔罕茂明安联合旗",
+              "account": 0,
+              "position": [
+                110.43,
+                41.70
+              ]
+            },
+            {
+              "city": "白云鄂博矿区",
+              "account": 0,
+              "position": [
+                109.97,
+                41.77
+              ]
+            },
+            {
+              "city": "固阳县",
+              "account": 0,
+              "position": [
+                110.06,
+                41.03
+              ]
+            },
+            {
+              "city": "昆都仑区",
+              "account": 0,
+              "position": [
+                109.84,
+                40.66
+              ]
+            },
+            {
+              "city": "九原区",
+              "account": 0,
+              "position": [
+                109.97,
+                40.61
+              ]
+            },
+            {
+              "city": "青山区",
+              "account": 0,
+              "position": [
+                114.39,
+                30.64
+              ]
+            },
+            {
+              "city": "东河区",
+              "account": 0,
+              "position": [
+                110.04,
+                40.58
+              ]
+            },
+            {
+              "city": "石拐区",
+              "account": 0,
+              "position": [
+                110.06,
+                40.68
+              ]
+            },
+            {
+              "city": "土默特右旗",
+              "account": 0,
+              "position": [
+                110.53,
+                40.58
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "city": "巴彦淖尔市",
+        "account": 0,
+        "commerceTrans": {
+          "GMVTotalAmount": 0,
+          "mallSupplier": 0,
+          "enterCowSupermarket": 0
+        },
+        "packinghouse": {
+          "slaughterAcqAmount": 0,
+          "slaughterProcessors": 0
+        },
+        "serviceFarmer": {
+          "farmerCount": 0,
+          "todayIncrease": 0
+        },
+        "rearLivestockMaster": {
+          "masterCount": 0,
+          "monthIncrease": 0
+        },
+        "areaPartner": {
+          "areaPartnerCount": 0,
+          "monthIncrease": 0
+        },
+        "financialService": {
+          "superviseAmount": 0,
+          "cooperativeBank": 0,
+          "cooperativeInsuranceCompany": 0
+        },
+        "qualityTraceability": {
+          "traceSourceGiveOut": 0,
+          "customerSumCheck": 0
+        },
+        "cowBreedingStockQuantity": 0,
+        "sheepBreedingStockQuantity": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "mapData": {
+          "farmerDis": [
+            {
+              "city": "乌拉特后旗",
+              "account": 0,
+              "position": [
+                106.82,
+                39.69
+              ]
+            },
+            {
+              "city": "磴口县",
+              "account": 0,
+              "position": [
+                106.73,
+                39.51
+              ]
+            },
+            {
+              "city": "杭锦后旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "临河区",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "五原县",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "乌拉特中旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "乌拉特前旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "city": "鄂尔多斯市",
+        "account": 203,
+        "commerceTrans": {
+          "GMVTotalAmount": 0,
+          "mallSupplier": 2,
+          "enterCowSupermarket": 0
+        },
+        "packinghouse": {
+          "slaughterAcqAmount": 0.79,
+          "slaughterProcessors": 2
+        },
+        "serviceFarmer": {
+          "farmerCount": 203,
+          "todayIncrease": 3
+        },
+        "rearLivestockMaster": {
+          "masterCount": 3,
+          "monthIncrease": 0
+        },
+        "areaPartner": {
+          "areaPartnerCount": 1,
+          "monthIncrease": 0
+        },
+        "financialService": {
+          "superviseAmount": 0.68,
+          "cooperativeBank": 4,
+          "cooperativeInsuranceCompany": 1
+        },
+        "qualityTraceability": {
+          "traceSourceGiveOut": 36,
+          "customerSumCheck": 18
+        },
+        "cowBreedingStockQuantity": 150,
+        "sheepBreedingStockQuantity": 4360,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "mapData": {
+          "farmerDis": [
+            {
+              "city": "鄂托克前旗",
+              "account": 0,
+              "position": [
+                107.48,
+                38.18
+              ]
+            },
+            {
+              "city": "鄂托克旗",
+              "account": 0,
+              "position": [
+                107.98,
+                39.09
+              ]
+            },
+            {
+              "city": "杭锦旗",
+              "account": 36,
+              "position": [
+                108.74,
+                39.83
+              ]
+            },
+            {
+              "city": "乌审旗",
+              "account": 75,
+              "position": [
+                108.82,
+                38.60
+              ]
+            },
+            {
+              "city": "伊金霍洛旗",
+              "account": 92,
+              "position": [
+                109.75,
+                39.57
+              ]
+            },
+            {
+              "city": "康巴什区",
+              "account": 0,
+              "position": [
+                109.86,
+                39.61
+              ]
+            },
+            {
+              "city": "东胜区",
+              "account": 0,
+              "position": [
+                109.96,
+                39.82
+              ]
+            },
+            {
+              "city": "达拉特旗",
+              "account": 0,
+              "position": [
+                110.03,
+                40.41
+              ]
+            },
+            {
+              "city": "准格尔旗",
+              "account": 0,
+              "position": [
+                111.24,
+                39.86
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "city": "包头市",
+        "account": 0,
+        "commerceTrans": {
+          "GMVTotalAmount": 0,
+          "mallSupplier": 0,
+          "enterCowSupermarket": 0
+        },
+        "packinghouse": {
+          "slaughterAcqAmount": 0,
+          "slaughterProcessors": 0
+        },
+        "serviceFarmer": {
+          "farmerCount": 0,
+          "todayIncrease": 0
+        },
+        "rearLivestockMaster": {
+          "masterCount": 0,
+          "monthIncrease": 0
+        },
+        "areaPartner": {
+          "areaPartnerCount": 0,
+          "monthIncrease": 0
+        },
+        "financialService": {
+          "superviseAmount": 0,
+          "cooperativeBank": 0,
+          "cooperativeInsuranceCompany": 0
+        },
+        "qualityTraceability": {
+          "traceSourceGiveOut": 0,
+          "customerSumCheck": 0
+        },
+        "cowBreedingStockQuantity": 0,
+        "sheepBreedingStockQuantity": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "mapData": {
+          "farmerDis": [
+            {
+              "city": "乌拉特后旗",
+              "account": 0,
+              "position": [
+                106.82,
+                39.69
+              ]
+            },
+            {
+              "city": "磴口县",
+              "account": 0,
+              "position": [
+                106.73,
+                39.51
+              ]
+            },
+            {
+              "city": "杭锦后旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "临河区",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "五原县",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "乌拉特中旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "乌拉特前旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "city": "呼和浩特市",
+        "account": 0,
+        "commerceTrans": {
+          "GMVTotalAmount": 0,
+          "mallSupplier": 0,
+          "enterCowSupermarket": 0
+        },
+        "packinghouse": {
+          "slaughterAcqAmount": 0,
+          "slaughterProcessors": 0
+        },
+        "serviceFarmer": {
+          "farmerCount": 0,
+          "todayIncrease": 0
+        },
+        "rearLivestockMaster": {
+          "masterCount": 0,
+          "monthIncrease": 0
+        },
+        "areaPartner": {
+          "areaPartnerCount": 0,
+          "monthIncrease": 0
+        },
+        "financialService": {
+          "superviseAmount": 0,
+          "cooperativeBank": 0,
+          "cooperativeInsuranceCompany": 0
+        },
+        "qualityTraceability": {
+          "traceSourceGiveOut": 0,
+          "customerSumCheck": 0
+        },
+        "cowBreedingStockQuantity": 0,
+        "sheepBreedingStockQuantity": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "mapData": {
+          "farmerDis": [
+            {
+              "city": "武川县",
+              "account": 0,
+              "position": [
+                111.45,
+                41.10
+              ]
+            },
+            {
+              "city": "土默特左旗",
+              "account": 0,
+              "position": [
+                111.16,
+                40.73
+              ]
+            },
+            {
+              "city": "托克托县",
+              "account": 0,
+              "position": [
+                111.19,
+                40.28
+              ]
+            },
+            {
+              "city": "清水河县",
+              "account": 0,
+              "position": [
+                111.65,
+                39.92
+              ]
+            },
+            {
+              "city": "和林格尔县",
+              "account": 0,
+              "position": [
+                111.82,
+                40.38
+              ]
+            },
+            {
+              "city": "玉泉区",
+              "account": 0,
+              "position": [
+                111.67,
+                40.75
+              ]
+            },
+            {
+              "city": "赛罕区",
+              "account": 0,
+              "position": [
+                111.70,
+                40.79
+              ]
+            },
+            {
+              "city": "回民区",
+              "account": 0,
+              "position": [
+                111.62,
+                40.81
+              ]
+            },
+            {
+              "city": "新城区",
+              "account": 0,
+              "position": [
+                108.96,
+                34.27
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "city": "乌兰察布市",
+        "account": 0,
+        "commerceTrans": {
+          "GMVTotalAmount": 0,
+          "mallSupplier": 0,
+          "enterCowSupermarket": 0
+        },
+        "packinghouse": {
+          "slaughterAcqAmount": 0,
+          "slaughterProcessors": 0
+        },
+        "serviceFarmer": {
+          "farmerCount": 0,
+          "todayIncrease": 0
+        },
+        "rearLivestockMaster": {
+          "masterCount": 0,
+          "monthIncrease": 0
+        },
+        "areaPartner": {
+          "areaPartnerCount": 0,
+          "monthIncrease": 0
+        },
+        "financialService": {
+          "superviseAmount": 0,
+          "cooperativeBank": 0,
+          "cooperativeInsuranceCompany": 0
+        },
+        "qualityTraceability": {
+          "traceSourceGiveOut": 0,
+          "customerSumCheck": 0
+        },
+        "cowBreedingStockQuantity": 0,
+        "sheepBreedingStockQuantity": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "mapData": {
+          "farmerDis": [
+            {
+              "city": "四子王旗",
+              "account": 0,
+              "position": [
+                111.71,
+                41.53
+              ]
+            },
+            {
+              "city": "察哈尔右翼中旗",
+              "account": 0,
+              "position": [
+                112.64,
+                41.28
+              ]
+            },
+            {
+              "city": "察哈尔右翼后旗",
+              "account": 0,
+              "position": [
+                113.19,
+                41.44
+              ]
+            },
+            {
+              "city": "商都县",
+              "account": 0,
+              "position": [
+                113.58,
+                41.56
+              ]
+            },
+            {
+              "city": "化德县",
+              "account": 0,
+              "position": [
+                114.01,
+                41.90
+              ]
+            },
+            {
+              "city": "卓资县",
+              "account": 0,
+              "position": [
+                112.58,
+                40.89
+              ]
+            },
+            {
+              "city": "集宁区",
+              "account": 0,
+              "position": [
+                113.17,
+                41.00
+              ]
+            },
+            {
+              "city": "察哈尔右翼前旗",
+              "account": 0,
+              "position": [
+                113.21,
+                40.78
+              ]
+            },
+            {
+              "city": "兴和县",
+              "account": 0,
+              "position": [
+                113.83,
+                40.87
+              ]
+            },
+            {
+              "city": "凉城县",
+              "account": 0,
+              "position": [
+                112.50,
+                40.53
+              ]
+            },
+            {
+              "city": "丰镇市",
+              "account": 0,
+              "position": [
+                113.11,
+                40.44
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "city": "锡林郭勒盟",
+        "account": 12187,
+        "commerceTrans": {
+          "GMVTotalAmount": 0.33,
+          "mallSupplier": 23,
+          "enterCowSupermarket": 2
+        },
+        "packinghouse": {
+          "slaughterAcqAmount": 0.73,
+          "slaughterProcessors": 15
+        },
+        "serviceFarmer": {
+          "farmerCount": 12187,
+          "todayIncrease": 16
+        },
+        "rearLivestockMaster": {
+          "masterCount": 33,
+          "monthIncrease": 1
+        },
+        "areaPartner": {
+          "areaPartnerCount": 3,
+          "monthIncrease": 0
+        },
+        "financialService": {
+          "superviseAmount": 5.6,
+          "cooperativeBank": 28,
+          "cooperativeInsuranceCompany": 4
+        },
+        "qualityTraceability": {
+          "traceSourceGiveOut": 500,
+          "customerSumCheck": 370
+        },
+        "cowBreedingStockQuantity": 12420,
+        "sheepBreedingStockQuantity": 191400,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "mapData": {
+          "farmerDis": [
+            {
+              "city": "二连浩特市",
+              "account": 0,
+              "position": [
+                111.95,
+                43.64
+              ]
+            },
+            {
+              "city": "苏尼特右旗",
+              "account": 1256,
+              "position": [
+                112.64,
+                42.74
+              ]
+            },
+            {
+              "city": "镶黄旗",
+              "account": 763,
+              "position": [
+                116.29,
+                40.03
+              ]
+            },
+            {
+              "city": "正镶白旗",
+              "account": 965,
+              "position": [
+                115.03,
+                42.29
+              ]
+            },
+            {
+              "city": "太仆寺旗",
+              "account": 570,
+              "position": [
+                115.28,
+                41.88
+              ]
+            },
+            {
+              "city": "正蓝旗",
+              "account": 1205,
+              "position": [
+                115.99,
+                42.24
+              ]
+            },
+            {
+              "city": "多伦县",
+              "account": 329,
+              "position": [
+                116.49,
+                42.20
+              ]
+            },
+            {
+              "city": "苏尼特左旗",
+              "account": 1598,
+              "position": [
+                113.67,
+                43.86
+              ]
+            },
+            {
+              "city": "阿巴嘎旗",
+              "account": 1052,
+              "position": [
+                114.95,
+                44.02
+              ]
+            },
+            {
+              "city": "锡林浩特市",
+              "account": 1728,
+              "position": [
+                116.09,
+                43.93
+              ]
+            },
+            {
+              "city": "东乌珠穆沁旗",
+              "account": 1425,
+              "position": [
+                116.98,
+                45.50
+              ]
+            },
+            {
+              "city": "西乌珠穆沁旗",
+              "account": 1296,
+              "position": [
+                117.61,
+                44.59
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "city": "赤峰市",
+        "account": 0,
+        "commerceTrans": {
+          "GMVTotalAmount": 0,
+          "mallSupplier": 0,
+          "enterCowSupermarket": 0
+        },
+        "packinghouse": {
+          "slaughterAcqAmount": 0,
+          "slaughterProcessors": 0
+        },
+        "serviceFarmer": {
+          "farmerCount": 0,
+          "todayIncrease": 0
+        },
+        "rearLivestockMaster": {
+          "masterCount": 0,
+          "monthIncrease": 0
+        },
+        "areaPartner": {
+          "areaPartnerCount": 0,
+          "monthIncrease": 0
+        },
+        "financialService": {
+          "superviseAmount": 0,
+          "cooperativeBank": 0,
+          "cooperativeInsuranceCompany": 0
+        },
+        "qualityTraceability": {
+          "traceSourceGiveOut": 0,
+          "customerSumCheck": 0
+        },
+        "cowBreedingStockQuantity": 0,
+        "sheepBreedingStockQuantity": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "mapData": {
+          "farmerDis": [
+            {
+              "city": "克什克腾旗",
+              "account": 0,
+              "position": [
+                117.55,
+                43.27
+              ]
+            },
+            {
+              "city": "林西县",
+              "account": 0,
+              "position": [
+                118.06,
+                43.62
+              ]
+            },
+            {
+              "city": "巴林右旗",
+              "account": 0,
+              "position": [
+                118.66,
+                43.53
+              ]
+            },
+            {
+              "city": "巴林左旗",
+              "account": 0,
+              "position": [
+                119.36,
+                43.96
+              ]
+            },
+            {
+              "city": "阿鲁科尔沁旗",
+              "account": 0,
+              "position": [
+                120.07,
+                43.87
+              ]
+            },
+            {
+              "city": "翁牛特旗",
+              "account": 0,
+              "position": [
+                119.01,
+                42.94
+              ]
+            },
+            {
+              "city": "松山区",
+              "account": 0,
+              "position": [
+                118.92,
+                42.30
+              ]
+            },
+            {
+              "city": "红山区",
+              "account": 0,
+              "position": [
+                118.95,
+                42.30
+              ]
+            },
+            {
+              "city": "元宝山区",
+              "account": 0,
+              "position": [
+                119.29,
+                42.04
+              ]
+            },
+            {
+              "city": "喀喇沁旗",
+              "account": 0,
+              "position": [
+                118.70,
+                41.93
+              ]
+            },
+            {
+              "city": "敖汉旗",
+              "account": 0,
+              "position": [
+                119.92,
+                42.29
+              ]
+            },
+            {
+              "city": "宁城县",
+              "account": 0,
+              "position": [
+                119.32,
+                41.60
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "city": "通辽市",
+        "account": 0,
+        "commerceTrans": {
+          "GMVTotalAmount": 0,
+          "mallSupplier": 0,
+          "enterCowSupermarket": 0
+        },
+        "packinghouse": {
+          "slaughterAcqAmount": 0,
+          "slaughterProcessors": 0
+        },
+        "serviceFarmer": {
+          "farmerCount": 0,
+          "todayIncrease": 0
+        },
+        "rearLivestockMaster": {
+          "masterCount": 0,
+          "monthIncrease": 0
+        },
+        "areaPartner": {
+          "areaPartnerCount": 0,
+          "monthIncrease": 0
+        },
+        "financialService": {
+          "superviseAmount": 0,
+          "cooperativeBank": 0,
+          "cooperativeInsuranceCompany": 0
+        },
+        "qualityTraceability": {
+          "traceSourceGiveOut": 0,
+          "customerSumCheck": 0
+        },
+        "cowBreedingStockQuantity": 0,
+        "sheepBreedingStockQuantity": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "mapData": {
+          "farmerDis": [
+            {
+              "city": "霍林郭勒市",
+              "account": 0,
+              "position": [
+                119.68,
+                45.53
+              ]
+            },
+            {
+              "city": "扎鲁特旗",
+              "account": 0,
+              "position": [
+                120.92,
+                44.57
+              ]
+            },
+            {
+              "city": "开鲁县",
+              "account": 0,
+              "position": [
+                121.32,
+                43.60
+              ]
+            },
+            {
+              "city": "科尔沁左翼中旗",
+              "account": 0,
+              "position": [
+                123.31,
+                44.13
+              ]
+            },
+            {
+              "city": "科尔沁区",
+              "account": 0,
+              "position": [
+                122.26,
+                43.62
+              ]
+            },
+            {
+              "city": "科尔沁左翼后旗",
+              "account": 0,
+              "position": [
+                122.36,
+                42.94
+              ]
+            },
+            {
+              "city": "库伦旗",
+              "account": 0,
+              "position": [
+                121.81,
+                42.74
+              ]
+            },
+            {
+              "city": "奈曼旗",
+              "account": 0,
+              "position": [
+                120.66,
+                42.87
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "city": "兴安盟",
+        "account": 0,
+        "commerceTrans": {
+          "GMVTotalAmount": 0,
+          "mallSupplier": 0,
+          "enterCowSupermarket": 0
+        },
+        "packinghouse": {
+          "slaughterAcqAmount": 0,
+          "slaughterProcessors": 0
+        },
+        "serviceFarmer": {
+          "farmerCount": 0,
+          "todayIncrease": 0
+        },
+        "rearLivestockMaster": {
+          "masterCount": 0,
+          "monthIncrease": 0
+        },
+        "areaPartner": {
+          "areaPartnerCount": 0,
+          "monthIncrease": 0
+        },
+        "financialService": {
+          "superviseAmount": 0,
+          "cooperativeBank": 0,
+          "cooperativeInsuranceCompany": 0
+        },
+        "qualityTraceability": {
+          "traceSourceGiveOut": 0,
+          "customerSumCheck": 0
+        },
+        "cowBreedingStockQuantity": 0,
+        "sheepBreedingStockQuantity": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "mapData": {
+          "farmerDis": [
+            {
+              "city": "阿尔山市",
+              "account": 0,
+              "position": [
+                119.94,
+                47.18
+              ]
+            },
+            {
+              "city": "科尔沁右翼前旗",
+              "account": 0,
+              "position": [
+                121.95,
+                46.08
+              ]
+            },
+            {
+              "city": "扎赉特旗",
+              "account": 0,
+              "position": [
+                122.90,
+                46.72
+              ]
+            },
+            {
+              "city": "乌兰浩特市",
+              "account": 0,
+              "position": [
+                122.09,
+                46.07
+              ]
+            },
+            {
+              "city": "突泉县",
+              "account": 0,
+              "position": [
+                121.59,
+                45.38
+              ]
+            },
+            {
+              "city": "科尔沁右翼中旗",
+              "account": 0,
+              "position": [
+                121.48,
+                45.06
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "city": "呼伦贝尔市",
+        "account": 1563,
+        "commerceTrans": {
+          "GMVTotalAmount": 0,
+          "mallSupplier": 1,
+          "enterCowSupermarket": 0
+        },
+        "packinghouse": {
+          "slaughterAcqAmount": 0.32,
+          "slaughterProcessors": 1
+        },
+        "serviceFarmer": {
+          "farmerCount": 1563,
+          "todayIncrease": 7
+        },
+        "rearLivestockMaster": {
+          "masterCount": 3,
+          "monthIncrease": 0
+        },
+        "areaPartner": {
+          "areaPartnerCount": 1,
+          "monthIncrease": 0
+        },
+        "financialService": {
+          "superviseAmount": 0,
+          "cooperativeBank": 0,
+          "cooperativeInsuranceCompany": 0
+        },
+        "qualityTraceability": {
+          "traceSourceGiveOut": 26,
+          "customerSumCheck": 10
+        },
+        "cowBreedingStockQuantity": 1250,
+        "sheepBreedingStockQuantity": 38670,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "mapData": {
+          "farmerDis": [
+            {
+              "city": "新巴尔虎右旗",
+              "account": 653,
+              "position": [
+                116.82,
+                48.67
+              ]
+            },
+            {
+              "city": "满洲里市",
+              "account": 0,
+              "position": [
+                117.38,
+                49.60
+              ]
+            },
+            {
+              "city": "扎赉诺尔区",
+              "account": 0,
+              "position": [
+                117.67,
+                49.51
+              ]
+            },
+            {
+              "city": "新巴尔虎左旗",
+              "account": 485,
+              "position": [
+                118.27,
+                48.22
+              ]
+            },
+            {
+              "city": "陈巴尔虎骑",
+              "account": 0,
+              "position": [
+                119.42,
+                49.33
+              ]
+            },
+            {
+              "city": "鄂温克族自治旗",
+              "account": 425,
+              "position": [
+                119.76,
+                49.15
+              ]
+            },
+            {
+              "city": "根河市",
+              "account": 0,
+              "position": [
+                121.52,
+                50.78
+              ]
+            },
+            {
+              "city": "鄂伦春自治旗",
+              "account": 0,
+              "position": [
+                123.73,
+                50.59
+              ]
+            },
+            {
+              "city": "阿荣旗",
+              "account": 0,
+              "position": [
+                123.46,
+                48.13
+              ]
+            },
+            {
+              "city": "莫力达瓦达斡尔族自治旗",
+              "account": 0,
+              "position": [
+                124.52,
+                48.48
+              ]
+            },
+            {
+              "city": "额尔古纳市",
+              "account": 0,
+              "position": [
+                120.18,
+                50.24
+              ]
+            },
+            {
+              "city": "牙克石市",
+              "account": 0,
+              "position": [
+                120.71,
+                49.29
+              ]
+            },
+            {
+              "city": "扎兰屯市",
+              "account": 0,
+              "position": [
+                122.71,
+                48.03
+              ]
+            }
+          ]
+        }
+      }
+    ],
+    "breedLivestockDis": [
+      {
+        "city": "阿拉善盟",
+        "commerceTrans": {
+          "GMVTotalAmount": 0,
+          "mallSupplier": 0,
+          "enterCowSupermarket": 0
+        },
+        "packinghouse": {
+          "slaughterAcqAmount": 0,
+          "slaughterProcessors": 0
+        },
+        "serviceFarmer": {
+          "farmerCount": 0,
+          "todayIncrease": 0
+        },
+        "rearLivestockMaster": {
+          "masterCount": 0,
+          "monthIncrease": 0
+        },
+        "areaPartner": {
+          "areaPartnerCount": 0,
+          "monthIncrease": 0
+        },
+        "financialService": {
+          "superviseAmount": 0,
+          "cooperativeBank": 0,
+          "cooperativeInsuranceCompany": 0
+        },
+        "qualityTraceability": {
+          "traceSourceGiveOut": 0,
+          "customerSumCheck": 0
+        },
+        "cowBreedingStockQuantity": 0,
+        "sheepBreedingStockQuantity": 0,
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "mapData": {
+          "farmerDis": [
+            {
+              "city": "额济纳旗",
+              "account": 0,
+              "position": [
+                101.06,
+                41.95
+              ]
+            },
+            {
+              "city": "阿拉善右旗",
+              "account": 0,
+              "position": [
+                101.67,
+                39.22
+              ]
+            },
+            {
+              "city": "阿拉善左旗",
+              "account": 0,
+              "position": [
+                105.67,
+                38.83
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "city": "乌海市",
+        "account": 0,
+        "commerceTrans": {
+          "GMVTotalAmount": 0,
+          "mallSupplier": 0,
+          "enterCowSupermarket": 0
+        },
+        "packinghouse": {
+          "slaughterAcqAmount": 0,
+          "slaughterProcessors": 0
+        },
+        "serviceFarmer": {
+          "farmerCount": 0,
+          "todayIncrease": 0
+        },
+        "rearLivestockMaster": {
+          "masterCount": 0,
+          "monthIncrease": 0
+        },
+        "areaPartner": {
+          "areaPartnerCount": 0,
+          "monthIncrease": 0
+        },
+        "financialService": {
+          "superviseAmount": 0,
+          "cooperativeBank": 0,
+          "cooperativeInsuranceCompany": 0
+        },
+        "qualityTraceability": {
+          "traceSourceGiveOut": 0,
+          "customerSumCheck": 0
+        },
+        "cowBreedingStockQuantity": 0,
+        "sheepBreedingStockQuantity": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "mapData": {
+          "farmerDis": [
+            {
+              "city": "达尔罕茂明安联合旗",
+              "account": 0,
+              "position": [
+                110.43,
+                41.70
+              ]
+            },
+            {
+              "city": "白云鄂博矿区",
+              "account": 0,
+              "position": [
+                109.97,
+                41.77
+              ]
+            },
+            {
+              "city": "固阳县",
+              "account": 0,
+              "position": [
+                110.06,
+                41.03
+              ]
+            },
+            {
+              "city": "昆都仑区",
+              "account": 0,
+              "position": [
+                109.84,
+                40.66
+              ]
+            },
+            {
+              "city": "九原区",
+              "account": 0,
+              "position": [
+                109.97,
+                40.61
+              ]
+            },
+            {
+              "city": "青山区",
+              "account": 0,
+              "position": [
+                114.39,
+                30.64
+              ]
+            },
+            {
+              "city": "东河区",
+              "account": 0,
+              "position": [
+                110.04,
+                40.58
+              ]
+            },
+            {
+              "city": "石拐区",
+              "account": 0,
+              "position": [
+                110.06,
+                40.68
+              ]
+            },
+            {
+              "city": "土默特右旗",
+              "account": 0,
+              "position": [
+                110.53,
+                40.58
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "city": "巴彦淖尔市",
+        "account": 0,
+        "commerceTrans": {
+          "GMVTotalAmount": 0,
+          "mallSupplier": 0,
+          "enterCowSupermarket": 0
+        },
+        "packinghouse": {
+          "slaughterAcqAmount": 0,
+          "slaughterProcessors": 0
+        },
+        "serviceFarmer": {
+          "farmerCount": 0,
+          "todayIncrease": 0
+        },
+        "rearLivestockMaster": {
+          "masterCount": 0,
+          "monthIncrease": 0
+        },
+        "areaPartner": {
+          "areaPartnerCount": 0,
+          "monthIncrease": 0
+        },
+        "financialService": {
+          "superviseAmount": 0,
+          "cooperativeBank": 0,
+          "cooperativeInsuranceCompany": 0
+        },
+        "qualityTraceability": {
+          "traceSourceGiveOut": 0,
+          "customerSumCheck": 0
+        },
+        "cowBreedingStockQuantity": 0,
+        "sheepBreedingStockQuantity": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "mapData": {
+          "farmerDis": [
+            {
+              "city": "乌拉特后旗",
+              "account": 0,
+              "position": [
+                106.82,
+                39.69
+              ]
+            },
+            {
+              "city": "磴口县",
+              "account": 0,
+              "position": [
+                106.73,
+                39.51
+              ]
+            },
+            {
+              "city": "杭锦后旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "临河区",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "五原县",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "乌拉特中旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "乌拉特前旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "city": "鄂尔多斯市",
+        "account": 4510,
+        "commerceTrans": {
+          "GMVTotalAmount": 0,
+          "mallSupplier": 2,
+          "enterCowSupermarket": 0
+        },
+        "packinghouse": {
+          "slaughterAcqAmount": 0.79,
+          "slaughterProcessors": 2
+        },
+        "serviceFarmer": {
+          "farmerCount": 203,
+          "todayIncrease": 3
+        },
+        "rearLivestockMaster": {
+          "masterCount": 3,
+          "monthIncrease": 0
+        },
+        "areaPartner": {
+          "areaPartnerCount": 1,
+          "monthIncrease": 0
+        },
+        "financialService": {
+          "superviseAmount": 0.68,
+          "cooperativeBank": 4,
+          "cooperativeInsuranceCompany": 1
+        },
+        "qualityTraceability": {
+          "traceSourceGiveOut": 36,
+          "customerSumCheck": 18
+        },
+        "cowBreedingStockQuantity": 150,
+        "sheepBreedingStockQuantity": 4360,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "mapData": {
+          "farmerDis": [
+            {
+              "city": "鄂托克前旗",
+              "account": 0,
+              "position": [
+                107.48,
+                38.18
+              ]
+            },
+            {
+              "city": "鄂托克旗",
+              "account": 0,
+              "position": [
+                107.98,
+                39.09
+              ]
+            },
+            {
+              "city": "杭锦旗",
+              "account": 975,
+              "position": [
+                108.74,
+                39.83
+              ]
+            },
+            {
+              "city": "乌审旗",
+              "account": 1200,
+              "position": [
+                108.82,
+                38.60
+              ]
+            },
+            {
+              "city": "伊金霍洛旗",
+              "account": 2335,
+              "position": [
+                109.75,
+                39.57
+              ]
+            },
+            {
+              "city": "康巴什区",
+              "account": 0,
+              "position": [
+                109.86,
+                39.61
+              ]
+            },
+            {
+              "city": "东胜区",
+              "account": 0,
+              "position": [
+                109.96,
+                39.82
+              ]
+            },
+            {
+              "city": "达拉特旗",
+              "account": 0,
+              "position": [
+                110.03,
+                40.41
+              ]
+            },
+            {
+              "city": "准格尔旗",
+              "account": 0,
+              "position": [
+                111.24,
+                39.86
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "city": "包头市",
+        "account": 0,
+        "commerceTrans": {
+          "GMVTotalAmount": 0,
+          "mallSupplier": 0,
+          "enterCowSupermarket": 0
+        },
+        "packinghouse": {
+          "slaughterAcqAmount": 0,
+          "slaughterProcessors": 0
+        },
+        "serviceFarmer": {
+          "farmerCount": 0,
+          "todayIncrease": 0
+        },
+        "rearLivestockMaster": {
+          "masterCount": 0,
+          "monthIncrease": 0
+        },
+        "areaPartner": {
+          "areaPartnerCount": 0,
+          "monthIncrease": 0
+        },
+        "financialService": {
+          "superviseAmount": 0,
+          "cooperativeBank": 0,
+          "cooperativeInsuranceCompany": 0
+        },
+        "qualityTraceability": {
+          "traceSourceGiveOut": 0,
+          "customerSumCheck": 0
+        },
+        "cowBreedingStockQuantity": 0,
+        "sheepBreedingStockQuantity": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "mapData": {
+          "farmerDis": [
+            {
+              "city": "乌拉特后旗",
+              "account": 0,
+              "position": [
+                106.82,
+                39.69
+              ]
+            },
+            {
+              "city": "磴口县",
+              "account": 0,
+              "position": [
+                106.73,
+                39.51
+              ]
+            },
+            {
+              "city": "杭锦后旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "临河区",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "五原县",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "乌拉特中旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            },
+            {
+              "city": "乌拉特前旗",
+              "account": 0,
+              "position": [
+                106.89,
+                39.44
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "city": "呼和浩特市",
+        "account": 0,
+        "commerceTrans": {
+          "GMVTotalAmount": 0,
+          "mallSupplier": 0,
+          "enterCowSupermarket": 0
+        },
+        "packinghouse": {
+          "slaughterAcqAmount": 0,
+          "slaughterProcessors": 0
+        },
+        "serviceFarmer": {
+          "farmerCount": 0,
+          "todayIncrease": 0
+        },
+        "rearLivestockMaster": {
+          "masterCount": 0,
+          "monthIncrease": 0
+        },
+        "areaPartner": {
+          "areaPartnerCount": 0,
+          "monthIncrease": 0
+        },
+        "financialService": {
+          "superviseAmount": 0,
+          "cooperativeBank": 0,
+          "cooperativeInsuranceCompany": 0
+        },
+        "qualityTraceability": {
+          "traceSourceGiveOut": 0,
+          "customerSumCheck": 0
+        },
+        "cowBreedingStockQuantity": 0,
+        "sheepBreedingStockQuantity": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "mapData": {
+          "farmerDis": [
+            {
+              "city": "武川县",
+              "account": 0,
+              "position": [
+                111.45,
+                41.10
+              ]
+            },
+            {
+              "city": "土默特左旗",
+              "account": 0,
+              "position": [
+                111.16,
+                40.73
+              ]
+            },
+            {
+              "city": "托克托县",
+              "account": 0,
+              "position": [
+                111.19,
+                40.28
+              ]
+            },
+            {
+              "city": "清水河县",
+              "account": 0,
+              "position": [
+                111.65,
+                39.92
+              ]
+            },
+            {
+              "city": "和林格尔县",
+              "account": 0,
+              "position": [
+                111.82,
+                40.38
+              ]
+            },
+            {
+              "city": "玉泉区",
+              "account": 0,
+              "position": [
+                111.67,
+                40.75
+              ]
+            },
+            {
+              "city": "赛罕区",
+              "account": 0,
+              "position": [
+                111.70,
+                40.79
+              ]
+            },
+            {
+              "city": "回民区",
+              "account": 0,
+              "position": [
+                111.62,
+                40.81
+              ]
+            },
+            {
+              "city": "新城区",
+              "account": 0,
+              "position": [
+                108.96,
+                34.27
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "city": "乌兰察布市",
+        "account": 0,
+        "commerceTrans": {
+          "GMVTotalAmount": 0,
+          "mallSupplier": 0,
+          "enterCowSupermarket": 0
+        },
+        "packinghouse": {
+          "slaughterAcqAmount": 0,
+          "slaughterProcessors": 0
+        },
+        "serviceFarmer": {
+          "farmerCount": 0,
+          "todayIncrease": 0
+        },
+        "rearLivestockMaster": {
+          "masterCount": 0,
+          "monthIncrease": 0
+        },
+        "areaPartner": {
+          "areaPartnerCount": 0,
+          "monthIncrease": 0
+        },
+        "financialService": {
+          "superviseAmount": 0,
+          "cooperativeBank": 0,
+          "cooperativeInsuranceCompany": 0
+        },
+        "qualityTraceability": {
+          "traceSourceGiveOut": 0,
+          "customerSumCheck": 0
+        },
+        "cowBreedingStockQuantity": 0,
+        "sheepBreedingStockQuantity": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "mapData": {
+          "farmerDis": [
+            {
+              "city": "四子王旗",
+              "account": 0,
+              "position": [
+                111.71,
+                41.53
+              ]
+            },
+            {
+              "city": "察哈尔右翼中旗",
+              "account": 0,
+              "position": [
+                112.64,
+                41.28
+              ]
+            },
+            {
+              "city": "察哈尔右翼后旗",
+              "account": 0,
+              "position": [
+                113.19,
+                41.44
+              ]
+            },
+            {
+              "city": "商都县",
+              "account": 0,
+              "position": [
+                113.58,
+                41.56
+              ]
+            },
+            {
+              "city": "化德县",
+              "account": 0,
+              "position": [
+                114.01,
+                41.90
+              ]
+            },
+            {
+              "city": "卓资县",
+              "account": 0,
+              "position": [
+                112.58,
+                40.89
+              ]
+            },
+            {
+              "city": "集宁区",
+              "account": 0,
+              "position": [
+                113.17,
+                41.00
+              ]
+            },
+            {
+              "city": "察哈尔右翼前旗",
+              "account": 0,
+              "position": [
+                113.21,
+                40.78
+              ]
+            },
+            {
+              "city": "兴和县",
+              "account": 0,
+              "position": [
+                113.83,
+                40.87
+              ]
+            },
+            {
+              "city": "凉城县",
+              "account": 0,
+              "position": [
+                112.50,
+                40.53
+              ]
+            },
+            {
+              "city": "丰镇市",
+              "account": 0,
+              "position": [
+                113.11,
+                40.44
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "city": "锡林郭勒盟",
+        "account": 203820,
+        "commerceTrans": {
+          "GMVTotalAmount": 0.33,
+          "mallSupplier": 23,
+          "enterCowSupermarket": 2
+        },
+        "packinghouse": {
+          "slaughterAcqAmount": 0.73,
+          "slaughterProcessors": 15
+        },
+        "serviceFarmer": {
+          "farmerCount": 12187,
+          "todayIncrease": 16
+        },
+        "rearLivestockMaster": {
+          "masterCount": 33,
+          "monthIncrease": 1
+        },
+        "areaPartner": {
+          "areaPartnerCount": 3,
+          "monthIncrease": 0
+        },
+        "financialService": {
+          "superviseAmount": 5.6,
+          "cooperativeBank": 28,
+          "cooperativeInsuranceCompany": 4
+        },
+        "qualityTraceability": {
+          "traceSourceGiveOut": 500,
+          "customerSumCheck": 370
+        },
+        "cowBreedingStockQuantity": 12420,
+        "sheepBreedingStockQuantity": 191400,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "mapData": {
+          "farmerDis": [
+            {
+              "city": "二连浩特市",
+              "account": 0,
+              "position": [
+                111.95,
+                43.64
+              ]
+            },
+            {
+              "city": "苏尼特右旗",
+              "account": 26935,
+              "position": [
+                112.64,
+                42.74
+              ]
+            },
+            {
+              "city": "镶黄旗",
+              "account": 4285,
+              "position": [
+                116.29,
+                40.03
+              ]
+            },
+            {
+              "city": "正镶白旗",
+              "account": 6985,
+              "position": [
+                115.03,
+                42.29
+              ]
+            },
+            {
+              "city": "太仆寺旗",
+              "account": 9100,
+              "position": [
+                115.28,
+                41.88
+              ]
+            },
+            {
+              "city": "正蓝旗",
+              "account": 21230,
+              "position": [
+                115.99,
+                42.24
+              ]
+            },
+            {
+              "city": "多伦县",
+              "account": 3060,
+              "position": [
+                116.49,
+                42.20
+              ]
+            },
+            {
+              "city": "苏尼特左旗",
+              "account": 19230,
+              "position": [
+                113.67,
+                43.86
+              ]
+            },
+            {
+              "city": "阿巴嘎旗",
+              "account": 10295,
+              "position": [
+                114.95,
+                44.02
+              ]
+            },
+            {
+              "city": "锡林浩特市",
+              "account": 43790,
+              "position": [
+                116.09,
+                43.93
+              ]
+            },
+            {
+              "city": "东乌珠穆沁旗",
+              "account": 23585,
+              "position": [
+                116.98,
+                45.50
+              ]
+            },
+            {
+              "city": "西乌珠穆沁旗",
+              "account": 35325,
+              "position": [
+                117.61,
+                44.59
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "city": "赤峰市",
+        "account": 0,
+        "commerceTrans": {
+          "GMVTotalAmount": 0,
+          "mallSupplier": 0,
+          "enterCowSupermarket": 0
+        },
+        "packinghouse": {
+          "slaughterAcqAmount": 0,
+          "slaughterProcessors": 0
+        },
+        "serviceFarmer": {
+          "farmerCount": 0,
+          "todayIncrease": 0
+        },
+        "rearLivestockMaster": {
+          "masterCount": 0,
+          "monthIncrease": 0
+        },
+        "areaPartner": {
+          "areaPartnerCount": 0,
+          "monthIncrease": 0
+        },
+        "financialService": {
+          "superviseAmount": 0,
+          "cooperativeBank": 0,
+          "cooperativeInsuranceCompany": 0
+        },
+        "qualityTraceability": {
+          "traceSourceGiveOut": 0,
+          "customerSumCheck": 0
+        },
+        "cowBreedingStockQuantity": 0,
+        "sheepBreedingStockQuantity": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "mapData": {
+          "farmerDis": [
+            {
+              "city": "克什克腾旗",
+              "account": 0,
+              "position": [
+                117.55,
+                43.27
+              ]
+            },
+            {
+              "city": "林西县",
+              "account": 0,
+              "position": [
+                118.06,
+                43.62
+              ]
+            },
+            {
+              "city": "巴林右旗",
+              "account": 0,
+              "position": [
+                118.66,
+                43.53
+              ]
+            },
+            {
+              "city": "巴林左旗",
+              "account": 0,
+              "position": [
+                119.36,
+                43.96
+              ]
+            },
+            {
+              "city": "阿鲁科尔沁旗",
+              "account": 0,
+              "position": [
+                120.07,
+                43.87
+              ]
+            },
+            {
+              "city": "翁牛特旗",
+              "account": 0,
+              "position": [
+                119.01,
+                42.94
+              ]
+            },
+            {
+              "city": "松山区",
+              "account": 0,
+              "position": [
+                118.92,
+                42.30
+              ]
+            },
+            {
+              "city": "红山区",
+              "account": 0,
+              "position": [
+                118.95,
+                42.30
+              ]
+            },
+            {
+              "city": "元宝山区",
+              "account": 0,
+              "position": [
+                119.29,
+                42.04
+              ]
+            },
+            {
+              "city": "喀喇沁旗",
+              "account": 0,
+              "position": [
+                118.70,
+                41.93
+              ]
+            },
+            {
+              "city": "敖汉旗",
+              "account": 0,
+              "position": [
+                119.92,
+                42.29
+              ]
+            },
+            {
+              "city": "宁城县",
+              "account": 0,
+              "position": [
+                119.32,
+                41.60
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "city": "通辽市",
+        "account": 0,
+        "commerceTrans": {
+          "GMVTotalAmount": 0,
+          "mallSupplier": 0,
+          "enterCowSupermarket": 0
+        },
+        "packinghouse": {
+          "slaughterAcqAmount": 0,
+          "slaughterProcessors": 0
+        },
+        "serviceFarmer": {
+          "farmerCount": 0,
+          "todayIncrease": 0
+        },
+        "rearLivestockMaster": {
+          "masterCount": 0,
+          "monthIncrease": 0
+        },
+        "areaPartner": {
+          "areaPartnerCount": 0,
+          "monthIncrease": 0
+        },
+        "financialService": {
+          "superviseAmount": 0,
+          "cooperativeBank": 0,
+          "cooperativeInsuranceCompany": 0
+        },
+        "qualityTraceability": {
+          "traceSourceGiveOut": 0,
+          "customerSumCheck": 0
+        },
+        "cowBreedingStockQuantity": 0,
+        "sheepBreedingStockQuantity": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "mapData": {
+          "farmerDis": [
+            {
+              "city": "霍林郭勒市",
+              "account": 0,
+              "position": [
+                119.68,
+                45.53
+              ]
+            },
+            {
+              "city": "扎鲁特旗",
+              "account": 0,
+              "position": [
+                120.92,
+                44.57
+              ]
+            },
+            {
+              "city": "开鲁县",
+              "account": 0,
+              "position": [
+                121.32,
+                43.60
+              ]
+            },
+            {
+              "city": "科尔沁左翼中旗",
+              "account": 0,
+              "position": [
+                123.31,
+                44.13
+              ]
+            },
+            {
+              "city": "科尔沁区",
+              "account": 0,
+              "position": [
+                122.26,
+                43.62
+              ]
+            },
+            {
+              "city": "科尔沁左翼后旗",
+              "account": 0,
+              "position": [
+                122.36,
+                42.94
+              ]
+            },
+            {
+              "city": "库伦旗",
+              "account": 0,
+              "position": [
+                121.81,
+                42.74
+              ]
+            },
+            {
+              "city": "奈曼旗",
+              "account": 0,
+              "position": [
+                120.66,
+                42.87
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "city": "兴安盟",
+        "account": 0,
+        "commerceTrans": {
+          "GMVTotalAmount": 0,
+          "mallSupplier": 0,
+          "enterCowSupermarket": 0
+        },
+        "packinghouse": {
+          "slaughterAcqAmount": 0,
+          "slaughterProcessors": 0
+        },
+        "serviceFarmer": {
+          "farmerCount": 0,
+          "todayIncrease": 0
+        },
+        "rearLivestockMaster": {
+          "masterCount": 0,
+          "monthIncrease": 0
+        },
+        "areaPartner": {
+          "areaPartnerCount": 0,
+          "monthIncrease": 0
+        },
+        "financialService": {
+          "superviseAmount": 0,
+          "cooperativeBank": 0,
+          "cooperativeInsuranceCompany": 0
+        },
+        "qualityTraceability": {
+          "traceSourceGiveOut": 0,
+          "customerSumCheck": 0
+        },
+        "cowBreedingStockQuantity": 0,
+        "sheepBreedingStockQuantity": 0,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "mapData": {
+          "farmerDis": [
+            {
+              "city": "阿尔山市",
+              "account": 0,
+              "position": [
+                119.94,
+                47.18
+              ]
+            },
+            {
+              "city": "科尔沁右翼前旗",
+              "account": 0,
+              "position": [
+                121.95,
+                46.08
+              ]
+            },
+            {
+              "city": "扎赉特旗",
+              "account": 0,
+              "position": [
+                122.90,
+                46.72
+              ]
+            },
+            {
+              "city": "乌兰浩特市",
+              "account": 0,
+              "position": [
+                122.09,
+                46.07
+              ]
+            },
+            {
+              "city": "突泉县",
+              "account": 0,
+              "position": [
+                121.59,
+                45.38
+              ]
+            },
+            {
+              "city": "科尔沁右翼中旗",
+              "account": 0,
+              "position": [
+                121.48,
+                45.06
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "city": "呼伦贝尔市",
+        "account": 39920,
+        "commerceTrans": {
+          "GMVTotalAmount": 0,
+          "mallSupplier": 1,
+          "enterCowSupermarket": 0
+        },
+        "packinghouse": {
+          "slaughterAcqAmount": 0.32,
+          "slaughterProcessors": 1
+        },
+        "serviceFarmer": {
+          "farmerCount": 1563,
+          "todayIncrease": 7
+        },
+        "rearLivestockMaster": {
+          "masterCount": 3,
+          "monthIncrease": 0
+        },
+        "areaPartner": {
+          "areaPartnerCount": 1,
+          "monthIncrease": 0
+        },
+        "financialService": {
+          "superviseAmount": 0,
+          "cooperativeBank": 0,
+          "cooperativeInsuranceCompany": 0
+        },
+        "qualityTraceability": {
+          "traceSourceGiveOut": 26,
+          "customerSumCheck": 10
+        },
+        "cowBreedingStockQuantity": 1250,
+        "sheepBreedingStockQuantity": 38670,
+        "position": [
+          119.75,
+          49.21
+        ],
+        "mapData": {
+          "farmerDis": [
+            {
+              "city": "新巴尔虎右旗",
+              "account": 15600,
+              "position": [
+                116.82,
+                48.67
+              ]
+            },
+            {
+              "city": "满洲里市",
+              "account": 0,
+              "position": [
+                117.38,
+                49.60
+              ]
+            },
+            {
+              "city": "扎赉诺尔区",
+              "account": 0,
+              "position": [
+                117.67,
+                49.51
+              ]
+            },
+            {
+              "city": "新巴尔虎左旗",
+              "account": 12760,
+              "position": [
+                118.27,
+                48.22
+              ]
+            },
+            {
+              "city": "陈巴尔虎骑",
+              "account": 0,
+              "position": [
+                119.42,
+                49.33
+              ]
+            },
+            {
+              "city": "鄂温克族自治旗",
+              "account": 11560,
+              "position": [
+                119.76,
+                49.15
+              ]
+            },
+            {
+              "city": "根河市",
+              "account": 0,
+              "position": [
+                121.52,
+                50.78
+              ]
+            },
+            {
+              "city": "鄂伦春自治旗",
+              "account": 0,
+              "position": [
+                123.73,
+                50.59
+              ]
+            },
+            {
+              "city": "阿荣旗",
+              "account": 0,
+              "position": [
+                123.46,
+                48.13
+              ]
+            },
+            {
+              "city": "莫力达瓦达斡尔族自治旗",
+              "account": 0,
+              "position": [
+                124.52,
+                48.48
+              ]
+            },
+            {
+              "city": "额尔古纳市",
+              "account": 0,
+              "position": [
+                120.18,
+                50.24
+              ]
+            },
+            {
+              "city": "牙克石市",
+              "account": 0,
+              "position": [
+                120.71,
+                49.29
+              ]
+            },
+            {
+              "city": "扎兰屯市",
+              "account": 0,
+              "position": [
+                122.71,
+                48.03
+              ]
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

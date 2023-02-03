@@ -1,0 +1,293 @@
+{
+  "serveCustomerView": { // 服务客户概览
+    "monthNewlyCustomer": 126, // 本月新增客户(家)
+    "linkRadio": 16.21, // 月环比
+    "flag": 0, // 趋势标识：上升/下降
+    "todayNewlyCustomer": 15
+  },
+  "customerTypeDis": { // 客户类型分布
+    "unitFarmer": 20, // 个体养殖户
+    "majorFarmer": 50, // 专业养殖户
+    "smallFarm": 20, // 小型养殖场
+    "largeFarm": 10 // 大型养殖场
+  },
+  "farmerView": { // 畜牧科技师概览
+    "monthNewly": 126, // 本月新增(人)
+    "linkRadio": 16.21, // 月环比
+    "flag": 0, // 趋势标识：上升/下降
+    "todayNewly": 15 // 今日新增(人)
+  },
+  "farmerServiceAbility": { // 畜牧科技师服务能力TOP5
+    "thirtyDays": {
+      "label": ["姓名","服务区域","服务客户","客户交易额(万)"],
+      "value": [
+        {
+          "serialNo": "01",
+          "name": "邱永刚", // 姓名
+          "serviceArea": "西吉县", // 服务区域
+          "serviceCustomer": 240, // 服务客户
+          "tradeAmount": 16.2 // 客户交易额(万)
+        },
+        {
+          "serialNo": "02",
+          "name": "马万武",
+          "serviceArea": "泾源县",
+          "serviceCustomer": 103,
+          "tradeAmount": 10.5
+        },
+        {
+          "serialNo": "03",
+          "name": "马子禄",
+          "serviceArea": "西吉县",
+          "serviceCustomer": 244,
+          "tradeAmount": 7.3
+        },
+        {
+          "serialNo": "04",
+          "name": "马都",
+          "serviceArea": "彭阳县",
+          "serviceCustomer": 532,
+          "tradeAmount": 4.2
+        },{
+          "serialNo": "05",
+          "name": "杨正荣",
+          "serviceArea": "西吉县",
+          "serviceCustomer": 340,
+          "tradeAmount": 1.6
+        }
+      ]
+    },
+    "threeMonth": {
+      "label": ["姓名","服务区域","服务客户","客户交易额(万)"],
+      "value": [
+        {
+          "serialNo": "01",
+          "name": "叶里",
+          "serviceArea": "西吉县",
+          "serviceCustomer": 240,
+          "tradeAmount": 16.2
+        },
+        {
+          "serialNo": "02",
+          "name": "马万武",
+          "serviceArea": "泾源县",
+          "serviceCustomer": 103,
+          "tradeAmount": 10.5
+        },
+        {
+          "serialNo": "03",
+          "name": "马子禄",
+          "serviceArea": "西吉县",
+          "serviceCustomer": 244,
+          "tradeAmount": 7.3
+        },
+        {
+          "serialNo": "04",
+          "name": "马都",
+          "serviceArea": "彭阳县",
+          "serviceCustomer": 532,
+          "tradeAmount": 4.2
+        },{
+          "serialNo": "05",
+          "name": "杨正荣",
+          "serviceArea": "西吉县",
+          "serviceCustomer": 340,
+          "tradeAmount": 1.6
+        }
+      ]
+    },
+    "sixMonth": {
+      "label": ["姓名","服务区域","服务客户","客户交易额(万)"],
+      "value": [
+        {
+          "serialNo": "01",
+          "name": "邹永刚",
+          "serviceArea": "西吉县",
+          "serviceCustomer": 240,
+          "tradeAmount": 16.2
+        },
+        {
+          "serialNo": "02",
+          "name": "马万武",
+          "serviceArea": "泾源县",
+          "serviceCustomer": 103,
+          "tradeAmount": 10.5
+        },
+        {
+          "serialNo": "03",
+          "name": "马子禄",
+          "serviceArea": "西吉县",
+          "serviceCustomer": 244,
+          "tradeAmount": 7.3
+        },
+        {
+          "serialNo": "04",
+          "name": "马都",
+          "serviceArea": "彭阳县",
+          "serviceCustomer": 532,
+          "tradeAmount": 4.2
+        },{
+          "serialNo": "05",
+          "name": "杨正荣",
+          "serviceArea": "西吉县",
+          "serviceCustomer": 340,
+          "tradeAmount": 1.6
+        }
+      ]
+    }
+  },
+  "middleTop":{
+    "totalServeCustomer": 2058, // 累计服务客户(家)
+    "livestockMaster": 225, // 畜牧科技师
+    "liveAnimal": 106458, // 当前存栏活畜
+    "totalTradeAmount": 153.8 // 累计综合交易金额
+  },
+  "ArealDis": { // 区域分布
+    "mapData": [
+      {
+        "name": "西吉县",
+        "totalServeCustomer": 405, // 累计服务客户(家)
+        "livestockMaster": 39, // 畜牧科技师(人)
+        "liveAnimal": 21289, // 当前存栏活畜(头)
+        "totalTradeAmount": 30.76, // 累计交易金额(亿)
+        "position": [ // 坐标
+          105.72911,
+          35.96385
+        ]
+      },
+      {
+        "name": "泾源县",
+        "totalServeCustomer": 405,
+        "livestockMaster": 39,
+        "liveAnimal": 21289,
+        "totalTradeAmount": 30.76,
+        "position": [
+          106.33067,
+          35.49823
+        ]
+      },
+      {
+        "name": "原州区",
+        "totalServeCustomer": 455,
+        "livestockMaster": 39,
+        "liveAnimal": 25098,
+        "totalTradeAmount": 35.66,
+        "position": [
+          106.28779,
+          36.00341
+        ]
+      },
+      {
+        "name": "隆德县",
+        "totalServeCustomer": 405,
+        "livestockMaster": 39,
+        "liveAnimal": 20018,
+        "totalTradeAmount": 29.76,
+        "position": [
+          106.12332,
+          35.61812
+        ]
+      },
+      {
+        "name": "彭阳县",
+        "totalServeCustomer": 405,
+        "livestockMaster": 39,
+        "liveAnimal": 18289,
+        "totalTradeAmount": 30.16,
+        "position": [
+          106.63808,
+          35.8496
+        ]
+      }
+    ]
+  },
+  "liveAnimalDis": { // 存栏活畜分布
+    "cow": { // 牛
+      "breedingStock": 20564, // 牛只当前存栏量
+      "bossyBreedingStock": 2024 // 母牛当前存栏量
+      "dis": {
+        "label": ["基础母牛","母牛犊","怀胎母牛","公牛犊","种公牛","淘汰母牛"],
+        "value": [250,277,1800,750,1403,480]
+      }
+    },
+    "sheep": { // 羊
+      "breedingStock": 30090, // 羊只当前存栏量
+      "eweBreedingStock": 5090 // 母羊当前存栏量
+      "dis": {
+        "label": ["基础母羊","母羊犊","怀胎母羊","公羊犊","种公羊","淘汰母羊"],
+        "value": [250,277,1800,750,1403,480]
+      }
+    }
+  },
+  "tradeView": { // 交易概览
+    "monthTradeAmount": 126, // 本月累计交易额(万)
+    "linkRadio": 16.21, // 月环比
+    "flag": 0, // 上升、下降 标志
+    "todayTotalAmount": 15 // 今日累计交易额(万)
+  },
+  "tradeTrend": { // 交易趋势
+    "sevenDay": { // 近七日
+      "liveAnimalTrade": { // 活畜交易
+          "label": ["10-27","10-28","10-29","10-30","10-31","11-01","11-02"],
+          "value": [500,800,900,1500,1200,1400,550]
+      },
+      "mallTrade": { // 商城交易
+        "label": ["10-27","10-28","10-29","10-30","10-31","11-01","11-02"],
+        "value": [600,700,800,1900,1700,1000,800]
+      },
+      "slaughterTrade": { // 屠宰交易
+        "label": ["10-27","10-28","10-29","10-30","10-31","11-01","11-02"],
+        "value": [550,430,700,1200,1100,801,600]
+      }
+    },
+    "thirtyDays": { // 近30天
+      "liveAnimalTrade": { // 活畜交易
+        "label": ["10-04", "10-05", "10-06", "10-07", "10-08", "10-09", "10-10", "10-11", "10-12", "10-13", "10-14",
+          "10-15", "10-16", "10-17", "10-18", "10-19", "10-20","10-21" , "10-22", "10-23", "10-24", "10-25", "10-26", "10-27", "10-28", "10-29", "10-30", "10-31", "11-01", "11-02"],
+        "value": [500,800,900,1500,1200,1400,550,770,900,1000,500,800,900,1500,1200,1400,550,770,900,1000,500,800,900,1500,1200,1400,550,770,900,1000]
+      },
+      "mallTrade": { // 商城交易
+        "label": ["10-04", "10-05", "10-06", "10-07", "10-08", "10-09", "10-10", "10-11", "10-12", "10-13", "10-14",
+          "10-15", "10-16", "10-17", "10-18", "10-19", "10-20","10-21" , "10-22", "10-23", "10-24", "10-25", "10-26", "10-27", "10-28", "10-29", "10-30", "10-31", "11-01", "11-02"],
+        "value": [600,700,800,1900,1700,1000,800,700,1200,1300,600,700,800,1900,1700,1000,800,700,1200,1300,600,700,800,1900,1700,1000,800,700,1200,1300]
+      },
+      "slaughterTrade": { // 屠宰交易
+        "label": ["10-04", "10-05", "10-06", "10-07", "10-08", "10-09", "10-10", "10-11", "10-12", "10-13", "10-14",
+          "10-15", "10-16", "10-17", "10-18", "10-19", "10-20","10-21" , "10-22", "10-23", "10-24", "10-25", "10-26", "10-27", "10-28", "10-29", "10-30", "10-31", "11-01", "11-02"],
+        "value": [550,430,700,1200,1100,801,600,700,900,600,550,430,700,1200,1100,801,600,700,900,600,550,430,700,1200,1100,801,600,700,900,600]
+      }
+    },
+    "threeMonth": { // 近2月
+      "liveAnimalTrade": { // 活畜交易
+        "label": ["22-09","22-10","22-11"],
+        "value": [1500,1200,1400]
+      },
+      "mallTrade": { // 商城交易
+        "label": ["22-09","22-10","22-11"],
+        "value": [1900,1700,1000]
+      },
+      "slaughterTrade": { // 屠宰交易
+        "label": ["22-09","22-10","22-11"],
+
+        "value": [1200,1100,801]
+      }
+    }
+  },
+  "tradeAmountProp": { // 交易额占比
+    "sevenDays": {
+      "liveAnimalTrade": 50.00, // 活畜交易
+      "mallTrade": 30.00, // 商城交易
+      "slaughterTrade": 20.00 // 屠宰交易
+    },
+    "thirtyDays": {
+      "liveAnimalTrade": 40.00,
+      "mallTrade": 30.00,
+      "slaughterTrade": 30.00
+    },
+    "threeMonth": {
+      "liveAnimalTrade": 50.00,
+      "mallTrade": 40.00,
+      "slaughterTrade": 10.00
+    }
+  }
+}

@@ -1,0 +1,2346 @@
+{
+  "nearlySevenDays": {
+    "tradeArealDistribution": 100,
+    "totalAllAmount": [
+      {
+        "city": "阿拉善盟",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "乌海市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "巴彦淖尔市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "鄂尔多斯市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "包头市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "呼和浩特市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "乌兰察布市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "锡林郭勒盟",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "赤峰市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "通辽市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "兴安盟",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "呼伦贝尔市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      }
+    ],
+    "purchasePriceTrend": [
+      {
+        "label": "牛只交易均价(元/KG)",
+        "value": 22,
+        "trend": "20.21%",
+        "flag": 1
+      },
+      {
+        "label": "羊只交易均价(元/KG)",
+        "value": 29,
+        "trend": "16.21%",
+        "flag": 1
+      }
+    ],
+    "tradePrice": [
+      {
+        "title": "牛只交易均价",
+        "label": [
+          "10-11",
+          "10-12",
+          "10-13",
+          "10-14",
+          "10-15",
+          "10-16",
+          "10-17"
+        ],
+        "value": [
+          50,
+          48,
+          56,
+          52,
+          49,
+          38,
+          55,
+          54
+        ]
+      },
+      {
+        "title": "羊只交易均价",
+        "label": [
+          "10-11",
+          "10-12",
+          "10-13",
+          "10-14",
+          "10-15",
+          "10-16",
+          "10-17"
+        ],
+        "value": [
+          32,
+          38,
+          36,
+          32,
+          35,
+          39,
+          37,
+          31
+        ]
+      }
+    ],
+    "liveAnimalTrade": {
+      "tradeMoney": 0,
+      "tradeAmount": 0
+    },
+    "liveAnimalTradeTrend": [
+      {
+        "kind": "牛",
+        "label": [
+          "09-06",
+          "09-07",
+          "09-08",
+          "09-09",
+          "09-10",
+          "09-11",
+          "09-12"
+        ],
+        "value": [
+          700,
+          480,
+          1709,
+          501,
+          600,
+          630,
+          356
+        ]
+      },
+      {
+        "kind": "羊",
+        "label": [
+          "09-06",
+          "09-07",
+          "09-08",
+          "09-09",
+          "09-10",
+          "09-11",
+          "09-12"
+        ],
+        "value": [
+          200,
+          600,
+          1709,
+          1001,
+          600,
+          1650,
+          788
+        ]
+      }
+    ],
+    "kindDistribution": [
+      {
+        "label": "种公牛",
+        "value": "46"
+      },
+      {
+        "label": "基础母牛",
+        "value": "14"
+      },
+      {
+        "label": "母牛犊",
+        "value": "15"
+      },
+      {
+        "label": "公牛犊",
+        "value": "25"
+      }
+    ],
+    "slaughterTrade": {
+      "tradeMoney": 100,
+      "cowQuantity": 0,
+      "sheepQuantity": 625
+    },
+    "entranceQuantity": [
+      {
+        "title": "牛",
+        "label": [
+          "10-12",
+          "10-13",
+          "10-14",
+          "10-15",
+          "10-16",
+          "10-17",
+          "10-18"
+        ],
+        "value": [
+          700,
+          480,
+          1709,
+          501,
+          600,
+          630,
+          1500
+        ]
+      },
+      {
+        "title": "羊",
+        "label": [
+          "10-12",
+          "10-13",
+          "10-14",
+          "10-15",
+          "10-16",
+          "10-17",
+          "10-18"
+        ],
+        "value": [
+          120,
+          320,
+          600,
+          1709,
+          1100,
+          500,
+          900
+        ]
+      }
+    ],
+    "goodsServiceTrade": {
+      "tradeMoney": 0,
+      "tradeOrder": 0
+    },
+    "goodsServiceTradeTrend": {
+      "label": [
+        "09-06",
+        "09-07",
+        "09-08",
+        "09-09",
+        "09-10",
+        "09-11",
+        "09-12"
+      ],
+      "value": [
+        700,
+        480,
+        1709,
+        501,
+        600,
+        630,
+        1800
+      ]
+    },
+    "goodsTradeKindDistribution": {
+      "label": [
+        "饲料",
+        "草料",
+        "预混料",
+        "兽药",
+        "精饲料",
+        "农机"
+      ],
+      "value": [
+        250,
+        300,
+        1888,
+        769,
+        1200,
+        476
+      ]
+    }
+  },
+  "nearly30Days": {
+    "tradeArealDistribution": 540,
+    "totalAllAmount": [
+      {
+        "city": "阿拉善盟",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "乌海市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "巴彦淖尔市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "鄂尔多斯市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "包头市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "呼和浩特市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "乌兰察布市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "锡林郭勒盟",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "赤峰市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "通辽市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "兴安盟",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "呼伦贝尔市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      }
+    ],
+    "purchasePriceTrend": [
+      {
+        "label": "牛只交易均价(元/KG)",
+        "value": 19,
+        "trend": "20.21%",
+        "flag": 1
+      },
+      {
+        "label": "羊只交易均价(元/KG)",
+        "value": 35,
+        "trend": "16.21%",
+        "flag": 1
+      }
+    ],
+    "tradePrice": [
+      {
+        "title": "牛只交易均价",
+        "label": [
+          "09-13",
+          "09-14",
+          "09-15",
+          "09-16",
+          "09-17",
+          "09-18",
+          "09-19",
+          "09-20",
+          "09-21",
+          "09-22",
+          "09-23",
+          "09-24",
+          "09-25",
+          "09-26",
+          "09-27",
+          "09-28",
+          "09-29",
+          "09-30",
+          "10-01",
+          "10-02",
+          "10-03",
+          "10-04",
+          "10-05",
+          "10-06",
+          "10-07",
+          "10-08",
+          "10-09",
+          "10-10",
+          "10-11",
+          "10-12"
+        ],
+        "value": [
+          200,
+          300,
+          700,
+          1000,
+          666,
+          888,
+          300,
+          330,
+          990,
+          1000,
+          1100,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "title": "羊只交易均价",
+        "label": [
+          "09-13",
+          "09-14",
+          "09-15",
+          "09-16",
+          "09-17",
+          "09-18",
+          "09-19",
+          "09-20",
+          "09-21",
+          "09-22",
+          "09-23",
+          "09-24",
+          "09-25",
+          "09-26",
+          "09-27",
+          "09-28",
+          "09-29",
+          "09-30",
+          "10-01",
+          "10-02",
+          "10-03",
+          "10-04",
+          "10-05",
+          "10-06",
+          "10-07",
+          "10-08",
+          "10-09",
+          "10-10",
+          "10-11",
+          "10-12"
+        ],
+        "value": [
+          200,
+          300,
+          700,
+          1000,
+          666,
+          888,
+          300,
+          330,
+          990,
+          1000,
+          1100,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "liveAnimalTrade": {
+      "tradeMoney": 0,
+      "tradeAmount": 0
+    },
+    "liveAnimalTradeTrend": [
+      {
+        "kind": "牛",
+        "label": [
+          "09-13",
+          "09-14",
+          "09-15",
+          "09-16",
+          "09-17",
+          "09-18",
+          "09-19",
+          "09-20",
+          "09-21",
+          "09-22",
+          "09-23",
+          "09-24",
+          "09-25",
+          "09-26",
+          "09-27",
+          "09-28",
+          "09-29",
+          "09-30",
+          "10-01",
+          "10-02",
+          "10-03",
+          "10-04",
+          "10-05",
+          "10-06",
+          "10-07",
+          "10-08",
+          "10-09",
+          "10-10",
+          "10-11",
+          "10-12"
+        ],
+        "value": [
+          200,
+          300,
+          700,
+          1000,
+          666,
+          888,
+          300,
+          330,
+          990,
+          1000,
+          1100,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "kind": "羊",
+        "label": [
+          "09-13",
+          "09-14",
+          "09-15",
+          "09-16",
+          "09-17",
+          "09-18",
+          "09-19",
+          "09-20",
+          "09-21",
+          "09-22",
+          "09-23",
+          "09-24",
+          "09-25",
+          "09-26",
+          "09-27",
+          "09-28",
+          "09-29",
+          "09-30",
+          "10-01",
+          "10-02",
+          "10-03",
+          "10-04",
+          "10-05",
+          "10-06",
+          "10-07",
+          "10-08",
+          "10-09",
+          "10-10",
+          "10-11",
+          "10-12"
+        ],
+        "value": [
+          200,
+          300,
+          700,
+          1000,
+          666,
+          888,
+          300,
+          330,
+          990,
+          1000,
+          1100,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "kind": "猪",
+        "label": [
+          "09-13",
+          "09-14",
+          "09-15",
+          "09-16",
+          "09-17",
+          "09-18",
+          "09-19",
+          "09-20",
+          "09-21",
+          "09-22",
+          "09-23",
+          "09-24",
+          "09-25",
+          "09-26",
+          "09-27",
+          "09-28",
+          "09-29",
+          "09-30",
+          "10-01",
+          "10-02",
+          "10-03",
+          "10-04",
+          "10-05",
+          "10-06",
+          "10-07",
+          "10-08",
+          "10-09",
+          "10-10",
+          "10-11",
+          "10-12"
+        ],
+        "value": [
+          200,
+          300,
+          700,
+          1000,
+          666,
+          888,
+          300,
+          330,
+          990,
+          1000,
+          1100,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "kind": "鸡",
+        "label": [
+          "09-13",
+          "09-14",
+          "09-15",
+          "09-16",
+          "09-17",
+          "09-18",
+          "09-19",
+          "09-20",
+          "09-21",
+          "09-22",
+          "09-23",
+          "09-24",
+          "09-25",
+          "09-26",
+          "09-27",
+          "09-28",
+          "09-29",
+          "09-30",
+          "10-01",
+          "10-02",
+          "10-03",
+          "10-04",
+          "10-05",
+          "10-06",
+          "10-07",
+          "10-08",
+          "10-09",
+          "10-10",
+          "10-11",
+          "10-12"
+        ],
+        "value": [
+          200,
+          300,
+          700,
+          1000,
+          666,
+          888,
+          300,
+          330,
+          990,
+          1000,
+          1100,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "kindDistribution": [
+      {
+        "label": "种公牛",
+        "value": "46"
+      },
+      {
+        "label": "基础母牛",
+        "value": "14"
+      },
+      {
+        "label": "母牛犊",
+        "value": "15"
+      },
+      {
+        "label": "公牛犊",
+        "value": "25"
+      }
+    ],
+    "slaughterTrade": {
+      "tradeMoney": 670,
+      "cowQuantity": 0,
+      "sheepQuantity": 4180
+    },
+    "entranceQuantity": [
+      {
+        "title": "牛",
+        "label": [
+          "09-13",
+          "09-14",
+          "09-15",
+          "09-16",
+          "09-17",
+          "09-18",
+          "09-19",
+          "09-20",
+          "09-21",
+          "09-22",
+          "09-23",
+          "09-24",
+          "09-25",
+          "09-26",
+          "09-27",
+          "09-28",
+          "09-29",
+          "09-30",
+          "10-01",
+          "10-02",
+          "10-03",
+          "10-04",
+          "10-05",
+          "10-06",
+          "10-07",
+          "10-08",
+          "10-09",
+          "10-10",
+          "10-11",
+          "10-12"
+        ],
+        "value": [
+          200,
+          300,
+          700,
+          1000,
+          666,
+          888,
+          300,
+          330,
+          990,
+          1000,
+          1100,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "title": "羊",
+        "label": [
+          "09-13",
+          "09-14",
+          "09-15",
+          "09-16",
+          "09-17",
+          "09-18",
+          "09-19",
+          "09-20",
+          "09-21",
+          "09-22",
+          "09-23",
+          "09-24",
+          "09-25",
+          "09-26",
+          "09-27",
+          "09-28",
+          "09-29",
+          "09-30",
+          "10-01",
+          "10-02",
+          "10-03",
+          "10-04",
+          "10-05",
+          "10-06",
+          "10-07",
+          "10-08",
+          "10-09",
+          "10-10",
+          "10-11",
+          "10-12"
+        ],
+        "value": [
+          200,
+          300,
+          700,
+          1000,
+          666,
+          888,
+          300,
+          330,
+          990,
+          1000,
+          1100,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "goodsServiceTrade": {
+      "tradeMoney": 0,
+      "tradeOrder": 0
+    },
+    "goodsServiceTradeTrend": {
+      "label": [
+        "09-13",
+        "09-14",
+        "09-15",
+        "09-16",
+        "09-17",
+        "09-18",
+        "09-19",
+        "09-20",
+        "09-21",
+        "09-22",
+        "09-23",
+        "09-24",
+        "09-25",
+        "09-26",
+        "09-27",
+        "09-28",
+        "09-29",
+        "09-30",
+        "10-01",
+        "10-02",
+        "10-03",
+        "10-04",
+        "10-05",
+        "10-06",
+        "10-07",
+        "10-08",
+        "10-09",
+        "10-10",
+        "10-11",
+        "10-12"
+      ],
+      "value": [
+        200,
+        300,
+        700,
+        1000,
+        666,
+        888,
+        300,
+        330,
+        990,
+        1000,
+        1100,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "goodsTradeKindDistribution": {
+      "label": [
+        "饲料",
+        "草料",
+        "预混料",
+        "兽药",
+        "精饲料",
+        "农机"
+      ],
+      "value": [
+        250,
+        300,
+        1888,
+        769,
+        1200,
+        476
+      ]
+    }
+  },
+  "nearlyThreeMonths": {
+    "tradeArealDistribution": 1750,
+    "totalAllAmount": [
+      {
+        "city": "阿拉善盟",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "乌海市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "巴彦淖尔市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "鄂尔多斯市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "包头市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "呼和浩特市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "乌兰察布市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "锡林郭勒盟",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "赤峰市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "通辽市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "兴安盟",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "呼伦贝尔市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      }
+    ],
+    "purchasePriceTrend": [
+      {
+        "label": "牛只交易均价(元/KG)",
+        "value": 19,
+        "trend": "20.21%",
+        "flag": 1
+      },
+      {
+        "label": "羊只交易均价(元/KG)",
+        "value": 35,
+        "trend": "16.21%",
+        "flag": 1
+      }
+    ],
+    "tradePrice": [
+      {
+        "title": "牛只交易均价",
+        "label": [
+          "2022-08",
+          "2022-09",
+          "2022-11"
+        ],
+        "value": [
+          200,
+          300,
+          700
+        ]
+      },
+      {
+        "title": "羊只交易均价",
+        "label": [
+          "2022-08",
+          "2022-09",
+          "2022-11"
+        ],
+        "value": [
+          200,
+          300,
+          700
+        ]
+      }
+    ],
+    "liveAnimalTrade": {
+      "tradeMoney": 0,
+      "tradeAmount": 0
+    },
+    "liveAnimalTradeTrend": [
+      {
+        "kind": "牛",
+        "label": [
+          "2022-08",
+          "2022-09",
+          "2022-11"
+        ],
+        "value": [
+          200,
+          300,
+          700
+        ]
+      },
+      {
+        "kind": "羊",
+        "label": [
+          "2022-08",
+          "2022-09",
+          "2022-11"
+        ],
+        "value": [
+          200,
+          300,
+          700
+        ]
+      },
+      {
+        "kind": "猪",
+        "label": [
+          "2022-08",
+          "2022-09",
+          "2022-11"
+        ],
+        "value": [
+          200,
+          300,
+          700
+        ]
+      },
+      {
+        "kind": "鸡",
+        "label": [
+          "2022-08",
+          "2022-09",
+          "2022-11"
+        ],
+        "value": [
+          200,
+          300,
+          700
+        ]
+      }
+    ],
+    "kindDistribution": [
+      {
+        "label": "种公牛",
+        "value": "30"
+      },
+      {
+        "label": "基础母牛",
+        "value": "30"
+      },
+      {
+        "label": "母牛犊",
+        "value": "30"
+      },
+      {
+        "label": "公牛犊",
+        "value": "30"
+      }
+    ],
+    "slaughterTrade": {
+      "tradeMoney": 1750,
+      "cowQuantity": 0,
+      "sheepQuantity": 10937
+    },
+    "entranceQuantity": [
+      {
+        "title": "牛",
+        "label": [
+          "2022-08",
+          "2022-09",
+          "2022-11"
+        ],
+        "value": [
+          200,
+          300,
+          700
+        ]
+      },
+      {
+        "title": "羊",
+        "label": [
+          "2022-08",
+          "2022-09",
+          "2022-11"
+        ],
+        "value": [
+          200,
+          300,
+          700
+        ]
+      }
+    ],
+    "goodsServiceTrade": {
+      "tradeMoney": 0,
+      "tradeOrder": 0
+    },
+    "goodsServiceTradeTrend": {
+      "label": [
+        "2022-08",
+        "2022-09",
+        "2022-11"
+      ],
+      "value": [
+        200,
+        300,
+        700
+      ]
+    },
+    "goodsTradeKindDistribution": {
+      "label": [
+        "饲料",
+        "草料",
+        "预混料",
+        "兽药",
+        "精饲料",
+        "农机"
+      ],
+      "value": [
+        250,
+        300,
+        1888,
+        769,
+        1200,
+        476
+      ]
+    }
+  },
+  "nearlySixMonths": {
+    "tradeArealDistribution": 2850,
+    "totalAllAmount": [
+      {
+        "city": "阿拉善盟",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "乌海市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "巴彦淖尔市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "鄂尔多斯市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "包头市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "呼和浩特市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "乌兰察布市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "锡林郭勒盟",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "赤峰市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "通辽市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "兴安盟",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "呼伦贝尔市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      }
+    ],
+    "purchasePriceTrend": [
+      {
+        "label": "牛只交易均价(元/KG)",
+        "value": 18,
+        "trend": "20.21%",
+        "flag": 1
+      },
+      {
+        "label": "羊只交易均价(元/KG)",
+        "value": 36,
+        "trend": "16.21%",
+        "flag": 1
+      }
+    ],
+    "tradePrice": [
+      {
+        "title": "牛只交易均价",
+        "label": [
+          "2022-05",
+          "2022-06",
+          "2022-07",
+          "2022-08",
+          "2022-09",
+          "2022-10"
+        ],
+        "value": [
+          200,
+          300,
+          700,
+          1000,
+          666,
+          888
+        ]
+      },
+      {
+        "title": "羊只交易均价",
+        "label": [
+          "2022-05",
+          "2022-06",
+          "2022-07",
+          "2022-08",
+          "2022-09",
+          "2022-10"
+        ],
+        "value": [
+          200,
+          300,
+          700,
+          1000,
+          666,
+          888
+        ]
+      }
+    ],
+    "liveAnimalTrade": {
+      "tradeMoney": 430,
+      "tradeAmount": 220
+    },
+    "liveAnimalTradeTrend": [
+      {
+        "kind": "牛",
+        "label": [
+          "2022-05",
+          "2022-06",
+          "2022-07",
+          "2022-08",
+          "2022-09",
+          "2022-10"
+        ],
+        "value": [
+          200,
+          300,
+          700,
+          1000,
+          666,
+          888
+        ]
+      },
+      {
+        "kind": "羊",
+        "label": [
+          "2022-05",
+          "2022-06",
+          "2022-07",
+          "2022-08",
+          "2022-09",
+          "2022-10"
+        ],
+        "value": [
+          200,
+          300,
+          700,
+          1000,
+          666,
+          888
+        ]
+      },
+      {
+        "kind": "猪",
+        "label": [
+          "2022-05",
+          "2022-06",
+          "2022-07",
+          "2022-08",
+          "2022-09",
+          "2022-10"
+        ],
+        "value": [
+          200,
+          300,
+          700,
+          1000,
+          666,
+          888
+        ]
+      },
+      {
+        "kind": "鸡",
+        "label": [
+          "2022-05",
+          "2022-06",
+          "2022-07",
+          "2022-08",
+          "2022-09",
+          "2022-10"
+        ],
+        "value": [
+          200,
+          300,
+          700,
+          1000,
+          666,
+          888
+        ]
+      }
+    ],
+    "kindDistribution": [
+      {
+        "label": "种公牛",
+        "value": "30"
+      },
+      {
+        "label": "基础母牛",
+        "value": "190"
+      },
+      {
+        "label": "母牛犊",
+        "value": "30"
+      },
+      {
+        "label": "公牛犊",
+        "value": "30"
+      }
+    ],
+    "slaughterTrade": {
+      "tradeMoney": 2420,
+      "cowQuantity": 0,
+      "sheepQuantity": 17812
+    },
+    "entranceQuantity": [
+      {
+        "title": "牛",
+        "label": [
+          "2022-05",
+          "2022-06",
+          "2022-07",
+          "2022-08",
+          "2022-09",
+          "2022-10"
+        ],
+        "value": [
+          200,
+          300,
+          700,
+          1000,
+          666,
+          888
+        ]
+      },
+      {
+        "title": "羊",
+        "label": [
+          "2022-05",
+          "2022-06",
+          "2022-07",
+          "2022-08",
+          "2022-09",
+          "2022-10"
+        ],
+        "value": [
+          200,
+          300,
+          700,
+          1000,
+          666,
+          888
+        ]
+      }
+    ],
+    "goodsServiceTrade": {
+      "tradeMoney": 0,
+      "tradeOrder": 0
+    },
+    "goodsServiceTradeTrend": {
+      "label": [
+        "2022-05",
+        "2022-06",
+        "2022-07",
+        "2022-08",
+        "2022-09",
+        "2022-10"
+      ],
+      "value": [
+        200,
+        300,
+        700,
+        1000,
+        666,
+        888
+      ]
+    },
+    "goodsTradeKindDistribution": {
+      "label": [
+        "饲料",
+        "草料",
+        "预混料",
+        "兽药",
+        "精饲料",
+        "农机"
+      ],
+      "value": [
+        250,
+        300,
+        1888,
+        769,
+        1200,
+        476
+      ]
+    }
+  },
+  "nearlyOneYear": {
+    "tradeArealDistribution": 4600,
+    "totalAllAmount": [
+      {
+        "city": "阿拉善盟",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "乌海市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "巴彦淖尔市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "鄂尔多斯市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "包头市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "呼和浩特市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "乌兰察布市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "锡林郭勒盟",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "赤峰市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "通辽市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "兴安盟",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "呼伦贝尔市",
+        "totalAmount": 84,
+        "liveAnimalTrade": 15,
+        "goodsServiceTrade": 20,
+        "slaughter": 24,
+        "position": [
+          119.75,
+          49.21
+        ]
+      }
+    ],
+    "purchasePriceTrend": [
+      {
+        "label": "牛只交易均价(元/KG)",
+        "value": 19,
+        "trend": "20.21%",
+        "flag": 1
+      },
+      {
+        "label": "羊只交易均价(元/KG)",
+        "value": 36,
+        "trend": "16.21%",
+        "flag": 1
+      }
+    ],
+    "tradePrice": [
+      {
+        "title": "牛只交易均价",
+        "label": [
+          "2021-11",
+          "2021-12",
+          "2022-01",
+          "2022-02",
+          "2022-03",
+          "2022-04",
+          "2022-05",
+          "2022-06",
+          "2022-07",
+          "2022-08",
+          "2022-09",
+          "2022-10"
+        ],
+        "value": [
+          200,
+          300,
+          700,
+          1000,
+          666,
+          888,
+          300,
+          330,
+          800,
+          1000,
+          1100,
+          300
+        ]
+      },
+      {
+        "title": "羊只交易均价",
+        "label": [
+          "2021-11",
+          "2021-12",
+          "2022-01",
+          "2022-02",
+          "2022-03",
+          "2022-04",
+          "2022-05",
+          "2022-06",
+          "2022-07",
+          "2022-08",
+          "2022-09",
+          "2022-10"
+        ],
+        "value": [
+          200,
+          300,
+          700,
+          1000,
+          666,
+          888,
+          300,
+          330,
+          800,
+          1000,
+          1100,
+          300
+        ]
+      }
+    ],
+    "liveAnimalTrade": {
+      "tradeMoney": 430,
+      "tradeAmount": 220
+    },
+    "liveAnimalTradeTrend": [
+      {
+        "kind": "牛",
+        "label": [
+          "2021-11",
+          "2021-12",
+          "2022-01",
+          "2022-02",
+          "2022-03",
+          "2022-04",
+          "2022-05",
+          "2022-06",
+          "2022-07",
+          "2022-08",
+          "2022-09",
+          "2022-10"
+        ],
+        "value": [
+          200,
+          300,
+          700,
+          1000,
+          666,
+          888,
+          300,
+          330,
+          800,
+          1000,
+          1100,
+          300
+        ]
+      },
+      {
+        "kind": "羊",
+        "label": [
+          "2021-11",
+          "2021-12",
+          "2022-01",
+          "2022-02",
+          "2022-03",
+          "2022-04",
+          "2022-05",
+          "2022-06",
+          "2022-07",
+          "2022-08",
+          "2022-09",
+          "2022-10"
+        ],
+        "value": [
+          200,
+          300,
+          700,
+          1000,
+          666,
+          888,
+          300,
+          330,
+          800,
+          1000,
+          1100,
+          300
+        ]
+      },
+      {
+        "kind": "猪",
+        "label": [
+          "2021-11",
+          "2021-12",
+          "2022-01",
+          "2022-02",
+          "2022-03",
+          "2022-04",
+          "2022-05",
+          "2022-06",
+          "2022-07",
+          "2022-08",
+          "2022-09",
+          "2022-10"
+        ],
+        "value": [
+          200,
+          300,
+          700,
+          1000,
+          666,
+          888,
+          300,
+          330,
+          800,
+          1000,
+          1100,
+          300
+        ]
+      },
+      {
+        "kind": "鸡",
+        "label": [
+          "2021-11",
+          "2021-12",
+          "2022-01",
+          "2022-02",
+          "2022-03",
+          "2022-04",
+          "2022-05",
+          "2022-06",
+          "2022-07",
+          "2022-08",
+          "2022-09",
+          "2022-10"
+        ],
+        "value": [
+          200,
+          300,
+          700,
+          1000,
+          666,
+          888,
+          300,
+          330,
+          800,
+          1000,
+          1100,
+          300
+        ]
+      }
+    ],
+    "kindDistribution": [
+      {
+        "label": "种公牛",
+        "value": "30"
+      },
+      {
+        "label": "基础母牛",
+        "value": "190"
+      },
+      {
+        "label": "母牛犊",
+        "value": "30"
+      },
+      {
+        "label": "公牛犊",
+        "value": "30"
+      }
+    ],
+    "slaughterTrade": {
+      "tradeMoney": 4170,
+      "cowQuantity": 0,
+      "sheepQuantity": 28750
+    },
+    "entranceQuantity": [
+      {
+        "title": "牛",
+        "label": [
+          "2021-11",
+          "2021-12",
+          "2022-01",
+          "2022-02",
+          "2022-03",
+          "2022-04",
+          "2022-05",
+          "2022-06",
+          "2022-07",
+          "2022-08",
+          "2022-09",
+          "2022-10"
+        ],
+        "value": [
+          200,
+          300,
+          700,
+          1000,
+          666,
+          888,
+          300,
+          330,
+          800,
+          1000,
+          1100,
+          300
+        ]
+      },
+      {
+        "title": "羊",
+        "label": [
+          "2021-11",
+          "2021-12",
+          "2022-01",
+          "2022-02",
+          "2022-03",
+          "2022-04",
+          "2022-05",
+          "2022-06",
+          "2022-07",
+          "2022-08",
+          "2022-09",
+          "2022-10"
+        ],
+        "value": [
+          200,
+          300,
+          700,
+          1000,
+          666,
+          888,
+          300,
+          330,
+          800,
+          1000,
+          1100,
+          300
+        ]
+      }
+    ],
+    "goodsServiceTrade": {
+      "tradeMoney": 0,
+      "tradeOrder": 0
+    },
+    "goodsServiceTradeTrend": {
+      "label": [
+        "2021-11",
+        "2021-12",
+        "2022-01",
+        "2022-02",
+        "2022-03",
+        "2022-04",
+        "2022-05",
+        "2022-06",
+        "2022-07",
+        "2022-08",
+        "2022-09",
+        "2022-10"
+      ],
+      "value": [
+        200,
+        300,
+        700,
+        1000,
+        666,
+        888,
+        300,
+        330,
+        800,
+        1000,
+        1100,
+        300
+      ]
+    },
+    "goodsTradeKindDistribution": {
+      "label": [
+        "饲料",
+        "草料",
+        "预混料",
+        "兽药",
+        "精饲料",
+        "农机"
+      ],
+      "value": [
+        250,
+        300,
+        1888,
+        769,
+        1200,
+        476
+      ]
+    }
+  }
+}

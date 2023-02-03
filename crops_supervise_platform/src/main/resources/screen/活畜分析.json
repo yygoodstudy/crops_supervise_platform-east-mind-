@@ -1,0 +1,618 @@
+{
+  "head": {
+    "cowLivestockCount": 13820,
+    "sheepLivestockCount": 236800,
+    "bossyLivestockCount": 9620,
+    "breedingOxenCount": 100,
+    "areaCowImmuneDensity": "85.20%",
+    "areaCowSheepDensity": "80.25%",
+    "fourthQuarterCases": 257
+  },
+  "livestockKindDis": {
+    "cow": {
+      "label": ["种公牛","基础母牛","犊牛","育肥公牛","育成牛"],
+      "value": [100,5500,4800,2800,620]
+    },
+    "sheep": {
+      "label": ["种公牛","基础母牛","犊牛","育肥公牛","育成牛"],
+      "value": [430,550,2400,1360,1423]
+    }
+  },
+  "marketDynamicState": {
+    "cow": {
+      "nearThreeMonth": {
+        "cropAmount":201,
+        "rate": "16.21%",
+        "flag": 0,
+        "label": [],
+        "value": []
+      },
+      "nearSixMonth": {
+        "cropAmount":201,
+        "rate": "16.21%",
+        "flag": 0,
+        "label": [],
+        "value": []
+      },
+      "thisYear": {
+        "cropAmount":15300,
+        "rate": "16.21%",
+        "flag": 0,
+        "label": [],
+        "value": []
+      }
+    },
+    "sheep": {
+      "nearThreeMonth": {
+        "cropAmount":201,
+        "rate": "16.21%",
+        "flag": 0,
+        "label": [],
+        "value": []
+      },
+      "nearSixMonth": {
+        "cropAmount":201,
+        "rate": "16.21%",
+        "flag": 0,
+        "label": [],
+        "value": []
+      },
+      "thisYear": {
+        "cropAmount":15300,
+        "rate": "16.21%",
+        "flag": 0,
+        "label": [],
+        "value": []
+      }
+    }
+  },
+  "bossyBreedOverview": {
+    "breedingRate": "93.20%",
+    "joinBreedingRate": "82%",
+    "abortionRate": "32.85%",
+    "pregnancyRate": "93.41%",
+    "survivalRate": "93.65%"
+  },
+  "map": {
+    "livestockDis": [
+      {
+        "city": "阿拉善盟",
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "乌海市",
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "巴彦淖尔市",
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "鄂尔多斯市",
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "包头市",
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "呼和浩特市",
+        "account": 455,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "乌兰察布市",
+        "account": 530,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "锡林郭勒盟",
+        "account": 12187,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "赤峰市",
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "通辽市",
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "兴安盟",
+        "account": 0,
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "呼伦贝尔市",
+        "account": 1650,
+        "position": [
+          119.75,
+          49.21
+        ]
+      }
+],
+    "diseaseDis":{
+      "three":  [
+        {
+          "city": "阿拉善盟",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "乌海市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "巴彦淖尔市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "鄂尔多斯市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "包头市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "呼和浩特市",
+          "account": 25,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "乌兰察布市",
+          "account": 35,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "锡林郭勒盟",
+          "account": 291,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "赤峰市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "通辽市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "兴安盟",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "呼伦贝尔市",
+          "account": 58,
+          "position": [
+            119.75,
+            49.21
+          ]
+        }
+      ],
+      "six":  [
+        {
+          "city": "阿拉善盟",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "乌海市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "巴彦淖尔市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "鄂尔多斯市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "包头市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "呼和浩特市",
+          "account": 56,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "乌兰察布市",
+          "account": 69,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "锡林郭勒盟",
+          "account": 556,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "赤峰市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "通辽市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "兴安盟",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "呼伦贝尔市",
+          "account": 112,
+          "position": [
+            119.75,
+            49.21
+          ]
+        }
+      ],
+      "year":  [
+        {
+          "city": "阿拉善盟",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "乌海市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "巴彦淖尔市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "鄂尔多斯市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "包头市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "呼和浩特市",
+          "account": 98,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "乌兰察布市",
+          "account": 105,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "锡林郭勒盟",
+          "account": 1247,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "赤峰市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "通辽市",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "兴安盟",
+          "account": 0,
+          "position": [
+            119.75,
+            49.21
+          ]
+        },
+        {
+          "city": "呼伦贝尔市",
+          "account": 230,
+          "position": [
+            119.75,
+            49.21
+          ]
+        }
+      ]
+    },
+    "breedingDis":  [
+      {
+        "city": "阿拉善盟",
+        "account": "0.00%",
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "乌海市",
+        "account": "0.00%",
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "巴彦淖尔市",
+        "account": "0.00%",
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "鄂尔多斯市",
+        "account": "10.00%",
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "包头市",
+        "account": "10.00%",
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "呼和浩特市",
+        "account": "2.01%",
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "乌兰察布市",
+        "account": "3.29%",
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "锡林郭勒盟",
+        "account": "79.93%",
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "赤峰市",
+        "account": "0.00%",
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "通辽市",
+        "account": "0.00%",
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "兴安盟",
+        "account": "10.00%",
+        "position": [
+          119.75,
+          49.21
+        ]
+      },
+      {
+        "city": "呼伦贝尔市",
+        "account": "14.77%",
+        "position": [
+          119.75,
+          49.21
+        ]
+      }
+    ]
+  },
+  "animalAntiOverview":{
+    "three": {
+      "cowAttackCount": 409,
+      "sheepAttackCount": 580,
+      "cow": {
+        "label": [],
+        "value": []
+      },
+      "sheep": {
+        "label": [],
+        "value": []
+      }
+    },
+    "six": {
+      "cowAttackCount": 793,
+      "sheepAttackCount": 1013,
+      "cow": {
+        "label": [],
+        "value": []
+      },
+      "sheep": {
+        "label": [],
+        "value": []
+      }
+    },
+    "year": {
+      "cowAttackCount": 1680,
+      "sheepAttackCount": 2582,
+      "cow": {
+        "label": [],
+        "value": []
+      },
+      "sheep": {
+        "label": [],
+        "value": []
+      }
+    }
+  },
+  "entityDis": {
+    "cow": {
+      "label": ["感冒","腹泻","腹胀","异食癖","肺炎","牛口炎","胸膜炎"],
+      "value": [820,573,120,85,52,18,12]
+    },
+    "sheep": {
+      "label": ["腹泻","感冒","羊肺炎","羊口疮","羊肺炎","咳嗽"],
+      "value": [823,736,435,258,234,96]
+    }
+  }
+}

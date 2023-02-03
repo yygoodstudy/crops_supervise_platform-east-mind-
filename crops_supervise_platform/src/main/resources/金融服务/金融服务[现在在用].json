@@ -1,0 +1,733 @@
+{
+  "financialSupervisionDis": {
+    "进行中": {
+      "supervisionTotalCount": 129,
+      "totalMoney": 5.681
+    },
+    "全部": {
+      "supervisionTotalCount": 143,
+      "totalMoney": 6.651
+    }
+  },
+  "areaDis": [
+    {
+      "city": "阿拉善盟",
+      "account": 0,
+      "money": 0,
+      "position": [
+        119.75,
+        49.21
+      ]
+    },
+    {
+      "city": "乌海市",
+      "account": 0,
+      "money": 0,
+      "position": [
+        119.75,
+        49.21
+      ]
+    },
+    {
+      "city": "巴彦淖尔市",
+      "account": 0,
+      "money": 0,
+      "position": [
+        119.75,
+        49.21
+      ]
+    },
+    {
+      "city": "鄂尔多斯市",
+      "account": 4,
+      "money": 0.076,
+      "position": [
+        119.75,
+        49.21
+      ]
+    },
+    {
+      "city": "包头市",
+      "account": 0,
+      "money": 0,
+      "position": [
+        119.75,
+        49.21
+      ]
+    },
+    {
+      "city": "呼和浩特市",
+      "account": 0,
+      "money": 0,
+      "position": [
+        119.75,
+        49.21
+      ]
+    },
+    {
+      "city": "乌兰察布市",
+      "account": 0,
+      "money": 0,
+      "position": [
+        119.75,
+        49.21
+      ]
+    },
+    {
+      "city": "锡林郭勒盟",
+      "account": 139,
+      "money": 6.575,
+      "position": [
+        119.75,
+        49.21
+      ]
+    },
+    {
+      "city": "赤峰市",
+      "account": 0,
+      "money": 0,
+      "position": [
+        119.75,
+        49.21
+      ]
+    },
+    {
+      "city": "通辽市",
+      "account": 0,
+      "money": 0,
+      "position": [
+        119.75,
+        49.21
+      ]
+    },
+    {
+      "city": "兴安盟",
+      "account": 0,
+      "money": 0,
+      "position": [
+        119.75,
+        49.21
+      ]
+    },
+    {
+      "city": "呼伦贝尔市",
+      "account": 0,
+      "money": 0,
+      "position": [
+        119.75,
+        49.21
+      ]
+    }
+  ],
+  "superviseWarning": [
+    {
+      "title": "活体监管",
+      "label": [
+        "序号",
+        "预警日期",
+        "客户姓名",
+        "贷款金额(万)",
+        "活畜数量(头)",
+        "缺失数量(头)",
+        "银行",
+        "客户经理",
+        "监管员"
+      ],
+      "value": [
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-10-16",
+          "customerName": "李树峰",
+          "loanAmount": 111,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "额吉淖尔支行",
+          "customerManager": "杨杰",
+          "supervisor": "杨杰"
+        },
+        {
+          "serialNumber": "02",
+          "warningDate": "2022-10-16",
+          "customerName": "中禾恒瑞",
+          "loanAmount": 2250,
+          "animalQuantity": 0,
+          "missingQuantity": 0,
+          "bank": "蒙元分理处",
+          "customerManager": "王杰",
+          "supervisor": "巴根那"
+        }
+      ]
+    },
+    {
+      "title": "仓单监管",
+      "label": [
+        "序号",
+        "预警日期",
+        "客户姓名",
+        "贷款金额(万)",
+        "或许数量(头)",
+        "缺失数量(头)",
+        "银行",
+        "客户经理",
+        "监管员"
+      ],
+      "value": [
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.3,
+          "animalQuantity": 111,
+          "missingQuantity": 123,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.9,
+          "animalQuantity": 110,
+          "missingQuantity": 145,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.1,
+          "animalQuantity": 123,
+          "missingQuantity": 231,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 15.2,
+          "animalQuantity": 160,
+          "missingQuantity": 145,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 17.2,
+          "animalQuantity": 120,
+          "missingQuantity": 130,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        }
+      ]
+    },
+    {
+      "title": "无货仓单监管",
+      "label": [
+        "序号",
+        "预警日期",
+        "客户姓名",
+        "贷款金额(万)",
+        "或许数量(头)",
+        "缺失数量(头)",
+        "银行",
+        "客户经理",
+        "监管员"
+      ],
+      "value": [
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 133,
+          "missingQuantity": 133,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        }
+      ]
+    },
+    {
+      "title": "资金流向监管",
+      "label": [
+        "序号",
+        "预警日期",
+        "客户姓名",
+        "贷款金额(万)",
+        "或许数量(头)",
+        "缺失数量(头)",
+        "银行",
+        "客户经理",
+        "监管员"
+      ],
+      "value": [
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 17.2,
+          "animalQuantity": 111,
+          "missingQuantity": 99,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        },
+        {
+          "serialNumber": "01",
+          "warningDate": "2022-09-08",
+          "customerName": "李树峰",
+          "loanAmount": 16.2,
+          "animalQuantity": 120,
+          "missingQuantity": 120,
+          "bank": "西安银行",
+          "customerManager": "杨杰",
+          "supervisor": "马尔扎哈"
+        }
+      ]
+    }
+  ],
+  "superviseIncreaseTrend": [
+    {
+      "title": "监管金额",
+      "label": [
+        "2022-04",
+        "2022-05",
+        "2022-06",
+        "2022-07",
+        "2022-08",
+        "2022-09",
+        "2022-10"
+      ],
+      "value": [
+        2960,
+        5233,
+        4495,
+        8086,
+        1930,
+        6911,
+        1091
+      ]
+    },
+    {
+      "title": "监管笔数",
+      "label": [
+        "2022-04",
+        "2022-05",
+        "2022-06",
+        "2022-07",
+        "2022-08",
+        "2022-09",
+        "2022-10"
+      ],
+      "value": [
+        6,
+        13,
+        10,
+        6,
+        3,
+        7,
+        2
+      ]
+    }
+  ],
+  "productDis": [
+    {
+      "title": "进行中",
+      "活体监管": 25,
+      "仓单监管": 21,
+      "无货仓单监管": 12,
+      "资金流向监管": 122
+    },
+    {
+      "title": "全部",
+      "活体监管": 22,
+      "仓单监管": 30,
+      "无货仓单监管": 21,
+      "资金流向监管": 116
+    }
+  ],
+  "capitalFlow": [
+    {
+      "label": "活畜交易",
+      "value": 3600
+    },
+    {
+      "label": "屠宰收购",
+      "value": 1200
+    },
+    {
+      "label": "饲料",
+      "value": 3200
+    },
+    {
+      "label": "饲草",
+      "value": 1100
+    },
+    {
+      "label": "玉米",
+      "value": 900
+    }
+  ],
+  "latePaymentInfo": {
+    "totalOverdueAmount": 66.5,
+    "relevantBank": 2,
+    "label": [
+      "序号",
+      "客户姓名",
+      "贷款金额(万)",
+      "还款金额(万)",
+      "监管产品",
+      "还款日期",
+      "逾期金额(万)",
+      "逾期天数(天)",
+      "贷款银行",
+      "客户经理",
+      "监管员"
+    ],
+    "value": [
+      {
+        "serialNumber": "01",
+        "customerName": "苏雅拉图",
+        "loanAmount": "55",
+        "repaymentAmount": "0",
+        "superviseProduct": "活体监管",
+        "paymentDate": "2022-12-08",
+        "overdueAmount": 2.6,
+        "overdueDays": 18,
+        "lendingBank": "额吉淖尔支行",
+        "customerManager": "杨杰",
+        "supervisor": "那仁宝拉格"
+      },
+      {
+        "serialNumber": "02",
+        "customerName": "乌力吉门德",
+        "loanAmount": "100",
+        "repaymentAmount": "0",
+        "superviseProduct": "活体监管",
+        "paymentDate": "2022-12-08",
+        "overdueAmount": 2.6,
+        "overdueDays": 18,
+        "lendingBank": "额吉淖尔支行",
+        "customerManager": "杨杰",
+        "supervisor": "巴根那"
+      }
+    ]
+  }
+}
