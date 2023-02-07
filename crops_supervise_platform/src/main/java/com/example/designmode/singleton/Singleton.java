@@ -1,4 +1,4 @@
-package com.example.designmode.singleton.lazy;
+package com.example.designmode.singleton;
 
 /**
  * <h3 style="color:yellow">懒汉式单例模式：只有在需要的时候才创建对象</h3>

@@ -1,4 +1,4 @@
-package com.example.designmode.singleton.lazy;
+package com.example.designmode.singleton;
 
 /**
  * @Author yuanyao

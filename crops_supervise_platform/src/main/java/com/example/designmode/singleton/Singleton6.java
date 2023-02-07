@@ -1,8 +1,8 @@
-package com.example.designmode.singleton.lazy;
+package com.example.designmode.singleton;
 
 /**
- * 双重校验锁
- *
+ * 懒汉模式：双重校验锁
+ * 双重校验锁机制既保证了线程的安全性，又比直接上锁提高了执行效率，还节省了内存空间
  * @Author yuanyao
  * @Date 2023/2/3
  */

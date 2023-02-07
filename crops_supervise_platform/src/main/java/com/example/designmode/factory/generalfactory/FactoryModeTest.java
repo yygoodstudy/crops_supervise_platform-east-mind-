@@ -1,6 +1,8 @@
 package com.example.designmode.factory.generalfactory;
 
 /**
+ * 普通工厂方法模式
+ *
  * @Author yuanyao
  * @Date 2023/2/2
  */
